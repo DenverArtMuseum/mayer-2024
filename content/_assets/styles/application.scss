@@ -5,20 +5,31 @@
 @import "colors";
 @import "variables";
 
+/* TODO: Get rid of Bulma.
+         Big project. Possibly not worth the effort, but worth investigating.
+         The thing that annoys me the most about Bulma is that it forces us to
+         use px units in media queries. Ripping Bulma out isn't that hard,
+         but it does make it harder to update to newer Quire features. It makes
+         me wonder what else Bulma is doing wrong, though.
+*/
+
+
 // Bulma Overrides
 // -----------------------------------------------------------------------------
 // This Quire theme is built on the Bulma CSS framework (https://bulma.io/), the
 // following variables are standard in Bulma, but are also used in, and
 // in some cases modified for, Quire as well.
 $gap: 16px;
-$tablet: 500px;
-$desktop: 700px;
+// TODO: will need to fine-tune breakpoints while fixing navbar and other page elements
+$tablet: 600px; 
+$desktop: 1024px; // TODO: Will definitely need to evaluate this one
+$widescreen: 1152px + (2 * $gap); 
 $fullhd: 1344px + (2 * $gap);
-$widescreen: 1152px + (2 * $gap);
+// TODO: Why is box-shadow defined here of all places? Find all uses
 $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;
 
 :root {
-  --gap: #{$gap};
+  --gap: #{$gap}; // TODO: find all uses
 }
 
 @import "bulma-components";
@@ -26,3 +37,4 @@ $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;
 @import "layout";
 @import "components/all";
 @import "print";
+@import "custom";

@@ -368,6 +368,7 @@ $print-trim: $print-bleed * 2;
     max-width: $print-base-text-column-width;
   }
 
+  // TODO: What? screen in print seems contradictory. Investigate this.
   @media screen {
     .quire-page__abstract {
       column-span: all;
@@ -380,6 +381,7 @@ $print-trim: $print-bleed * 2;
     max-width: $print-base-text-column-width;
   }
 
+  // TODO: What? screen in print seems contradictory. Investigate this.
   @media screen {
     .quire-page__abstract {
       column-span: all;

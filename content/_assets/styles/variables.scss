@@ -39,7 +39,9 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
-$quire-menu-width: 352px;
+// TODO: find every instance of this use. Some of it is probably better served
+//       as a proportion of the screen width.
+$quire-menu-width: 22rem; // was 352px. Nope to px
 
 $quire-menu-color: $off-black;
 $quire-menu-text-color: $white;

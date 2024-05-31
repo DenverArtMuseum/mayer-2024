@@ -16,7 +16,15 @@
 // html
 // -----------------------------------------------------------------------------
 html {
-  font-size: $quire-base-font-size;
+  // If you want to change base font size for all pages, do it in body.
+  // This keeps rem more predictably useful for things like @media queries.
+  // Using rems in media query breakpoints makes pages more accessible for
+  // visitors who use text zoom for visual disabilities because the layout can
+  // switch to a tablet or mobile breakpoint if the text size pushes it past
+  // the point where the current layout breaks.
+  font-size: 100%; // 16px 
+
+  // TODO: Evaluate all print styles. try to move this to body as well
   @media print {
     font-size: $print-base-font-size;
   }
@@ -37,6 +45,11 @@ html {
                                   supported by Chrome and Opera */
   }
   overflow-y: visible;
+}
+
+// Set base font size. Use rems instead of px.
+body {
+  font-size: px-to-rem($quire-base-font-size);
 }
 
 // .quire-page
