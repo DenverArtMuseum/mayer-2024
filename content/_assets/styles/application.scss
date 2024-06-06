@@ -13,7 +13,6 @@
          me wonder what else Bulma is doing wrong, though.
 */
 
-
 // Bulma Overrides
 // -----------------------------------------------------------------------------
 // This Quire theme is built on the Bulma CSS framework (https://bulma.io/), the
@@ -22,8 +21,8 @@
 $gap: 16px;
 // TODO: will need to fine-tune breakpoints while fixing navbar and other page elements
 $tablet: 600px; 
-$desktop: 1024px; // TODO: Will definitely need to evaluate this one
-$widescreen: 1152px + (2 * $gap); 
+$desktop: 1024px; 
+$widescreen: 1152px + (2 * $gap);  // TODO: why $gap?
 $fullhd: 1344px + (2 * $gap);
 // TODO: Why is box-shadow defined here of all places? Find all uses
 $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;

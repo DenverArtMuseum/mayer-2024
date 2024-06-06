@@ -9,11 +9,17 @@
 $accent-color: null;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
+// TODO: find all link styles and rewrite them
+$link-color: #0000ff; // main content link color (default for all links)
+$navbar-link-color: $link-color !default;
+$menu-link-color: $link-color !default;
 
 // Declare the theme: modern/classic
+// TODO: do we need this? We've never used classic
 $theme: modern;
 
 // Declare the navbar color style: normal/accent
+// TODO: We can do more than this
 $navbar: normal;
 
 
@@ -29,7 +35,7 @@ $times-serif: Times, serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
+$quire-base-font-size: 16px; // TODO: never define type in px
 $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
