@@ -1,0 +1,35 @@
+
+/*=========================================================
+ # If using Japanese text and using a Japanese typeface
+ # uncomment below :lang(ja) selector and properties.
+ # Tweak as necessary, but the rule below should be a
+ # good starting point.
+ ========================================================*/ 
+/* // BEGIN :lang(ja) selector
+:lang(ja) {
+  // typeface declarion
+  font-family: $typeface-zenkaku;
+  // prevent italics for Japanese text
+  font-style: normal !important;
+  // Line break setting for Japanese text in English surrounding context
+  word-break: keep-all;
+  // reset any site-wide font customizations for Japanese text
+  -webkit-font-feature-settings: normal;
+  -moz-font-feature-settings: normal;
+  font-feature-settings: normal;
+
+  // Adjust font-size and line-height to blend with Latin typeface.
+  // Example below to use as a starting point (will likely need to be tweaked)
+  // May need to customize for headers and other differing text formats
+  // Goal is to make character height match English text height while preserving
+  // line-height of the original context
+  // Below example is based on line-height of 1.4 for English text
+  font-size: 0.9em;
+  line-height: 1.55555;
+
+  @media print {
+    word-break: break-word;
+  }
+}
+*/ // END :lang(ja) selector
+

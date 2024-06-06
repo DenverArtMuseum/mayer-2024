@@ -22,6 +22,9 @@ html {
   // visitors who use text zoom for visual disabilities because the layout can
   // switch to a tablet or mobile breakpoint if the text size pushes it past
   // the point where the current layout breaks.
+  // Bulma does media queries 100% wrong, and won't let us easily change it,
+  // but start engaging in good habits now so that it will be easier to strip
+  // Bulma out of Quire completely some day (which really should happen).
   font-size: 100%; // 16px 
 
   // TODO: Evaluate all print styles. try to move this to body as well
@@ -47,9 +50,16 @@ html {
   overflow-y: visible;
 }
 
-// Set base font size. Use rems instead of px.
+// Set base font size. We do this here instead of html because
+// we want rems to be a predictable 16px at 100% zoom, AND we
+// want it to change with zoom, AND we want to have the option of
+// changing html font-size on larger screen sizes and letting it
+// cascade down.
+// If we could rewrite the media query mixins to use rems, that would
+// be great, and much more accessible, but Bulma sucks and won't let us
+// do that.
 body {
-  font-size: px-to-rem($quire-base-font-size);
+  font-size: $quire-base-font-size;
 }
 
 // .quire-page

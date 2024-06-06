@@ -5,7 +5,30 @@
 // ! Comment out the entries you don't need.
 // ! Delete font files that aren't used.
 
-// Utility function definition
+// DAM Template notes: changes made to Quire's defaults
+// -----------------------------------------------------------------------------
+// The default Quire fonts are all commented out here, because we never use
+// them. Our preferred typefaces are included, but not all available by default.
+//
+//  - The default available typefaces are Inter and Montserrat. Defined first
+//    in the file.
+//  - Raleway and Zen Kaku Gothic New (Japanese typeface) are in here as well,
+//    but commented out by default.
+//  - All of our preferred typefaces are variable fonts except for Zen Kaku
+//    Gothic New, for which we have the three most useful weights.
+//  - Sadly, none of these variable typefaces implement italics as a variable.
+//    So we still have at least two font files per typeface, but they're
+//    relatively small because we aren't using files for every weight.
+//
+// Both Montserrat and Raleway are available in files split by character set.
+// Monteserrat has only the common Latin character set enabled by default, but
+// the full range of extended Latin and Cyrillic characters is available if
+// you uncomment the appropriate sections below. Raleway can be enabled by
+// character set as well if you choose to use it instead.
+// -----------------------------------------------------------------------------
+
+
+// Utility font-file path function definition. Leave this alone.
 $assets-dir: "/_assets/" !default;
 
 @function font($file) {
@@ -84,19 +107,20 @@ $assets-dir: "/_assets/" !default;
 //   Sami, Serbo-Croation, Slovak, Slovene, Tatar, Turkish, Turkmen, Welsh
 //
 // May also include some African languages:
+// (keep in mind for the African Collection companion guide)
 //   Bari, Bambara, Berber (Tuareg), Chichewa (Chewa), Dagbani, Dinka, Fula, Hausa,
 //   Igbo, Malagasy, Pan-Nigerian, Wolof, Yoruba
 //
 // May also include some almost-vanished languages, pinyins, and dead languages.
-// (Not listed here because it's super long and not really that helpful. If you're
-// missing some characters, you'll notice it and then include this set to see if it
-// fixes the problem)
+// (Not listed here because it's a super long list and not really that helpful.
+// If you're missing some characters, you'll notice it and then include this set
+// to see if it fixes the problem)
 //
 // May also include some commonly used characters in transliteration, so if we
 // make a publication with lots of Pinyin transliterations (or similar), I guess
-// include Latin Extended?
+// include Latin Extended? Scholarly publications get weird sometimes, I don't know.
 //
-/* Comment out unless you need something from of the languages listed above
+/* Comment out unless you need something from one of the languages listed above
 @font-face {
   font-family: 'Montserrat Variable';
   font-style: normal;
@@ -118,7 +142,8 @@ $assets-dir: "/_assets/" !default;
 
 // Montserrat Vietnamese
 //
-// Mostly extended latin characters (yes, more) but specifically for use with Vietnamese.
+// Mostly extended latin characters (yes, even more) but specifically for use
+// with Vietnamese.
 //
 /* Probably not going to need most of the time
 @font-face {
@@ -142,6 +167,11 @@ $assets-dir: "/_assets/" !default;
 
 // Montserrat Cyrillic
 //
+// If we're doing a bunch of Cyrillic text in our labels, then our institutional
+// publication practices have changed dramatically. Not going to list everything
+// here or for Cyrillic extended. If it comes up look it up. Google keeps changing
+// the address for the docs on this stuff without redirects, so you'll literally
+// have to google it.
 /* Probaby not going to need most of the time
 @font-face {
   font-family: 'Montserrat Variable';
@@ -186,6 +216,8 @@ $assets-dir: "/_assets/" !default;
 
 ////
 // Raleway
+// https://github.com/impallari/Raleway
+// Open Font License 1.1 (https://scripts.sil.org/OFL)
 //
 // This is another Google font so it's another font broken up by character sets.
 // Look at the Montserrat entries above for explanations of which languages are
@@ -301,7 +333,7 @@ $assets-dir: "/_assets/" !default;
 //
 // You'd be surprised how often we need Japanese text in our publications.
 // 
-// lang('ja') { font-family: Zen Kaku Gothic New; } 
+// :lang(ja) { font-family: Zen Kaku Gothic New; } 
 // Be sure to markup Japanese text appropriately
 //
 
@@ -372,10 +404,8 @@ $assets-dir: "/_assets/" !default;
 // https://github.com/IBM/plex
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
 //
-// Commented out by default because it's a plain-ass looking font.
-// Weird choice, Getty.
-// TODO: Get rid of this font everywhere it is used
-//
+
+/*
 // IBM Plex Sans Condensed Regular
 @font-face {
   font-family: "IBM Plex Sans Condensed";
@@ -419,19 +449,24 @@ $assets-dir: "/_assets/" !default;
   font-weight: 700;
   font-style: italic;
 }
+*/
 
 ////
 // Noto Serif
 // https://github.com/googlei18n/noto-fonts
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
 //
-// Noto is… fine… I guess. Pretty unassuming typeface.
-// One thing Noto has going for it is it's absurdly wide character support.
-// If you want a consistent looking typeface for like a hundred different
-// languages, this is probably your best (maybe only) option.
+// One thing Noto (Sans and Serif) has going for it is it's absurdly broad
+// character support. If you want a consistent looking typeface for like a
+// few hundred different languages, this is probably your best (maybe only)
+// option. Noto supports almost the entire Unicode natural language set.
+// You can even find CJK variants. If we ever need to make a publication
+// with Navajo or other Indigenous language characters in it, this and
+// Montserrat might be our only options. (might have to use non-Google
+// files for Montserrat in that circumstance, though)
 //
-// We don't use it much, because it's as boring as Helvetica.
-//
+
+/*
 // Noto Serif Regular
 @font-face {
   font-family: "Noto Serif";
@@ -524,3 +559,4 @@ $assets-dir: "/_assets/" !default;
   font-weight: 700;
   font-style: italic;
 }
+*/
