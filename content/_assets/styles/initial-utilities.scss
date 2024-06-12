@@ -1,0 +1,21 @@
+// =============================================================================
+// initial-utilities.scss
+// -----------------------------------------------------------------------------
+// Mixins and functions needed before variable declarations.
+// -----------------------------------------------------------------------------
+
+@use 'sass:math'; // Really, why isn't this @used by default in SASS?
+
+/**************************************************************************
+* px-to-rem( <length in pixels> [, <root font size in pixels>] )
+* Universally useful conversion function for lengths/sizes
+*
+* Assumes that root element font-size (rem) is 16px, but can be overidden
+* using optional second parameter. Probably don't need to override if
+* writing best-practice CSS.
+* Might not need at all if using CSS calc(), but that's not always an 
+* option (in @media queries, for example).
+*************************************************************************/
+@function px-to-rem($pixels, $root: 16px) {
+  @return math.div($pixels, $root) * 1rem;
+}
