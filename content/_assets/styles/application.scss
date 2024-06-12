@@ -18,17 +18,18 @@
 // This Quire theme is built on the Bulma CSS framework (https://bulma.io/), the
 // following variables are standard in Bulma, but are also used in, and
 // in some cases modified for, Quire as well.
-$gap: 16px;
+$gap: 1rem;
 // TODO: will need to fine-tune breakpoints while fixing navbar and other page elements
 $tablet: 600px; 
 $desktop: 1024px; 
-$widescreen: 1152px + (2 * $gap);  // TODO: why $gap?
-$fullhd: 1344px + (2 * $gap);
+$widescreen: 1184px;
+$fullhd: 1376px;
 // TODO: Why is box-shadow defined here of all places? Find all uses
+//       Again, not a single use anywhere. Why is this here?
 $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;
 
 :root {
-  --gap: #{$gap}; // TODO: find all uses
+  --gap: #{$gap}; // TODO: find all uses. DONE: There are no uses. Not a single one. so… delete?
 }
 
 @import "bulma-components";

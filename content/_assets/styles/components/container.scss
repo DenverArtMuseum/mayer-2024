@@ -1,8 +1,9 @@
-$gap: 16px !default;
+//$gap: 16px !default;
+$gap: 1rem !default;
 $tablet: 500px !default;
 $desktop: 700px !default;
-$fullhd: 1344px + (2 * $gap) !default;
-$widescreen: 1152px + (2 * $gap) !default;
+$fullhd: 1376 !default;
+$widescreen: 1184 !default;
 
 .container {
   margin-left: $gap;
@@ -18,8 +19,8 @@ $widescreen: 1152px + (2 * $gap) !default;
   }
   @include from($desktop) {
     margin: 0 auto;
-    max-width: $desktop + (1.25 * $gap);
-    width: $desktop + (1.25 * $gap);
+    max-width: px-to-rem($desktop) + (1.25 * $gap);
+    width: px-to-rem($desktop) + (1.25 * $gap);
     &.is-fluid {
       margin-left: 4 * $gap;
       margin-right: 4 * $gap;
@@ -29,13 +30,13 @@ $widescreen: 1152px + (2 * $gap) !default;
   }
   @include until($widescreen) {
     &.is-widescreen {
-      max-width: $widescreen - (4 * $gap);
+      max-width: px-to-rem($widescreen) - (4 * $gap);
       width: auto;
     }
   }
   @include until($fullhd) {
     &.is-fullhd {
-      max-width: $fullhd - (4 * $gap);
+      max-width: px-to-rem($fullhd) - (4 * $gap);
       width: auto;
     }
   }
