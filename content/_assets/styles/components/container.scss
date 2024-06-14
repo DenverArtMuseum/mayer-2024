@@ -1,9 +1,11 @@
 //$gap: 16px !default;
 $gap: 1rem !default;
-$tablet: 500px !default;
-$desktop: 700px !default;
-$fullhd: 1376 !default;
+$tablet: 600px !default;
+$desktop: 1024px !default;
+// TODO: Get rid of $widescreen. Probably move styles to $desktop breakpoint
 $widescreen: 1184 !default;
+// TODO: find all $fullhd uses. Evaluate usefulness
+$fullhd: 1376 !default; // This should probably be larger as well
 
 .container {
   margin-left: $gap;
@@ -19,24 +21,12 @@ $widescreen: 1184 !default;
   }
   @include from($desktop) {
     margin: 0 auto;
-    max-width: px-to-rem($desktop) + (1.25 * $gap);
-    width: px-to-rem($desktop) + (1.25 * $gap);
+    // TODO: Why is font-size ever set directly on .container and not its contents?
+    max-width: $quire-page-content-width; 
     &.is-fluid {
       margin-left: 4 * $gap;
       margin-right: 4 * $gap;
       max-width: none;
-      width: auto;
-    }
-  }
-  @include until($widescreen) {
-    &.is-widescreen {
-      max-width: px-to-rem($widescreen) - (4 * $gap);
-      width: auto;
-    }
-  }
-  @include until($fullhd) {
-    &.is-fullhd {
-      max-width: px-to-rem($fullhd) - (4 * $gap);
       width: auto;
     }
   }

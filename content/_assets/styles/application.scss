@@ -6,41 +6,7 @@
 @import "colors";
 @import "variables";
 
-/*
- * TODO: Get rid of Bulma.
- *   This is a big project. Possibly not worth the effort, but worth
- *   investigating.
- * 
- *   Reasons to remove Bulma:
- *   - It does media query breakpoints wrong. Don't use px. em/rem is more
- *     accessible.
- *   - Overuse of px throughout Bulma honestly. Again, less accessible AND
- *     harder to maintain component-driven design.
- *   - Quire isn't actually using Bulma that much. It's overriding a lot of it.
- *     And our customizations override even more. The way it's structured
- *     sometimes forces use of !important too, which... anger.
- *   - Quire doesn't really need a CSS framework. Like, it's a simple enough
- *     thing that Bulma introduces more complexity than it removes.
- *   - A lot of the layout challenges we encounter would be much easier to
- *     solve if we used grid instead of flexbox all the time. Bulma's columnar
- *     stuff is more than a decade out of date with modern practice. Basically,
- *     Bulma is old, and we could benefit from using more contemporary CSS.
- *   - Bulma constantly re-imports itself, meaning we can't override some of
- *     it's worse mixins with our own. This is kind of a flaw in SASS as
- *     much as Bulma, but until CSS mixins are finalized and supported it's
- *     what we have.
- *   - Don't know if this is Quire or Bulma, but using color shift functions
- *     all over the place for hover effects and whatnot is really rolling the
- *     dice on accessibility.
- *   
- *   Reasons not to remove Bulma:
- *   - It makes it a lot harder to update our template/publications to newer
- *     versions of Quire that might include features we want.
- *   - Any 3rd party devs we contract with who are used to Bulma-infused Quire
- *     would face a learning curve using our template. (But would also
- *     probably appreciate the improved maintainability.)
- *   - That's… it. Those are the reasons not to. Everything else is a win.
- */
+// TODO: Seriously evaluate dumping Bulma.
 
 // Bulma Overrides
 // -----------------------------------------------------------------------------

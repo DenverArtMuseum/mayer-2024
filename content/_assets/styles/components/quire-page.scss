@@ -22,7 +22,7 @@ html {
   // visitors who use text zoom for visual disabilities because the layout can
   // switch to a tablet or mobile breakpoint if the text size pushes it past
   // the point where the current layout breaks.
-  // Bulma does media queries 100% wrong, and won't let us easily change it,
+  // Bulma does media queries quite poorly, and won't let us easily change them,
   // but start engaging in good habits now so that it will be easier to strip
   // Bulma out of Quire completely some day (which really should happen).
   font-size: 100%; // 16px 
@@ -488,19 +488,13 @@ body {
 
     .container {
       background-color: $content-background-color;
-      padding: 2em 2.75em 0em;
+      padding: 2em 2.5rem 0em;
       margin: 0 auto;
-      max-width: px-to-rem($desktop) + (1.25 * $gap);
-      width: px-to-rem($desktop) + (1.25 * $gap);
       @media print {
         background-color: transparent;
         max-width: initial;
         width: initial;
         padding: 0;
-      }
-      @media screen and (max-width: $desktop) {
-        width: 100%;
-        max-width: 100%;
       }
 
       &:after {

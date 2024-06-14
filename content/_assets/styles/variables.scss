@@ -58,6 +58,16 @@ $typeface-zenkaku: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino
 $quire-base-font-size: 1.25rem; // 20px at 100% zoom
 $quire-page-paragraph-style: line-space; // or use indent
 
+// The ability to easily alter content size should have been included in Quire
+// So let's add it.
+$quire-base-type-padding-vert: 2.5rem;
+$quire-base-type-padding-horiz: 2.5rem;
+// Assuming we're using Montserrat, column width should be 64ch + padding
+// Assuming 20px font size because that's what we use the most
+// Adjust for smaller base-font-sizes: 16px = 43rem, 18px = 48
+// Adjust for different typefaces. Aim for readable ch width
+$quire-page-content-width: 53rem + (2 * $quire-base-type-padding-horiz);
+
 // Cover typography
 // -----------------------------------------------------------------------------
 $quire-cover-text-color: $white;
@@ -67,7 +77,7 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 // TODO: find every instance of this use. Some of it is probably better served
 //       as a proportion of the screen width.
-$quire-menu-width: 22rem; // was 352px. Nope to px
+$quire-menu-width: 22rem;
 
 $quire-menu-color: $off-black;
 $quire-menu-text-color: $white;
@@ -139,6 +149,8 @@ $quire-navigation-font: null; // navbar and next/prev buttons
 // Navbar
 // -----------------------------------------------------------------------------
 $navbar-height: 3rem;
+// TODO: Eliminate the progress bar. It's weird and not very helpful.
+//       No visitor knows what it is or what it represents.
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
@@ -183,12 +195,13 @@ $quire-cover-color-2: null;
 
 // Layout sizes
 // -----------------------------------------------------------------------------
+// TODO: track these down and see why they're hard-coded to pixels
 $quire-map-height: 500px;
 $quire-deepzoom-height: 500px;
 //  Heading Styles
 // -----------------------------------------------------------------------------
 
-$heading-1-font-size: 3em;
+$heading-1-font-size: 3rem;
 $heading-1-line-height: 1.15;
 $heading-2-font-size: 1.75rem;
 $heading-2-line-height: 1.15;

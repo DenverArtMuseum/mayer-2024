@@ -471,29 +471,11 @@
     }
 
     ol li {
-      float: left;
       width: 100%;
       font-size: 1rem;
 
-      @media screen and (min-width: $desktop) {
-        width: 50%;
-        &:nth-child(2n) + li {
-          clear: left;
-        }
-      }
-
-      @media screen and (min-width: $widescreen) {
-        width: 33%;
-        &:nth-child(2n) + li {
-          clear: none;
-        }
-        &:nth-child(3n) + li {
-          clear: left;
-        }
-      }
-
       .card {
-        min-height: 300px;
+        min-height: 300px; // TODO: make relative to font. Get rid of px.
         @media print {
           min-height: initial;
         }
@@ -709,6 +691,7 @@
       }
     }
 
+    // TODO: reconsider this with the goal of eliminating $widescreen breakpoint
     @media screen and (min-width: $widescreen) {
       @supports (display: grid) {
         ol {

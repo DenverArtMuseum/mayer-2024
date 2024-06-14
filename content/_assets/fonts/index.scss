@@ -15,18 +15,20 @@
 //  - Raleway and Zen Kaku Gothic New (Japanese typeface) are in here as well,
 //    but commented out by default.
 //  - All of our preferred typefaces are variable fonts except for Zen Kaku
-//    Gothic New, for which we have the three most useful weights.
-//  - Sadly, none of these variable typefaces implement italics as a variable.
-//    So we still have at least two font files per typeface, but they're
-//    relatively small because we aren't using files for every weight.
+//    Gothic New, for which we have included the three most useful weights.
+//  - Sadly, none of these variable typefaces implement italics as a variable
+//    property. So we still have at least two font files per typeface, but
+//    they're relatively small because we aren't using files for every weight.
 //
 // Both Montserrat and Raleway are available in files split by character set.
 // Monteserrat has only the common Latin character set enabled by default, but
 // the full range of extended Latin and Cyrillic characters is available if
 // you uncomment the appropriate sections below. Raleway can be enabled by
 // character set as well if you choose to use it instead.
+//
+// Notes are included with DAM preferred fonts on sizing. Critically, don't use
+// px for type sizing. Try to use modern, more accessible CSS.
 // -----------------------------------------------------------------------------
-
 
 // Utility font-file path function definition. Leave this alone.
 $assets-dir: "/_assets/" !default;
@@ -36,11 +38,21 @@ $assets-dir: "/_assets/" !default;
 }
 // end Utility
 
-////
+// -----------------------------------------------------------------------------
 // Inter Variable
 // https://github.com/rsms/inter
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
 // 
+// 0 is half of font-height so ch is super useful.
+// ex is small, so not so useful
+//
+// font-size       16px         18px         20px
+//        ch        8px          9px         10px
+//        ex     7.25px    8.16669px    9.06665px
+//
+// Readable content columns should be 70–80ch. Could also use 35–40em
+// Overall a narrow typeface
+//
 // InterVariable
 @font-face {
   font-family: InterVariable;
@@ -57,7 +69,7 @@ $assets-dir: "/_assets/" !default;
   src: font("inter/InterVariable-Italic.woff2") format("woff2");
 }
 
-////
+// -----------------------------------------------------------------------------
 // Montserrat Variable
 // https://github.com/fontsource/font-files/tree/main/fonts/google/montserrat
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
@@ -66,6 +78,16 @@ $assets-dir: "/_assets/" !default;
 //
 // This is a Google font so it's split up into character sets. Basic Latin is included
 // by default. Uncomment any other character sets you may need.
+//
+// Montserrat's 0 is pretty typical, so using typical ch amounts for width should work
+// x-height is slightly more than half of font-size, which might be useful
+//
+//    pixel size         16px         18px         20px
+// rational size         1rem     1.125rem      1.25rem
+//            ch       10.6px    11.9167px   13.23333px
+//            ex    8.26666px    9.29999px   10.33333px
+//
+// Readable column is 60–70ch (39–46em). 64ch (42.5em) Actually works really well.
 
 // Montserrat Latin
 // Latin includes characters for use in latin alphabet-using languages, including:
@@ -214,7 +236,7 @@ $assets-dir: "/_assets/" !default;
 }
 */
 
-////
+// -----------------------------------------------------------------------------
 // Raleway
 // https://github.com/impallari/Raleway
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
@@ -326,7 +348,7 @@ $assets-dir: "/_assets/" !default;
 */
 
 
-////
+// -----------------------------------------------------------------------------
 // Zen Kaku Gothic New
 // https://github.com/googlefonts/zen-kakugothic
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
@@ -405,6 +427,7 @@ $assets-dir: "/_assets/" !default;
 // Open Font License 1.1 (https://scripts.sil.org/OFL)
 //
 
+// -----------------------------------------------------------------------------
 /*
 // IBM Plex Sans Condensed Regular
 @font-face {
@@ -451,7 +474,7 @@ $assets-dir: "/_assets/" !default;
 }
 */
 
-////
+// -----------------------------------------------------------------------------
 // Noto Serif
 // https://github.com/googlei18n/noto-fonts
 // Open Font License 1.1 (https://scripts.sil.org/OFL)

@@ -60,7 +60,7 @@
       .hero-body {
         height: auto;
         // title/author box
-        .container {
+        .container { // TODO: what?
           width: 75%;
           padding-left: .75in;
         }
@@ -182,6 +182,8 @@
 
   .quire-page__content {
     padding-bottom: 0;
+    // TODO: these styles might be obsolete since I fixed content width
+    //       Have already deleted like half of them
     .container.is-fluid {
       .content {
         padding-top: 2em !important;
@@ -191,12 +193,6 @@
           line-height: 2em;
           font-family: $quire-primary-font;
         }
-      }
-      // TODO: nope to this shit. px has to go and be replaced with something sensible
-      @media screen and (min-width: 1028px) {
-        max-width: 900px;
-        width: 900px;
-        margin: 0 auto;
       }
       @media print {
         display: none;
