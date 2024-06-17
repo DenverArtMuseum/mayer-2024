@@ -3,6 +3,7 @@ $gap: 1rem !default;
 $tablet: 600px !default;
 $desktop: 1024px !default;
 // TODO: Get rid of $widescreen. Probably move styles to $desktop breakpoint
+//       Probably move most $desktop layout styles to $tablet?
 $widescreen: 1184 !default;
 // TODO: find all $fullhd uses. Evaluate usefulness
 $fullhd: 1376 !default; // This should probably be larger as well

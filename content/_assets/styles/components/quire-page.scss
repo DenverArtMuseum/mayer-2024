@@ -67,7 +67,7 @@ body {
 .quire-page {
 
   @media screen {
-    min-height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+    min-height: calc(100vh - #{$navbar-height});
   }
   @media print {
     min-height: calc($print-height - $print-top-margin - $print-bottom-margin);
@@ -651,9 +651,9 @@ body {
       }
     }
     &--full-height {
-      height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+      height: calc(100vh - #{$navbar-height});
       &.hero-image {
-        height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+        height: calc(100vh - #{$navbar-height});
         max-height: initial;
         .hero-body {
           @media print {
