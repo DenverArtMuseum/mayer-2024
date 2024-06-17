@@ -1,9 +1,20 @@
+/*
+ * Custom CSS Table of Contents
+ *
+ *   1. Japanese Text styles (if needed)
+ *   2. 
+ */
+
 
 /*=========================================================
- # If using Japanese text and using a Japanese typeface
+ # 1. If using Japanese text and using a Japanese typeface
  # uncomment below :lang(ja) selector and properties.
  # Tweak as necessary, but the rule below should be a
  # good starting point.
+ #
+ # This style assumes we are marking up Japanese text
+ # with appropriate lang="ja" attributes, which we should
+ # be doing anyway.
  ========================================================*/ 
 /* // BEGIN :lang(ja) selector
 :lang(ja) {
@@ -22,7 +33,7 @@
   // Example below to use as a starting point (will likely need to be tweaked)
   // May need to customize for headers and other differing text formats
   // Goal is to make character height match English text height while preserving
-  // line-height of the original context
+  // line-height of the surrounding context
   // Below example is based on line-height of 1.4 for English text
   font-size: 0.9em;
   line-height: 1.55555;
