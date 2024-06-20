@@ -86,7 +86,6 @@
       text-decoration: underline;
       text-decoration-style: dotted;
       text-decoration-color: $off-black;
-      text-underline-offset: .25rem;
       &:hover {
         text-decoration-style: solid;
         text-decoration-color: $accent-color;
@@ -144,7 +143,6 @@
         text-decoration: underline;
         text-decoration-style: dotted;
         text-decoration-color: background-color-text($secondary-background-color);
-        text-underline-offset: .25rem;
         @media print {
           border-width: 0;
         }
