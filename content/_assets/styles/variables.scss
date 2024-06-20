@@ -61,9 +61,7 @@ $typeface-zenkaku: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino
 
 // Page typography
 // -----------------------------------------------------------------------------
-// DAM: Quire's default size for type is too small. We rarely go below 20px.
-// TODO: adjust column sizes everywhere because they're too small, too.
-$quire-base-font-size: 1.25rem; // 20px at 100% zoom
+$quire-base-font-size: 1.25rem; // 20px at 100% zoom defined in rem for better a11y
 $quire-page-paragraph-style: line-space; // or use indent
 
 // The ability to easily alter content size should have been included in Quire
@@ -99,6 +97,7 @@ $quire-entry-image-color: $black;
 $quire-entry-image-icons-color: $white;
 
 // Active link and table-row color
+// TODO: WTF? and Why down here?
 // -----------------------------------------------------------------------------
 $quire-hover-color: $light-yellow;
 

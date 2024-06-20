@@ -44,8 +44,8 @@
       // color: $frcolor;
     }
   }
-  a { // TODO: Please tell me this isn't widespread throughout Quire
-    border-bottom-color: $frcolor !important;
+  a {
+    text-decoration-color: $frcolor !important;
   }
 }
 
