@@ -50,7 +50,7 @@
   }
 
   > a {
-    border: none;
+    border: none; // TODO: evaluate if this is needed anymore
 
     img {
       -webkit-transition: -webkit-box-shadow 0.35s;
@@ -177,9 +177,10 @@
     margin-right: .5rem;
     a {
       @if $theme == classic {
+        // ignored because we never use classic
         color: background-color-text-classic($content-background-color);
       } @else {
-        color: $accent-color;
+        color: $content-link-color;
       }
     }
     .q-figure__label-icon {
@@ -195,7 +196,7 @@
         @if $theme == classic {
           fill: background-color-text-classic($content-background-color);
         } @else {
-        fill: $accent-color;
+        fill: $content-link-color;
         }
         width: 1.5rem;
         height: 1.5rem;
@@ -569,7 +570,7 @@ div.multimedia {
   .q-figure__label--below & {
     display: inline;
     @if $theme == modern {
-      color: $accent-color;
+      color: $content-link-color;
       transition: color 0.35s;
     }
 

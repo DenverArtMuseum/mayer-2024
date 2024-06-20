@@ -30,6 +30,7 @@
     -webkit-transition: all .25s ease;
     transition: all .25s ease;
     font-size: 1rem;
+    // TODO: borders/colors should be on the a, not on the li.
     border: 1px solid button-color($content-background-color);
     color: button-color($content-background-color);
 
@@ -71,6 +72,8 @@
       background-color: button-color($secondary-background-color);
 
       svg {
+        // TODO: replace findColorInvert with something more sophisticated than just "black or white"
+        //       Do this everywhere
         fill: findColorInvert(button-color($secondary-background-color));
       }
       &:hover {

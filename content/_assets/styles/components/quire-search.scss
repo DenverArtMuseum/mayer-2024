@@ -56,11 +56,11 @@
           border-bottom: 1px dotted $black;
           letter-spacing: 0px;
         } @else {
-          color: $accent-color;
+          color: $content-link-color;
           text-decoration: underline;
           text-decoration-style: dotted;
           * {
-            color: $accent-color;
+            color: $content-link-color;
           }
         }
         &:hover {

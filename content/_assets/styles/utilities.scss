@@ -23,7 +23,7 @@
 }
 
 @mixin foreground-color($bgcolor, $frcolor) {
-  * {
+  * { // TODO: Gosh, I wonder what kind of problems this could cause
     color: $frcolor;
   }
   svg {
@@ -80,7 +80,7 @@
       @return $white;
     }
   } @else {
-    @return $accent-color;
+    @return $content-link-color;
   }
 }
 
