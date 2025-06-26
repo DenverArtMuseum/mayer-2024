@@ -20,7 +20,7 @@ $desktop: 1024px;
 $widescreen: 1184px;
 $fullhd: 1376px;
 // TODO: Why is box-shadow defined here of all places? Find all uses
-//       Again, not a single use anywhere. Why is this here?
+//       DONE: Again, not a single use anywhere. Why is this here?
 $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;
 
 :root {

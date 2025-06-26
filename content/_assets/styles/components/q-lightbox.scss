@@ -17,7 +17,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: "IBM Plex Sans Condensed", sans-serif; // TODO: Why do we have type variables if we're not going to use them?
     color: white;
   }
 }
