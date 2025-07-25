@@ -1,5 +1,4 @@
 figure_list:
-
   - id: intro-fig-1
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
@@ -34,7 +33,7 @@ figure_list:
     src: figures/inline/luis-fig-3.jpg
     label: Fig. 3
     caption: "Arnoldus Montanus (d. 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco.”, , 1671, Engraving, 11 1/4 × 13 7/8 in. (28.7 × 35.1 cm)"
-    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)""
+    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)"
 
   - id: luis-fig-4
     src: figures/inline/luis-fig-4.jpg
@@ -407,7 +406,7 @@ figure_list:
     src: figures/inline/santner-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, Silver Panel, Mexico, Philippines, about 1785, Silver, 33 1/4  × 29 1/4 ×  2 in. (84.5 × 74.3 × 5.1 cm)"
-    credit: Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.301
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.301"
 
   - id: santner-fig-4
     src: figures/inline/santner-fig-4.jpg
@@ -483,25 +482,25 @@ figure_list:
     src: figures/inline/lua-fig-11.jpg
     label: Fig. 11
     caption: "Damián Domingo (1796–1834), Mistisa de Manila (A Mistisa Woman of Manila), Philippines, 1827–32, Watercolor on paper, Sheet: 16 1/2 × 10 5/8 in. (42 × 27 cm). Image: 14 1/8 × 9 in. (36 ×  23 cm)"
-    credit: Newberry Library: Edward E. Ayer Art Collection
+    credit: "Newberry Library: Edward E. Ayer Art Collection"
 
   - id: lua-fig-12
     src: figures/inline/lua-fig-12.jpg
     label: Fig. 12
     caption: "Damián Domingo (1796–1834), India Ollera de Pasig (An Indian Pot-maker of Pasig), Philippines, 1827–32, Watercolor on paper, Sheet: 16 1/2 × 10 5/8 in. (42 × 27 cm). Image: 14 1/8 × 9 in. (36 ×  23 cm)"
-    credit: Newberry Library: Edward E. Ayer Art Collection
+    credit: "Newberry Library: Edward E. Ayer Art Collection"
 
   - id: lua-fig-13
     src: figures/inline/lua-fig-13.jpg
     label: Fig. 13
     caption: "Damián Domingo (1796–1834), Mestiso de Manila (A Mestise of Manila), Philippines, 1827–32, Watercolor on paper, Sheet: 16 1/2 × 10 5/8 in. (42 × 27 cm). Image: 14 1/8 × 9 in. (36 ×  23 cm)"
-    credit: Newberry Library: Edward E. Ayer Art Collection
+    credit: "Newberry Library: Edward E. Ayer Art Collection"
 
   - id: lua-fig-14
     src: figures/inline/lua-fig-14.jpg
     label: Fig. 14
     caption: "Damián Domingo (1796–1834), Indio de Yloco (An Indian of Yloco), Philippines, 1827–32, Watercolor on paper, Sheet: 16 1/2 × 10 5/8 in. (42 × 27 cm). Image: 14 1/8 × 9 in. (36 ×  23 cm)"
-    credit: Newberry Library: Edward E. Ayer Art Collection
+    credit: "Newberry Library: Edward E. Ayer Art Collection"
 
   - id: onn-fig-1
     src: figures/inline/onn-fig-1.jpg
@@ -601,7 +600,7 @@ figure_list:
     src: figures/inline/rojas-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, Peres Maldonado Ex-voto, Mexico, 1770, Oil paint on canvas, 27 1/4 × 36 1/2 in. (69.2 × 92.7 cm)"
-    credit: Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10
+    credit: "Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10"
 
   - id: rojas-fig-2
     src: figures/inline/rojas-fig-2.jpg
