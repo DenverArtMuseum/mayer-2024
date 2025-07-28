@@ -2,7 +2,7 @@ figure_list:
   - id: intro-fig-1
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
-    caption: "Unknown artist, Basin (Lebrillo), Puebla, Mexico, late 1600s, Earthenware, lead/tin glaze, cobalt in-glaze paint, 6 × 26 in. dia. (15.24 × 66 cm dia.)"
+    caption: "Unknown artist, Basin (Lebrillo), Puebla, Mexico, late 1600s. Earthenware, lead/tin glaze, and cobalt in-glaze paint, 6 × 26 in. dia. (15.24 × 66 cm dia.)"
     credit: "Denver Art Museum: Funds from 2001 Collectors' Choice, 2001.314"
 
   - id: intro-fig-2
@@ -20,35 +20,38 @@ figure_list:
   - id: luis-fig-1
     src: figures/inline/luis-fig-1.jpg
     label: Fig. 1
-    caption: "Antonio de Herrera y Tordesillas (d. 1626), The official, imperial representation of the “West Indies,” which stretched from the Atlantic to Asia. “Descripcion de las Yndias Ocidentales”, , 1601, Fold-out engraved map, 11 × 14 5/8 in. (28 × 37 cm)"
-    credit: "Descripcion de las Indias Ocidentales (Madrid: En la Emprenta Real, 1601). Courtesy of the John Carter Brown Library"
+    caption: "Antonio de Herrera y Tordesillas (d. 1626), The official, imperial representation of the “West Indies,” which stretched from the Atlantic to Asia. “Descripcion de las Yndias Ocidentales,” 1601. Fold-out engraved map, 11 × 14 5/8 in. (28 × 37 cm)."
+    credit: "Descripcion de las Indias Ocidentales (Madrid: En la Emprenta Real, 1601). Courtesy of the John Carter Brown Library."
 
   - id: luis-fig-2
     src: figures/inline/luis-fig-2.jpg
     label: Fig. 2
-    caption: "Juan López de Velasco (d. 1598), Manuscript map of the Spanish empire including routes of Spanish expeditions. “Demarcacion y nauegaciones de Yndias”, , 1575, Manuscript map, 8 1/4 × 12 3/4 in. (20.8 × 32.5 cm)"
-    credit: “Demarcacion y diuision de las Yndias.” Courtesy of the John Carter Brown Library
+    caption: "Juan López de Velasco (d. 1598), Manuscript map of the Spanish empire including routes of Spanish expeditions. “Demarcacion y nauegaciones de Yndias,” 1575. Manuscript map, 8 1/4 × 12 3/4 in. (20.8 × 32.5 cm)."
+    credit: “Demarcacion y diuision de las Yndias.” Courtesy of the John Carter Brown Library.
 
   - id: luis-fig-3
     src: figures/inline/luis-fig-3.jpg
     label: Fig. 3
-    caption: "Arnoldus Montanus (d. 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco.”, , 1671, Engraving, 11 1/4 × 13 7/8 in. (28.7 × 35.1 cm)"
-    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)"
+    caption: "Arnoldus Montanus (d. 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco,” 1671. Engraving, 11 1/4 × 13 7/8 in. (28.7 × 35.1 cm)."
+    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)."
 
   - id: luis-fig-4
     src: figures/inline/luis-fig-4.jpg
     label: Fig. 4
-    caption: "Unknown artist, Earthenware jars that stored water and were used as ballast, recovered from the San Diego and displayed in the National Museum of Anthropology in Manila., , , Earthenware, credit: Photograph courtesy the author"
+    caption: "Unknown artist, Earthenware jars that stored water and were used as ballast, recovered from the *San Diego* and displayed in the National Museum of Anthropology in Manila. Earthenware." 
+    credit: "Photograph courtesy the author"
 
   - id: luis-fig-5
     src: figures/inline/luis-fig-5.jpg
     label: Fig. 5
-    caption: "Unknown artist, Katana and tsuba (a circular guard for a katana) recovered from the wreck of the San Diego, , , , credit: Photograph courtesy the author"
+    caption: "Unknown artist, Katana and tsuba (a circular guard for a katana) recovered from the wreck of the San Diego." 
+    credit: "Photograph courtesy the author"
 
   - id: luis-fig-6
     src: figures/inline/luis-fig-6.jpg
     label: Fig. 6
-    caption: "Unknown artist, A Ming dynasty Chinese chair gifted to Felipe II on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled Asian products, China, Ming dynasty (1368–1644), , credit: Photograph courtesy the author"
+    caption: "Unknown artist, Ming dynasty Chinese chair gifted to Felipe II on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled with Asian products. China, Ming dynasty (1368–1644)." 
+    credit: "Photograph courtesy the author"
 
   - id: rivas-fig-1
     src: figures/inline/rivas-fig-1.jpg
