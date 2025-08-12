@@ -91,3 +91,78 @@
     }
   }
 }
+
+/*------------------------------------------------------------------------
+ * Page customizations
+ -----------------------------------------------------------------------*/
+// Quire's (and Bulma's) misunderstanding of CSS specificity strikes again.
+// Consequently, this selector is wildly overdefined now.
+// The more time I spend in Quire, the more I want to forcibly strip out
+// all of the CSS (especially Bulma) and start over.
+.quire-page .quire-page__content .container.is-fluid .content {
+  .dam-credit-line {
+    font-family: $quire-footnotes-font;
+    font-size: 1.125rem;
+    line-height: $quire-backmatter-line-height;
+
+    &.page-end {
+      margin-top: 2rem;
+    }
+  }
+}
+.quire-essay {
+  .quire-page {
+    &__header {
+      &.hero {
+
+        .hero-body {
+          color: $content-text-color;
+
+          .quire-page__header__title {
+            color: $content-text-color;
+            max-width: 54ch;
+            margin: 0 auto;
+          }
+
+          .quire-page__header__contributor {
+            font-family: "Noto Sans";
+            font-size: px-to-rem(24px);
+            font-style: normal;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+  }
+}
+
+.quire-page__content {
+  .container { 
+    .content {
+      .backmatter {
+        font-size: 1.25rem;
+        margin-top: 3rem;
+        h2 {
+          font-size: 1.25em;
+          margin: 1.6em 0 1em;
+        }
+      }
+      .footnotes {
+        font-size:1.125rem;
+
+        .footnotes-list {
+          .footnote-item {
+            max-width: 68ch;
+          }
+        }
+      }
+    }
+  }
+}
+
+.about-logo {
+  height: auto;
+  margin: 3rem 0 4rem;
+  max-width: 100%;
+}
+

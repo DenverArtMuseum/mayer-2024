@@ -9,7 +9,7 @@
 $accent-color: $brown;
 
 $content-background-color: $off-white;
-$content-text-color: $off-black;
+$content-text-color: $brown;
 $content-link-color: $link-color;
 $content-link-visited-color: $link-visited-color;
 $content-link-active-color: $link-active-color;
@@ -58,6 +58,9 @@ $typeface-zenkaku: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino
 // Page typography
 // -----------------------------------------------------------------------------
 $quire-base-font-size: 1.25rem; // 20px at 100% zoom defined in rem for better a11y
+$quire-base-line-height: 2; // Why wasn't this a variable in the first place?
+$quire-caption-line-height: 1.7;
+$quire-backmatter-line-height: 1.6;
 $quire-page-paragraph-style: line-space; // or use indent
 
 // The ability to easily alter content size should have been included in Quire

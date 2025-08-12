@@ -5,8 +5,9 @@
 
 
 
+$brown: #2a1900;
 $black: #000000;
-$off-black: #181818;
+$off-black: $brown;
 $gray: #CCCCCC;
 $white: #ffffff;
 $off-white: #fefbf9;
@@ -17,7 +18,6 @@ $light-yellow: #F9F9A3;
 $off-black-semi-transparent: rgba(0, 0, 0, .5);
 $black-semi-transparent: rgba(0, 0, 0, 0.75);
 $rich-black: cmyk(50%, 50%, 50%, 100%);
-$brown: #2a1900;
 $orange: #9B4D2B; // probably don't use.
 
 $link-color: $blue;

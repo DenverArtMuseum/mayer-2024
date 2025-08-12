@@ -16,18 +16,8 @@
 // html
 // -----------------------------------------------------------------------------
 html {
-  // If you want to change base font size for all pages, do it in body.
-  // This keeps rem more predictably useful for things like @media queries.
-  // Using rems in media query breakpoints makes pages more accessible for
-  // visitors who use text zoom for visual disabilities because the layout can
-  // switch to a tablet or mobile breakpoint if the text size pushes it past
-  // the point where the current layout breaks.
-  // Bulma does media queries quite poorly, and won't let us easily change them,
-  // but start engaging in good habits now so that it will be easier to strip
-  // Bulma out of Quire completely some day (which really should happen).
-  font-size: 100%; // 16px 
-
-  // TODO: Evaluate all print styles. try to move this to body as well
+  font-size: 100%;
+  overflow-y: visible;
   @media print {
     font-size: $print-base-font-size;
   }
@@ -47,17 +37,8 @@ html {
     user-select: text; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
   }
-  overflow-y: visible;
 }
 
-// Set base font size. We do this here instead of html because
-// we want rems to be a predictable 16px at 100% zoom, AND we
-// want it to change with zoom, AND we want to have the option of
-// changing html font-size on larger screen sizes and letting it
-// cascade down.
-// If we could rewrite the media query mixins to use rems, that would
-// be great, and much more accessible, but Bulma sucks and won't let us
-// do that.
 body {
   font-size: $quire-base-font-size;
 }
@@ -85,17 +66,22 @@ body {
   h6 {
     margin-bottom: 1rem;
     color: background-color-text-classic($secondary-background-color);
-    @media print {
-      color: $print-text-color;
-    }
     font-family: $quire-headings-font;
     @if $quire-headings-font == $ibm-sans {
       letter-spacing: -0.025em;
     }
 
+    @media print {
+      color: $print-text-color;
+    }
+
+    // FIXME: I cannot conceive of a good reason to do… this. 
+    // Comment out and see how the site looks (immediately better it turns out)
+    /*
     &:not(:first-child) {
       margin-top: 1rem;
     }
+    */
   }
 
   h1,
@@ -114,7 +100,6 @@ body {
   }
 
   h2 {
-    text-transform: uppercase;
     font-size: $heading-2-font-size;
     line-height: $heading-2-line-height;
   }
@@ -169,19 +154,17 @@ body {
 
     font-family: $quire-primary-font;
     font-size: 1em;
-    line-height: 1.78;
     font-weight: 400;
+    line-height: $quire-base-line-height;
     padding-top: 0;
     padding-bottom: 0;
     position: relative;
-    @include animation(0.5s ease 0s 1 slideFromRight);
     color: background-color-text-classic($content-background-color);
+
+    @include animation(0.5s ease 0s 1 slideFromRight);
     @media print {
       color: $print-text-color;
     }
-    font-size: 1em;
-    font-weight: 400;
-    line-height: 1.6;
 
     table {
       font-size: 0.875em;
@@ -251,11 +234,11 @@ body {
           }
           td,
           th {
+            border-width: 0 0 1px;
             color: background-color-text-classic($content-background-color);
             @media print {
               color: $print-text-color;
             }
-            border-width: 0 0 1px;
           }
         }
         .q-figure table {
@@ -294,7 +277,7 @@ body {
         }
 
         p {
-          line-height: 2;
+          line-height: $quire-base-line-height;
           @media print {
             line-height: 1.5;
           }
@@ -303,47 +286,7 @@ body {
         blockquote {
           border-left: none;
           position: relative;
-          & > p,
-          & > ul,
-          & > ol,
-          & > dl,
-          & > h1,
-          & > h2,
-          & > h3,
-          & > h4,
-          & > h5,
-          & > h6 {
-            position: relative;
 
-            @media screen {
-              &:first-child:before {
-                @if (lightness($content-background-color) < 50) {
-                  color: background-color-text-classic($content-background-color);
-                } @else if (lightness($secondary-background-color) > 50) {
-                  color: darken($secondary-background-color, 15%);
-                } @else {
-                  color: darken($content-background-color, 15%);
-                }
-                font-size: 5em;
-                line-height: 0.1em;
-                margin-right: 0.25em;
-                content: "“";
-                position: absolute;
-                top: 0.35em;
-                left: -0.55em;
-                @if $theme == classic {
-                  font-family: $quire-headings-font;
-                  font-style: normal;
-                  font-weight: bold;
-                  font-size: 4em;
-                  color: background-color-text-classic($content-background-color);
-                  top: 0.45em;
-                  left: -0.7em;
-                  font-size: 3.125em;
-                }
-              }
-            }
-          }
           ul,
           dl {
             margin-left: 0;
@@ -363,31 +306,30 @@ body {
         .backmatter {
           font-family: $quire-footnotes-font;
           font-size: 0.875rem;
-          line-height: 1.6;
+          line-height: $quire-backmatter-line-height;
           padding-top: 0;
 
           h2,
           h3,
           h4 {
             font-family: $quire-headings-font;
+            // TODO: Get rid of if statement? We never use classic
             @if $theme == classic {
               letter-spacing: 0.5px;
             } @else {
               letter-spacing: 0.25px;
             }
             color: background-color-text-classic($content-background-color);
-            @media print {
-              color: $print-text-color;
-            }
             font-size: 1em;
             line-height: 1.28em;
             text-transform: uppercase;
             margin-top: 20px;
             padding-bottom: 6px;
-            border-bottom: 1px solid
-              background-color-text-classic($content-background-color);
+            border-bottom: 1px solid background-color-text-classic($content-background-color);
+
             @media print {
               border-color: $print-text-color;
+              color: $print-text-color;
             }
           }
           h3,
@@ -414,7 +356,7 @@ body {
 
           p {
             // font-size: 0.875em;
-            line-height: 1.6em !important;
+            line-height: $quire-backmatter-line-height;
           }
           dl {
           }
@@ -430,8 +372,9 @@ body {
           hr {
             display: none;
           }
+          // TODO: You have got to be kidding me with this shit
           * {
-            line-height: 1.6em;
+            line-height: $quire-backmatter-line-height;
           }
           @if $theme == classic {
             ul {
@@ -467,7 +410,7 @@ body {
     padding-top: 1em;
     margin-bottom: -3.5em;
     font-size: 0.875em;
-    line-height: 1.7em;
+    line-height: 1.7em; // TODO: Why? Why? Why? Quire team, why?
 
     @media screen and (max-width: $tablet) {
       margin-bottom: -3.25em;
@@ -489,13 +432,19 @@ body {
 
     .container {
       background-color: $content-background-color;
-      padding: 2em 2.5rem 0em;
+      padding: 2em 2.75em 0em;
       margin: 0 auto;
+      max-width: $desktop + (1.25 * $gap);
+      width: $desktop + (1.25 * $gap);
       @media print {
         background-color: transparent;
         max-width: initial;
         width: initial;
         padding: 0;
+      }
+      @media screen and (max-width: $desktop) {
+        width: 100%;
+        max-width: 100%;
       }
 
       &:after {
@@ -520,7 +469,7 @@ body {
       .content {
         margin: 0;
         padding: 0 0 1em;
-        line-height: 1.714em;
+        line-height: 1.714em; // TODO: Nope. For real Quire, why?
 
         @media print {
           max-width: 100%;
@@ -577,7 +526,7 @@ body {
     }
 
     .label {
-      line-height: 1.3;
+      line-height: 1.3; // TODO: nope
       display: table;
       width: fit-content;
       @if $theme == classic {
@@ -588,10 +537,14 @@ body {
         } @else {
           background-color: $white;
         }
+        border-top: 2px solid $accent-color;
+        border-bottom: 2px solid $accent-color;
         color: $secondary-background-color;
-        padding: 0.35rem 0.45rem;
-        margin: 0 auto 1.7em;
+        letter-spacing: 0;
+        margin: 0 auto 1.9em;
         min-width: 2.6rem;
+        padding: 0.2rem 0.3rem;
+
         @media print {
           min-width: 0.3125in;
         }
@@ -601,16 +554,82 @@ body {
         @media print {
           color: $print-text-color;
         }
-        border-top: 2px solid $accent-color;
-        border-bottom: 2px solid $accent-color;
-        padding: 0.2rem 0.3rem;
-        letter-spacing: 0;
-        margin: 0 auto 1.9em;
+
       }
     }
 
     @media screen and (min-width: $desktop) {
       margin: 0 5rem;
+    }
+  }
+}
+
+// Download link defaults
+.quire-download__link {
+  color: if($theme == classic,$black,$accent-color);
+  fill: if($theme == classic,$black,$accent-color);
+  font-size: 0.875rem;
+
+  span {
+    margin-right: .25rem;
+  }
+}
+
+// Download link in the page header
+.quire-page__header {
+  .quire-download__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .25rem .5rem;
+    font-weight: 700;
+    width: fit-content;
+    margin: 1.5rem auto 0;
+
+    &:hover {
+      color: if($theme == classic,$accent-color,link-hover-color($secondary-background-color));
+      fill: if($theme == classic,$accent-color,link-hover-color($secondary-background-color));
+    }
+    .quire-download__link__icon {
+      height: 1rem;
+      width: 1rem;
+    }
+  } 
+}
+
+// Download link in the splash page header
+.quire-splash {
+  .quire-page__header {
+    .quire-download__link {
+      background-color: $content-background-color;
+      border-radius: 2px;
+
+      &:hover {
+        color: $content-background-color;
+        fill: $content-background-color;
+        background-color: $accent-color;
+      }
+    }
+  }
+}
+
+// Download link in the page footer
+.quire-page__content {
+  .quire-download-footer-link {
+    border-top: 1px solid currentColor;
+    font-family: $quire-footnotes-font;
+    margin-top: 2rem;
+    padding-top: 1rem;
+
+    .quire-download__link {
+      &:hover {
+        color: if($theme == classic,$accent-color,link-hover-color($content-background-color));
+        fill: if($theme == classic,$accent-color,link-hover-color($content-background-color));
+      }
+      .quire-download__link__icon {
+        height: 0.875rem;
+        width: 0.875rem;
+      }
     }
   }
 }
@@ -669,7 +688,6 @@ body {
         flex-grow: .7;
       }
     }
-    background-color: transparent;
     .hero-body {
       .quire-page__header__title {
         color: background-color-text-classic($secondary-background-color);
@@ -692,6 +710,7 @@ body {
       @media print {
         background-color: transparent;
       }
+      /*
       > p {
         &:first-child {
           &:first-letter {
@@ -707,6 +726,7 @@ body {
           }
         }
       }
+      */
     }
   }
 }
@@ -716,10 +736,6 @@ body {
   padding-bottom: 0;
   .content {
     a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
-      @media print {
-        color: $print-text-color;
-        text-decoration: none;
-      }
       line-height: inherit;
       @if $theme == classic {
         color: background-color-text-classic($content-background-color);
@@ -729,12 +745,16 @@ body {
         text-decoration-style: dotted;
       }
 
+      @media print {
+        color: $print-text-color;
+        text-decoration: none;
+      }
+
       &:hover {
         color: $content-link-active-color;
         text-decoration-style: solid;
       }
 
-      // TODO: make colors configurable so we can guarantee color contrast
       &:focus {
         background-color: $quire-hover-color;
         color: background-color-text-classic($quire-hover-color) !important;
@@ -751,15 +771,16 @@ body {
     a.footnote-return,
     a.footnote-backref,
     a.footnote-ref {
-      text-decoration: none !important; // TODO: how do I get rid of !important
+      text-decoration: none !important;
       font-weight: bold;
+      font-size: 0.925rem;
+      line-height: 0;
+      margin-left: 0.1em;
       @media print {
         font-weight: normal;
         font-size: inherit;
       }
-      font-size: 0.925rem;
-      line-height: 0;
-      margin-left: 0.1em;
+
       &:hover {
         color: $content-link-active-color;
       }
@@ -802,14 +823,13 @@ body {
     blockquote {
       padding: 0 0 0 1.5em;
       margin: 1em 0 1em 0;
+      background-color: transparent;
+      font-style: italic;
 
       @media screen and (min-width: $tablet) {
         padding: 0 0 0 1.5em;
         margin: 1.5em 0 1.5em 1.5em;
       }
-
-      background-color: transparent;
-      font-style: italic;
 
       em {
         font-style: normal;
