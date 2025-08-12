@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Transpacific Crossings
+subtitle: Art, Trade, and the Manila Galleon
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "For 250 years (1565–1815), the Manila Galleon transported Asian goods from the Philippines to the Americas under the rule of the Spanish Crown. Stopping in Acapulco, Mexico, the silk, fans, lacquered goods, clothes, and porcelain brought by the galleon rapidly circulated through the Americas, introducing a new visual culture that influenced objects, consumers, makers, and merchants alike. Conversely, products imported from the Americas, such as silver, indigo dye, cochineal red, chili peppers, and corn, had an enormous impact on Asia. Eleven scholars from the United States, Mexico, and Singapore present current research on how the vast exchange of materials, techniques, and ideas between continents impacted the trajectory of art and material culture across the Pacific."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2025-11-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,8 +34,8 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: Denver Art Museum
+    location: Denver
     url:
     logo: logo-getty.png
 
@@ -52,29 +52,23 @@ contributor:
     last_name: Luis
     title: Senior Curator of Photographs
     affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
-
+    bio: "Diego Javier Luis is the Rohrbaugh Family Assistant Professor in the Department of History at Johns Hopkins University. He specializes in the fields of Colonial Latin America and Spanish Pacific Studies. He is the author of The First Asians in the Americas: A Transpacific History, published January 2024 by Harvard University Press."
+    
   - id: Rivas
     type: primary
     first_name: Jorge F. 
     last_name: Rivas Pérez
     title: Emily Rauh Pulitzer Deputy Director and Chief Curator
     affiliation: Saint Louis Art Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
-
+    bio: "Jorge Rivas is the inaugural Emily Rauh Pulitzer Deputy Director and Chief Curator at the Saint Louis Museum of Art. Prior to this, Rivas served as the Frederick and Jan Mayer Curator of Latin American Art and Department Head at the Denver Art Museum from 2016 to 2024."
+    
   - id: Junco
     type: primary
     first_name: Roberto 
     last_name: Junco
     title: SAS-INAH
     affiliation: SAS-INAH
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Dr. Roberto Junco has been Deputy Director of the Vice Directorate of Underwater Archeology (SAS) of the National Institute of Anthropology and History (INAH) Mexico since 2017. He is an Affiliated Scholar of the Institute of Nautical Archeology, a member of the Society for Historical Archeology, ICUCH, and an Institutional Board Member of ACUA. He holds a PhD from the National School of Anthropology and History (ENAH) and a Diploma in Historical Archaeology from Leicester University."
   
   - id: McQuade
     type: primary
@@ -82,9 +76,7 @@ contributor:
     last_name: Connors McQuade
     title: Director of Collections
     affiliation: Museum of the City of New York
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Margaret E. Connors McQuade is an independent curator from New York. Until recently, she was Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly 31 years.  She received her Ph.D. in art history from the Graduate Center at the City University of New York in 2005. In addition to a series of small-scale exhibitions at the Hispanic Society, Margaret curated the exhibitions *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society 1999) and *Alcora en New York: La colección de cerámica de Alcora* at the Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005. Most recently, she co-curated with Alexandra Frantischek Rodriguez-Jack the exhibition, A Room of her Own: The Estrados of Viceregal Spain, which opens at the Hispanic Society on November 7, 2024."
   
   - id: Corrigan
     type: primary
@@ -92,9 +84,7 @@ contributor:
     last_name: Corrigan
     title: Deputy Chief Curator, The H. A. Crosby Forbes Curator of Asian Export Art
     affiliation: Peabody Essex Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Karina H. Corrigan is Associate Director – Collections and the H.A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Associate Director – Collections, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to the collection through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan and South Asia.  She has organized ten changing exhibitions drawn from PEM’s notable collections including Asia in Amsterdam: The Culture of Luxury in the Golden Age, co-organized with the Rijksmuseum and most recently, Power and Perspective: Early Photography in China.  Corrigan received a BA in Art History and Medieval Renaissance Studies from Wellesley College, an MS in Historic Preservation from the University of Pennsylvania and an MA from the Winterthur Program in American Material Culture."
   
   - id: Kasl
     type: primary
@@ -102,9 +92,7 @@ contributor:
     last_name: Kasl
     title: Curator of Latin American Art
     affiliation: The Metropolitan Museum of Art
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Ronda Kasl is Curator of Latin American Art at The Metropolitan Museum of Art, where she oversees the development and presentation of a new collection area. A specialist in the art of Spain and Spanish America, her curatorial work is chiefly concerned with the ways in which art objects are embedded in both local and global contexts of making and meaning. In addition to her curatorial work, she is Scholar in Practice at the Committee on Global Thought, Columbia University. Her current research focuses on the cultural consequences of early modern Iberian expansion in the Americas and Asia. She has curated numerous installations and exhibitions, including Sacred Spain: Art and Belief in the Spanish World (2009), Cristóbal de Villalpando: Mexican Painter of the Baroque (2017), and Crossroads: Empires and Emporia (2020–22). Recent articles include: “Empires and Emporia: The Manila Galleon Trade and the Spanish Invention of China” (2020), “Things They Do Not Have: Royal Spanish Gifts for the Emperor of China” (2022), and “Witnessing Ingenuity: Laquerware from Michoacán for the Vicereine of New Spain” (2023)."
 
   - id: Santner
     type: primary
@@ -113,8 +101,6 @@ contributor:
     title: Assistant Curator of Latin American Art
     affiliation: Denver Art Museum
     bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
 
   - id: Lua
     type: primary
@@ -122,9 +108,7 @@ contributor:
     last_name: Lua
     title: Assistant Curator
     affiliation: Michener Art Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She previously held curatorial positions at Bryn Mawr College, the Pennsylvania Academy of the Fine Arts, and Philadelphia Contemporary. At the Michener, Abi curated Renewal and Change: New Acquisitions (2023-2024). She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. Abi holds a BA in History of Art from Bryn Mawr College and an MA in American Material Culture from the Winterthur Program in American Material Culture and the University of Delaware."
 
   - id: Onn
     type: primary
@@ -132,9 +116,7 @@ contributor:
     last_name: Onn
     title: Director
     affiliation: Asian Civilisations Museum and Peranakan Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Clement Onn is the Director of the Asian Civilisation Museum and Peranakan Museum, Singapore. Prior to that, he was the deputy director (curatorial & research) and principal curator of Asian export art. His research interest lies in exchanges between Asia and Europe in the 16th and 18th centuries. His primary focus is on trading networks and the spread of the Christian faith in Asia, particularly in the Indian Subcontinent, Japan, China, and the Philippines. He has co-curated the exhibition Christianity in Asia: Sacred Art and Visual Splendour (2016), Port Cities: Multicultural Emporiums of Asia 1500–1900 (2016), Life in Edo x Russel Wong in Kyoto (2021), and the most recent Manila Galleon: From Asia to the Americas (2023)."
 
   - id: Rojas
     type: primary
@@ -142,15 +124,13 @@ contributor:
     last_name: Rojas
     title: UNAM
     affiliation: UNAM
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Aldo Solano Rojas (1986) is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He currently is doing a postdoctoral fellow in the School of Architecture of the National University of Mexico (UNAM)."
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2025 Denver Art Museum
 
 license:
   name: Creative Commons Attribution 4.0 International License
