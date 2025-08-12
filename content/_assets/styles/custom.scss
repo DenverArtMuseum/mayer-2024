@@ -44,3 +44,50 @@
 }
 */ // END :lang(ja) selector
 
+/* Why are basic things so difficult to override? Why is Quire CSS so wildly overdefined?
+*/
+/*------------------------------------------------------------------------
+ * Navbar customizations
+ * Removed overly broad * selector in quire-navbar.scss
+ -----------------------------------------------------------------------*/
+.quire-navbar {
+  text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
+
+  .quire-navbar-controls {
+    .quire-navbar-button {
+      text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
+      color: inherit;
+
+      &:hover {
+        color: $quire-navbar-hover-text-color;
+      }
+    }
+  }
+  .quire-navbar-page-controls {
+    &__item{
+      &.quire-previous-page {
+        padding-right: 1rem;
+      }
+      &.quire-next-page {
+        padding-left: 1rem;
+        position: relative;
+
+        a {
+          &::before {
+            color: $white;
+            content: '|';
+            position: absolute;
+            left:-.125rem;
+            z-index: 10;
+          }
+        
+          &:hover {
+            &::before {
+              color: $white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
