@@ -6,18 +6,29 @@ outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+Publication text and design © 2025 Denver Art Museum
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+All rights reserved. This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying is permitted by Sections 107 and 108 of the US Copyright Law and except by reviews for the public press), or by any means, electronic or mechanical, including photocopy, recording, or other information storage and retrieval system, without prior written permission from the publisher. For questions, email publicationsdept@denverartmuseum.org with the subject line “Publication Permission.”
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+The images in this publication are published with the permission of the rights holders whenever possible. In instances where the Denver Art Museum could not reach the rights holders, notwithstanding good-faith efforts, we request that any contact information concerning such rights holders be submitted via imagerights@denverartmuseum.org so that they may be contacted for future publications.
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+This publication was created using Quire™, a multiplatform publishing tool created by the J. Paul Getty Trust and customized for the Denver Art Museum by Design for Context.
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+Published by the Denver Art Museum
+100 West 14th Avenue Parkway
+Denver, CO 80204
+denverartmuseum.org
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+The Denver Art Museum is located on the homeland of the Arapaho, Cheyenne, and Ute people, along with many people from other Indigenous nations that call this place home. Learn more about our commitments to better represent, elevate, and support Indigenous cultures and people, past and present, on our website.
+
+Library of Congress Control Number: 2025945180
+ISBN for the downloadable PDF: 978-1-945483-21-9
+
+Managing Editor: Valerie Hellstein
+Editor and Project Manager: Leslie Murrell
+Curatorial Assistant: Lisbeth Barrientos
+Developer: Matt Popke
+Design: Nancy Bratton
+Manager of Rights and Reproductions: Renée B. Miller
+
+Cover image: TK
