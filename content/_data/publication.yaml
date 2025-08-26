@@ -46,6 +46,14 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
+  - id: Heinrich
+    type: secondary
+    first_name: Christoph 
+    last_name: Heinrich
+    title: Frederick and Jan Mayer Director
+    affiliation: Denver Art Museum
+    bio: "Diego Javier Luis is the Rohrbaugh Family Assistant Professor in the Department of History at Johns Hopkins University. He specializes in the fields of Colonial Latin America and Spanish Pacific Studies. He is the author of The First Asians in the Americas: A Transpacific History, published January 2024 by Harvard University Press."
+      
   - id: Luis
     type: secondary
     first_name: Diego Javier 
@@ -126,7 +134,7 @@ contributor:
     affiliation: UNAM
     bio: "Aldo Solano Rojas (1986) is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He currently is doing a postdoctoral fellow in the School of Architecture of the National University of Mexico (UNAM)."
 
-  - contributor_as_it_appears: Edited by Jorge F. Rivas Pérez and Karina H., with Kathryn Santner
+  - contributor_as_it_appears: Edited by Jorge F. Rivas Pérez and Karina H. Corrigan, with Kathryn Santner
 
 # ------------------------------------------------------------------------------
 # Copright & License
