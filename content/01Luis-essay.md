@@ -1,5 +1,4 @@
 ---
-label: I
 title: The Manila Galleon
 subtitle: A Historical Primer
 layout: essay

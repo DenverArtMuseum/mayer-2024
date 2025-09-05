@@ -1,5 +1,4 @@
 ---
-label: I
 title: Biombos in Modern Mexican Interiors
 layout: essay
 order: 130

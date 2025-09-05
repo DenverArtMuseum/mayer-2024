@@ -1,5 +1,4 @@
 ---
-label: I
 title: The Other Silver Flow
 subtitle: Liturgical Objects in the Philippines
 layout: essay
