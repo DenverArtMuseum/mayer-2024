@@ -1,5 +1,4 @@
 ---
-label: I
 title: “Brocades of Gold and Silver upon Silk”
 subtitle: A Microhistory of a Set of Chinese Silk Church Vestments for the Spanish Market
 layout: essay

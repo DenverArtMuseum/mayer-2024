@@ -1,5 +1,4 @@
 ---
-label: I
 title: A Cabinet of Many Cultures
 layout: essay
 order: 120

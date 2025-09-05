@@ -1,5 +1,4 @@
 ---
-label: I
 title: Name that Pot!
 subtitle: Viceregal Potters and Workshops of Puebla de los Ángeles
 layout: essay

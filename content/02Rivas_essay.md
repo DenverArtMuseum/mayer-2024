@@ -1,5 +1,4 @@
 ---
-label: I
 title: Inventories of Luxury and Wealth
 subtitle: Asian Trade and Material Culture in Spanish America
 layout: essay

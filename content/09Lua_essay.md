@@ -1,5 +1,4 @@
 ---
-label: I
 title: Cut from the World
 subtitle: Philippine Piña Fabric in the East India Marine Society Collection
 layout: essay
