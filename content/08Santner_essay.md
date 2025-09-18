@@ -66,6 +66,8 @@ Across the archipelago, Philippine churches gleamed with candlelight reflected i
 
 What is clear is that sangley and, to a lesser extent, Indigenous artisans dominated the trade for wrought silver, producing works that were so prized as to be traded across the globe and displayed in exalted spaces from Lima to Rome. Manila’s sangley artisans have been examined primarily as ivory carvers. Attending to their roles as silversmiths helps us better understand not only the kinds of work they produced but the very nature of artistic production in a city where professions were plastic and immigrants looked for economic opportunities wherever they might appear.[^66]
 
+## Notes
+
 [^1]: Archivo de la Provincia del Santísimo Rosario (hereafter APSR), Avila, Estante 1, Tomo 164, “Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ss^mo^ Rossario, Año de 1750.” I would like to thank Emiliano Pérez, OP; Pedro Gil, OFM; Rev. Pe. Ramón Carmona Morillo and Mari Carmen Gavira Vara; the staff of the Archivo General de Indias; Regalado Jose Trota; Ronda Kasl; Diego Javier Luis; and Lilly Barrientos.
 
 [^2]: Cf. Katharine Bjork, “The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815,” *Journal of World History* 9, no. 1 (1998): 25–50; Dennis O. Flynn and Arturo Giráldez, “Born with a ‘Silver Spoon’: The Origin of World Trade in 1571,” *Journal of World History* 6, no. 2 (Fall 1995), 201–21; Flynn and Giráldez, “Cycles of Silver: Global Economic Unity Through the Mid-Eighteenth Century,” *Journal of World History* 13, no. 2 (2002): 391–428.

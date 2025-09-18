@@ -67,7 +67,9 @@ The linen lining has an additional secret. While the front and proper right side
 
 Sets of vestments all made from the same fabric created a cohesive ensemble for feast days. The deep crimson red of the silk used for this set of vestments may indicate that it was used for a specific feast day or perhaps even during Holy Week, leading up to the celebration of Easter. The satin weave of the silk and the gilded paper floats would have undoubtedly sparkled brilliantly by candlelight during Mass.[^39] Preserved as a set for over four centuries, this rare group of liturgical textiles is a tangible link to the early global network of exchange between China, the Philippines, Mexico, and Spain and the power and wealth of the Catholic Church in this period.
 
-### The author would like to thank Lilly Barrientos, Martina D’Amato, Marta Fodor, Deborah Kraak, Lucy Montgomery, Samuel Frédéric Luterbacher, J. David O’Ryan, Amelia Peck, Mei Mei Rado, Jorge Rivas, Kathryn Santner, Kathryn Smith, Petra Slinkard, William R. Sargent, Kathy Tarantola, Deirdre Windsor, and Xian Zhang for their assistance with this article. 
+<div class="backmatter">The author would like to thank Lilly Barrientos, Martina D’Amato, Marta Fodor, Deborah Kraak, Lucy Montgomery, Samuel Frédéric Luterbacher, J. David O’Ryan, Amelia Peck, Mei Mei Rado, Jorge Rivas, Kathryn Santner, Kathryn Smith, Petra Slinkard, William R. Sargent, Kathy Tarantola, Deirdre Windsor, and Xian Zhang for their assistance with this article.</div>
+
+## Notes
 
 [^1]: The discipline of microhistory, first developed in the 1970s by Italian historians working with a cache of Catholic Church documents, is “based on the reduction of the scale of observation, on a microscopic analysis, and on intensive study of the documentary material.” Giovanni Levi, “On Microhistory,” in *New Perspectives on Historical Writing*, ed. Peter Burke (Pennsylvania State University Press, 1992), 99.
 

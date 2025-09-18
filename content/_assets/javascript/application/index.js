@@ -376,22 +376,23 @@ littlefoot({
 });
 
 // Prepends "#lf-"" to  footnote's link to anchor, to match Littlefoot's button
-$('a.footnote-backref').each(function() {
-  var href = $(this).attr('href');
-  if( !/^\#lf-/.test(href) ) {
+document.querySelectorAll('a.footnote-backref').forEach(function(note) {
+  var href = note.href;
+   if( !/^\#lf-/.test(href) ) {
       var newhref = href.replace(/#/, "#lf-");
-      $(this).attr('href',newhref);
+      note.href= newhref;
+   }
+ });
 
-      //location.href = href;
-  }
-});
 // Makes sure anchor links do not open new tab
 // TODO: this could be better for sure
-$("body").on("click", "a.footnote-backref[data-href]", function() {
-  var href = $(this).data("href");
-  if (href) {
+document.querySelectorAll('a.footnote-backref[data-href').forEach( function(nlink) {
+  addEventListener('click', function (e){
+    var href = nlink.dataset.href;
+    if (href) {
       location.href = href;
-  }
+    }
+  });
 });
 
 /* TODO: Find a better way. This shouldn't be added in javascript

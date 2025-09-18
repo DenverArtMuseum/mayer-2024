@@ -96,6 +96,8 @@ Another writing cabinet with a hinged front is densely inlaid with segmented vin
 
 Given their shared materials and decorative schemes, could these inlaid cabinets, chests, and boxes have been produced by a single Chinese workshop in the Philippines? The variety of sizes, quality of inlay decoration, and the variations in decoration indicate that they did not constitute a single order for a client but multiple orders over a considerable period. It is very likely that some of them were commissioned for Mexico. Until documentary evidence is uncovered, the full histories of these objects remain a fascinating mystery.
 
+## Notes
+
 [^1]: In addition to the collections mentioned in the captions for figures 1, 12, 13, 14, 16, and 17, the eleven examples are in the Museo Franz Mayer, Mexico City; Museo Soumaya, Mexico City; the collection of Fernando and Catherine Zobel de Ayala; the collection of the family of Mr, and Mrs, Lee Kip Lee; and Aguiar-Branco Antiques, Paris. See Clement Onn, Alan Chong, and Bejamin Chiesa, eds., *Across the Pacific: Art and the Manila Galleons*, exh. cat. (Asian Civilisations Museum, 2024), 160, 162–67.
 
 [^2]: The mask decoration has been called that of a lion, beast, ogre, or demon. Early collectors and dealers in the Philippines referred to this type of decoration as *demonyo* (Tagalog for demon) or *dinemonyo*. For this paper, the design is called the beast mask.

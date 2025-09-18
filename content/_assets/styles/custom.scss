@@ -110,6 +110,36 @@
     }
   }
 }
+.quire-page {
+  .accordion-section {
+    .accordion-section__heading {
+      background-color: $blue;
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: stretch;
+      justify-content: flex-start;
+
+      & > h2 {
+        color: $off-white;
+        padding: .5em;
+      }
+    }
+    &__controls--arrow {
+      &::after {
+        background-color: transparent;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fefbf9'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");;
+        color: $off-white;
+        height: auto; // Quire's CSS is so wildly overspecified it's ridiculous
+        margin-left:0;
+        padding: .5em 0 .5em .875rem;
+      }
+    }
+    &[open] {
+      > .accordion-section__controls--arrow::after {
+      }
+    }
+  }
+}
 .quire-essay {
   .quire-page {
     &__header {

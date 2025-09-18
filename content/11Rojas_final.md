@@ -112,6 +112,8 @@ The monumental openwork steel screen on the main entrance of architect Ricardo L
 
 Biombos continued to be part of Mexican art history long after the last galleon docked in the port of Acapulco in 1815. Consistently revised and reinvented, the Japanese byōbu quickly became a part of New Spanish identity and therefore of the new Mexican pantheon of objects and supports after the Mexican Revolution, later to be exploited to its limits and finally becoming an abstract and even architectural object thanks to the experimentation of the modern movement in Mexico. Biombos are one of the few testimonies of the intense transpacific trade that is still a part of the Mexican vernacular, a long and ongoing travel with unexpected results.
 
+## Notes
+
 [^1]: Teresa Castelló Yturbide, *Biombos mexicanos* (Instituto Nacional de Antropología e Historia, 1970), 11.
 
 [^2]: Sofia Sanabrais, “The *Biombo* or Folding Screen in Colonial Mexico,” in *Asia & Spanish America: Trans-Pacific Artistic & Cultural Exchange, 1500–1850*, ed. Donna Pierce and Ronald Otsuka (Denver Art Museum, 2009), 71; Sanabrais, “From *Byōbu* to *Biombo*: The Transformation of the Japanese Folding Screen in Colonial Mexico,” *Art History* 38, no. 4 (2015): 783–84.

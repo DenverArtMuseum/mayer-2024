@@ -175,6 +175,8 @@ However, the rest of his stay in Spain would be nothing so glamorous. Like many 
 
 The disciplinary boundaries that often silo the study of objects and people have obscured the extent to which both were historically inseparable. Searching for their many intersections brings us to understudied histories, like the harrowing nature of the Pacific passage, the mule trains crisscrossing colonial Mexican hinterlands, and the rare case of a Japanese man accompanying a bed sent to the king of Spain. These examples merely scratch the surface, but in their brevity, they also prove that the texture of history—the lived experience of it—constantly and triumphantly resists the fragile categories we are trained to harness it with. I find it more liberating to surrender to the innumerable ways the messiness of history challenges the way we think with its fantastical idiosyncrasies. To study the storied galleons and the ways in which the transpacific trade remade the early modern world is to embark on an inward journey—alongside that of our historical subjects—because the value of doing history is not simply in reassembling the past into new configurations but, rather, in how it forces us to constantly reform the tools we deploy to perceive our world and its past.
 
+## Notes
+
 [^1]: Elizabeth Horodowich and Alexander Nagel, *Amerasia* (Zone Books, 2023), 14.
 
 [^2]: Guillaume Gaudin, “On the Legal Grounds of the Conquest of the Philippines (1568),” in *The Spanish Pacific, 1521–1815, Volume 2: A Reader of Primary Sources*, ed. Christina H. Lee and Ricardo Padrón (Amsterdam University Press, 2024), 97–99.
