@@ -3,21 +3,21 @@ figure_list:
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, Basin (Lebrillo), Puebla, Mexico, late 1600s. Earthenware, lead/tin glaze, and cobalt in-glaze paint, 6 × 26 in. dia. (15.2 × 66 cm dia.)"
-    credit: "Denver Art Museum: Funds from 2001 Collectors' Choice, 2001.314"
+    credit: "Denver Art Museum: Funds from 2001 Collectors' Choice, 2001.314."
     alt: A photograph of the interior of a bowl with blue-and-white glazing.
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
     label: Fig. 2
-    caption: "Agustín del Pino, Saint Ignatius Loyola, Mexico, about 1700, Oil paint and shell inlay on wood panel (enconchado painting), Framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)"
-    credit: "Denver art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.302"
+    caption: "Agustín del Pino, *Saint Ignatius Loyola, Mexico*, ca. 1700, Oil paint and shell inlay on wood panel (enconchado painting), Framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)"
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.302."
     alt: A bearded man holds an open book and looks to the upper right against a gold background, which features painted rays emitting from his head.
 
   - id: intro-fig-3
     src: figures/inline/intro-fig-3.jpg
     label: Fig. 3
-    caption: "Unknown artist, Young Woman with Harpsichord, Mexico, 1735–50, Oil paint on canvas, Framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)"
-    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209"
+    caption: "Unknown artist, *Young Woman with Harpsichord, Mexico*, 1735–50. Oil paint on canvas, Framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)"
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
 
   - id: luis-fig-1
