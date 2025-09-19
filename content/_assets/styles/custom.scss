@@ -196,3 +196,50 @@
   max-width: 100%;
 }
 
+/* ToC page
+ * Also made changes to _includes/components/table-of-contents/item/list.js
+ * Original markup needed to change
+ * Overly broad * selector commented out in quire-contents-list.scss as well
+ ************************************************************************/
+.quire-contents {
+  .quire-page__content {
+    .container {
+      max-width:38em;
+    }
+  }
+}
+
+.quire-contents-list {
+  &.list {
+    font-family: $quire-navigation-font;
+
+    .table-of-contents {
+      .table-of-contents-list {
+        a {
+          .contents-page-title {
+            font-size: 1.125em;
+            font-weight: 600;
+          }
+          .contributor {
+            color: $content-text-color;
+            display: block;
+            font-style: normal;
+      
+            &::before {
+              content: "by";
+              display: inline-block;
+              margin: 0 .25em 0 1em;
+            }
+          }
+
+          &:hover {
+            .contents-page-title {
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

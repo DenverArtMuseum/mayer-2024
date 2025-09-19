@@ -122,7 +122,6 @@ module.exports = function(eleventyConfig) {
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
             <div class="logo">
-              <a class="logo-link" href="/" title="Home" rel="home"><img src="/_assets/images/nav-logo.svg" alt=""></a>
             </div>
           </div>
           <div class="quire-navbar-controls__center">

@@ -1,3 +1,4 @@
+const path = require('path')
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -15,6 +16,7 @@ module.exports = function (eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const icon = eleventyConfig.getFilter('icon')
   const markdownify = eleventyConfig.getFilter('markdownify')
+  const slugify = eleventyConfig.getFilter('slugify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const removeHTML = eleventyConfig.getFilter('removeHTML')
   const { contributorDivider } = eleventyConfig.globalData.config.tableOfContents
@@ -45,21 +47,23 @@ module.exports = function (eleventyConfig) {
     const isPage = !!layout
 
     const pageContributorsElement = pageContributors
-      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
+      ? `<span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
       : ''
 
     let pageTitleElement
     if (presentation === 'brief') {
       pageTitleElement = short_title || title
     } else {
-      pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${pageContributorsElement}`
+      pageTitleElement = oneLine`<span class="contents-page-title">${pageTitle({ label, subtitle, title })}</span>${pageContributorsElement}`
     }
-    const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
+
+    //const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
+    const arrowIcon = ''
 
     // Returns abstract with any links stripped out
     const abstractText =
       presentation === 'abstract' && (abstract || summary)
-        ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
+        ? `<div class="abstract-text">${removeHTML(markdownify(abstract))}</div>`
         : ''
 
     let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`

@@ -22,7 +22,7 @@ module.exports = function(eleventyConfig) {
       `
     } else {
       licenseText += `
-        This work is licensed under a ${licenseName}.
+        ${licenseName}.
       `
     }
 

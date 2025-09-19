@@ -41,8 +41,6 @@ module.exports = function(eleventyConfig) {
 
     return html`
       <div class="quire-copyright">
-        ${publisherImages}
-        ${copyright}
         ${config.licenseIcons && licenseIcons(license)}
         <div class="is-screen-only">
           ${screenText}
