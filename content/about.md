@@ -31,7 +31,7 @@ Managing Editor: Valerie Hellstein
 Editor and Project Manager: Leslie Murrell
 Curatorial Assistant: Lisbeth Barrientos
 Developer: Matt Popke
-Design: Nancy Bratton
+Design: Nancy Bratton and Tasso Stathopulos
 Manager of Rights and Reproductions: Renée B. Miller
 
-Cover image: TK
+Cover image: Attributed to José de Alcíbar, *De Espanol y Negra, Mulato, Mexico*, ca. 1760 (detail). Oil on canvas, 30⅝ × 38¾ in. (77.79 × 98.43 cm). Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.217. 
