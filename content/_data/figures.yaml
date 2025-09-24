@@ -2,9 +2,8 @@ figure_list:
   - id: intro-fig-1
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
-    caption: "Unknown artist, Basin (Lebrillo), Puebla, Mexico, late 1600s. Earthenware, lead/tin glaze, and cobalt in-glaze paint, 6 × 26 in. dia. (15.2 × 66 cm dia.)"
-    credit: "Denver Art Museum: Funds from 2001 Collectors' Choice, 2001.314."
-    alt: A photograph of the interior of a bowl with blue-and-white glazing.
+    caption: "Attributed to the School of Giovanni Niccolò and the Jesuit Seminary workshop, Kyushu, Japan, with lacquer case by artists in Japan, probably Kyushu, Portable shrine, about 1597. Oil on wood panel, in a lacquered wood case with mother-of-pearl inlay."
+    credit: "Museum purchase, made possible by an anonymous donor, 2000. AE85752."
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
