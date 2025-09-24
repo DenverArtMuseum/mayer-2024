@@ -20,195 +20,6 @@ figure_list:
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
 
-  - id: luis-fig-1
-    src: figures/inline/luis-fig-1.jpg
-    label: Fig. 1
-    caption: "Antonio de Herrera y Tordesillas (d. 1626), The official, imperial representation of the “West Indies,” which stretched from the Atlantic to Asia. “Descripcion de las Yndias Ocidentales,” 1601. Fold-out engraved map, 11 × 14 5/8 in. (28 × 37 cm)."
-    credit: "Descripcion de las Indias Ocidentales (Madrid: En la Emprenta Real, 1601). Courtesy of the John Carter Brown Library."
-    alt: A black-and-white map of north and south america and west Asia.
-
-  - id: luis-fig-2
-    src: figures/inline/luis-fig-2.jpg
-    label: Fig. 2
-    caption: "Juan López de Velasco (d. 1598), Manuscript map of the Spanish empire including routes of Spanish expeditions. “Demarcacion y nauegaciones de Yndias,” 1575. Manuscript map, 8 1/4 × 12 3/4 in. (20.8 × 32.5 cm)."
-    credit: “Demarcacion y diuision de las Yndias.” Courtesy of the John Carter Brown Library.
-    alt: A black-and-white map of north and south america and west Asia.
-
-  - id: luis-fig-3
-    src: figures/inline/luis-fig-3.jpg
-    label: Fig. 3
-    caption: "Arnoldus Montanus (d. 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco,” 1671. Engraving, 11 1/4 × 13 7/8 in. (28.7 × 35.1 cm)."
-    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)."
-    alt: A black-and-white image of a harbor with many buildings and palm trees.
-
-  - id: luis-fig-4
-    src: figures/inline/luis-fig-4.jpg
-    label: Fig. 4
-    caption: "Unknown artist, Earthenware jars that stored water and were used as ballast, recovered from the *San Diego* and displayed in the National Museum of Anthropology in Manila. Earthenware." 
-    credit: "Photograph courtesy the author."
-    alt: Fifteen earthenware vessels displayed on three tiers.
-
-  - id: luis-fig-5
-    src: figures/inline/luis-fig-5.jpg
-    label: Fig. 5
-    caption: "Unknown artist, Katana and tsuba (a circular guard for a katana) recovered from the wreck of the San Diego." 
-    credit: "Photograph courtesy the author."
-    alt: A long, heavily encrusted object is displayed with smaller round, flat objects.
-
-  - id: luis-fig-6
-    src: figures/inline/luis-fig-6.jpg
-    label: Fig. 6
-    caption: "Unknown artist, Ming dynasty Chinese chair gifted to Felipe II on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled with Asian products. China, Ming dynasty (1368–1644)." 
-    credit: "Photograph courtesy the author."
-    alt: A brown, armless chair with a curving back.
-
-  - id: rivas-fig-1
-    src: figures/inline/rivas-fig-1.jpg
-    label: Fig. 1
-    caption: "Unknown artist, Barrel-shaped Jardiniere, Puebla, Mexico, 1700s. Tin-glazed ceramic, 28 × 18 in. dia. (71.1 × 45.7 cm)."
-    credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.112."
-    alt: A vessel that bulges in the middle is divided into 7 registers and painted with red floral motifs.
-
-  - id: rivas-fig-2
-    src: figures/inline/rivas-fig-2.jpg
-    label: Fig. 2
-    caption: "Diego de Reinoso, Double-Sided Carving of Saint Michael and the Virgin and Child with Saints Dominic and John the Baptist, Mexico, ca. 1696. Alabaster, 3¼ × 2¼ × ⅞ in. (8.3 × 5.7 × 2.2 cm)."
-    credit: "Denver Art Museum: Gift of Robert J. Stroessner, 1991.1150."
-    alt: A white sculpture featuring a figure holding a shield standing on two disembodied heads and surrounded by geometric and swirl motifs.
-
-  - id: rivas-fig-3
-    src: figures/inline/rivas-fig-3.jpg
-    label: Fig. 3
-    caption: "Unknown artist, Plate with the Coat of Arms of Don Domingo Ignacio de Lardizábal y Arza, 1785. China, Qing dynasty (1644–1911). Porcelain, 9½ in. dia. (24.1 cm)."
-    credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.113."
-    alt: This white plate with a red border features images of animals, buildings, and trees in the center.
-
-  - id: rivas-fig-4
-    src: figures/inline/rivas-fig-4.jpg
-    label: Fig. 4
-    caption: "Unknown artist, Pair of Plates with the Arms of Francisco José de Ovando y Solís, 1st Marquis of Ovando, 1752. China, Qing dynasty (1644–1911). Porcelain, 11½ in. dia. (29.2 cm)."
-    credit: "Denver Art Museum: Funds from Ethel Sayre Berger by exchange, 2020.563.1-2."
-    alt: Two white plates with gold borders each feature a coat of arms at center comprising crown, cross, and sun motifs.
-
-  - id: rivas-fig-5
-    src: figures/inline/rivas-fig-5.jpg
-    label: Fig. 5
-    caption: "Unknown artist, *Young Woman with a Harpsichord*, Mexico, 1735–50. Oil on canvas, framed: 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
-    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
-    alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
-
-  - id: rivas-fig-6
-    src: figures/inline/rivas-fig-6.jpg
-    label: Fig. 6
-    caption: "Attributed to José de Alcíbar, *De Espanol y Negra, Mulato*, Mexico, ca. 1760. Oil on canvas, 30⅝ × 38¾ in. (77.8 × 98.4 cm)."
-    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.217."
-    alt: A light-skinned man and dark-skinned woman interact with a young mixed-race boy.
-
-  - id: rivas-fig-7
-    src: figures/inline/rivas-fig-7.jpg
-    label: Fig. 7
-    caption: "Francisco Clapera, *De Chino, e India, Genizara*, Mexico, ca. 1775. Oil on canvas, 20⅛ × 15⅝ in. (51.1 × 39.7 cm)."
-    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2011.428.14."
-    alt: A man and woman in white and brown clothing stand near a weaving machine against a wall decorated with plates and an instrument. A small child kneels over a basket filled with white, fluffy material.
-
-  - id: rivas-fig-8
-    src: figures/inline/rivas-fig-8.jpg
-    label: Fig. 8
-    caption: "Pedro Antonio Gualdi, *Zócalo of Mexico City*, Mexico, 1847. Oil and gouache on paper on canvas, 9½ × 14½ in. (24.1 × 36.8 cm)."
-    credit: "Denver Art Museum: Gift of Mrs. Frederic H. Douglas, 1956.72."
-    alt: A vast plaza filled with people lined by tall buildings on one side and a long building flying the American flag on the other against a pink sky.
-
-  - id: rivas-fig-9
-    src: figures/inline/rivas-fig-9.jpg
-    label: Fig. 9
-    caption: "Facade of Torre Tagle Palace, Lima, Peru, built ca. 1738. Postcard, 1920s."
-    credit: "Photograph courtesy the author."
-    alt: A black-and-white photograph of a row of buildings receding into the background.
-
-  - id: junco-fig-1
-    src: figures/inline/junco-fig-1.jpg
-    label: Fig. 1
-    caption: "Tomás de Suría (1761–1844), *Acapulco Bay and Port*, from the expedition of Malaspina (1789–1794), Mexico, 1791. Laid paper, ink, sepia, and colored gouaches, 11 5/8 × 19 1/4 in. (29.5 × 49 cm)."
-    credit: Biblioteca Virtual de Defensa, Archivo Histórico de la Armada - J.S. de Elcano [AHA JSE Ms. 1726 (44)].
-    alt: A bay with three ships is surrounded by hills, buildings, and a plaza several people is depicted in soft greens, blues, and pinks.
-
-  - id: junco-fig-2
-    src: figures/inline/junco-fig-2.jpg
-    label: Fig. 2
-    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of the Manila Galleon, Baja California, Mexico, 2015." 
-    credit: "Courtesy the author."
-    alt: Four people surround a square hole dug out of a stretch of sandy dunes.
-
-  - id: junco-fig-3
-    src: figures/inline/junco-fig-3.jpg
-    label: Fig. 3
-    caption: "Archaeologists from SAS-INAH prospecting the Contaduria complex in San Blas, Nayarit, Mexico, 2017." 
-    credit: "Courtesy the author."
-    alt: Two people take notes near a stone arch.
-
-  - id: junco-fig-4
-    src: figures/inline/junco-fig-4.jpg
-    label: Fig. 4
-    caption: "Archaeologists from SAS-INAH excavating at the walls of the fort of San Diego, Acapulco, Mexico, 2018."
-    credit: "Courtesy the author."
-    alt: Two people are in front of a stone wall, one looking down at their hand and one bending over a wooden structure suspended from ropes.
-
-  - id: junco-fig-5
-    src: figures/inline/junco-fig-5.jpg
-    label: Fig. 5
-    caption: "The Manila Galleon *N.S. de Guía* sailing on an ocean of blue and white, Mexico."
-    credit: "Museum of Acapulco at the Fort of San Diego. Courtesy the author."
-    alt: A model galleon with sails unfurled in a museum gallery surrounded by blue-and-white shards.
-
-  - id: junco-fig-6
-    src: figures/inline/junco-fig-6.jpg
-    label: Fig. 6
-    caption: "View of the fine deer in the park plate with overlapping sherds to see the differences and similarities. It is possible they were done in the same shop at the same time and broke together, about 1580–1595." 
-    credit:
-    alt: Four blue-and-white plate shards are overlaid onto grayed-out full-size plates.
-
-  - id: junco-fig-7
-    src: figures/inline/junco-fig-7.jpg
-    label: Fig. 7
-    caption: "Reconstruction of the fine deer in the park plates from the available sherds. There are at least four plates (maybe even six) from the sherds we have." 
-    credit: 
-    alt: Three blue-and-white bowl shards are stacked, with a black-and-white graphic evoking a taller stack of bowls.
-
-  - id: junco-fig-8
-    src: figures/inline/junco-fig-8.jpg
-    label: Fig. 8
-    caption: "Comparison of two plates with the same motif. One is from Jingdezhen the other from Zhangzhou. They demonstrate the range in qualities aboard the galleons, China." 
-    credit: 
-    alt: Two blue-and-white plate shards with matching pantone color swatches. The plates feature animals and trees, the left shard much sketchier and the right more details.
-
-  - id: junco-fig-9
-    src: figures/inline/junco-fig-9.jpg
-    label: Fig. 9
-    caption: "Large bowls with the same motif of deer, a popular Wanli (1573–1620) export design, China."
-    credit: 
-    alt: Four nested blue-and-white shards featuring animals and vegetation.
-
-  - id: junco-fig-10
-    src: figures/inline/junco-fig-10.jpg
-    label: Fig. 10
-    caption: "Sherd of a large cup in blue-and-white porcelain Wanli (1573–1620) period depicting the celebrated “Lanting Xu.” This scene is represented broadly in the late Ming dynasty (1368–1644) on different media, China." 
-    credit:
-    alt: A blue-and-white shard featuring two people sitting under a pagoda at lower left.
-
-  - id: junco-fig-11
-    src: figures/inline/junco-fig-11.jpg
-    label: Fig. 11
-    caption: "A blue-and-white plate Wanli (1573–1620) with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan ao 1* wreck, China." 
-    credit: 
-    alt: A shard of the rim of a plate or bowl.
-
-  - id: junco-fig-12
-    src: figures/inline/junco-fig-12.jpg
-    label: Fig. 12
-    caption: "Fragment of a white chocolate cup with the monogram of Ferdinand VII, king of Spain, possibly, and the coin of his proclamation with his monogram. The execution of the decoration is poor."
-    credit: 
-    alt: A white shard with brown cursive letters and the roman numeral VII at left; a silver coin with the roman numeral VII at right; and the two overlaid at center.
-
   - id: connors-mcquade-fig-1
     src: figures/inline/connors-mcquade-fig-1.jpg
     label: Fig. 1
@@ -432,33 +243,89 @@ figure_list:
     credit: "Victoria & Albert Museum, London, 1337-1888."
     alt: Two textiles (one blue and one cream, both with red floral motifs) against a blue background with a typed white card.
 
-  - id: luterbacher-fig-1
-    src: figures/inline/luterbacher-fig-1.jpg
+  - id: junco-fig-1
+    src: figures/inline/junco-fig-1.jpg
     label: Fig. 1
+    caption: "Tomás de Suría (1761–1844), *Acapulco Bay and Port*, from the expedition of Malaspina (1789–1794), Mexico, 1791. Laid paper, ink, sepia, and colored gouaches, 11 5/8 × 19 1/4 in. (29.5 × 49 cm)."
+    credit: Biblioteca Virtual de Defensa, Archivo Histórico de la Armada - J.S. de Elcano [AHA JSE Ms. 1726 (44)].
+    alt: A bay with three ships is surrounded by hills, buildings, and a plaza several people is depicted in soft greens, blues, and pinks.
 
-  - id: luterbacher-fig-2
-    src: figures/inline/luterbacher-fig-2.jpg
+  - id: junco-fig-2
+    src: figures/inline/junco-fig-2.jpg
     label: Fig. 2
+    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of the Manila Galleon, Baja California, Mexico, 2015." 
+    credit: "Courtesy the author."
+    alt: Four people surround a square hole dug out of a stretch of sandy dunes.
 
-  - id: luterbacher-fig-3
-    src: figures/inline/luterbacher-fig-3.jpg
+  - id: junco-fig-3
+    src: figures/inline/junco-fig-3.jpg
     label: Fig. 3
+    caption: "Archaeologists from SAS-INAH prospecting the Contaduria complex in San Blas, Nayarit, Mexico, 2017." 
+    credit: "Courtesy the author."
+    alt: Two people take notes near a stone arch.
 
-  - id: luterbacher-fig-4
-    src: figures/inline/luterbacher-fig-4.jpg
+  - id: junco-fig-4
+    src: figures/inline/junco-fig-4.jpg
     label: Fig. 4
+    caption: "Archaeologists from SAS-INAH excavating at the walls of the fort of San Diego, Acapulco, Mexico, 2018."
+    credit: "Courtesy the author."
+    alt: Two people are in front of a stone wall, one looking down at their hand and one bending over a wooden structure suspended from ropes.
 
-  - id: luterbacher-fig-5
-    src: figures/inline/luterbacher-fig-5.jpg
+  - id: junco-fig-5
+    src: figures/inline/junco-fig-5.jpg
     label: Fig. 5
+    caption: "The Manila Galleon *N.S. de Guía* sailing on an ocean of blue and white, Mexico."
+    credit: "Museum of Acapulco at the Fort of San Diego. Courtesy the author."
+    alt: A model galleon with sails unfurled in a museum gallery surrounded by blue-and-white shards.
 
-  - id: luterbacher-fig-6
-    src: figures/inline/luterbacher-fig-6.jpg
+  - id: junco-fig-6
+    src: figures/inline/junco-fig-6.jpg
     label: Fig. 6
+    caption: "View of the fine deer in the park plate with overlapping sherds to see the differences and similarities. It is possible they were done in the same shop at the same time and broke together, about 1580–1595." 
+    credit:
+    alt: Four blue-and-white plate shards are overlaid onto grayed-out full-size plates.
 
-  - id: luterbacher-fig-7
-    src: figures/inline/luterbacher-fig-7.jpg
+  - id: junco-fig-7
+    src: figures/inline/junco-fig-7.jpg
     label: Fig. 7
+    caption: "Reconstruction of the fine deer in the park plates from the available sherds. There are at least four plates (maybe even six) from the sherds we have." 
+    credit: 
+    alt: Three blue-and-white bowl shards are stacked, with a black-and-white graphic evoking a taller stack of bowls.
+
+  - id: junco-fig-8
+    src: figures/inline/junco-fig-8.jpg
+    label: Fig. 8
+    caption: "Comparison of two plates with the same motif. One is from Jingdezhen the other from Zhangzhou. They demonstrate the range in qualities aboard the galleons, China." 
+    credit: 
+    alt: Two blue-and-white plate shards with matching pantone color swatches. The plates feature animals and trees, the left shard much sketchier and the right more details.
+
+  - id: junco-fig-9
+    src: figures/inline/junco-fig-9.jpg
+    label: Fig. 9
+    caption: "Large bowls with the same motif of deer, a popular Wanli (1573–1620) export design, China."
+    credit: 
+    alt: Four nested blue-and-white shards featuring animals and vegetation.
+
+  - id: junco-fig-10
+    src: figures/inline/junco-fig-10.jpg
+    label: Fig. 10
+    caption: "Sherd of a large cup in blue-and-white porcelain Wanli (1573–1620) period depicting the celebrated “Lanting Xu.” This scene is represented broadly in the late Ming dynasty (1368–1644) on different media, China." 
+    credit:
+    alt: A blue-and-white shard featuring two people sitting under a pagoda at lower left.
+
+  - id: junco-fig-11
+    src: figures/inline/junco-fig-11.jpg
+    label: Fig. 11
+    caption: "A blue-and-white plate Wanli (1573–1620) with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan ao 1* wreck, China." 
+    credit: 
+    alt: A shard of the rim of a plate or bowl.
+
+  - id: junco-fig-12
+    src: figures/inline/junco-fig-12.jpg
+    label: Fig. 12
+    caption: "Fragment of a white chocolate cup with the monogram of Ferdinand VII, king of Spain, possibly, and the coin of his proclamation with his monogram. The execution of the decoration is poor."
+    credit: 
+    alt: A white shard with brown cursive letters and the roman numeral VII at left; a silver coin with the roman numeral VII at right; and the two overlaid at center.
 
   - id: kasl-fig-1
     src: figures/inline/kasl-fig-1.jpg
@@ -501,42 +368,6 @@ figure_list:
     label: Fig. 7
     caption: "Interior of the church of San Nicolás de Tolentino, about 1930." 
     credit: "Archivo General de la Orden de Agustinos Recoletos, Rome."
-
-  - id: santner-fig-1
-    src: figures/inline/santner-fig-1.jpg
-    label: Fig. 1
-    caption: "*Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ssmo Rossario, Año de 1750*."
-    credit: "Archivo de la Provincia del Santísimo Rosario, Avila. Photo by author."
-
-  - id: santner-fig-2
-    src: figures/inline/santner-fig-2.jpg
-    label: Fig. 2
-    caption: "Unknown artist, Ramilletes, Philippines, 1700s. Silver." 
-    credit: "Museo de Intramuros, Manila."
-
-  - id: santner-fig-3
-    src: figures/inline/santner-fig-3.jpg
-    label: Fig. 3
-    caption: "Unknown artist, Silver Panel, Mexico, Philippines, about 1785. Silver, 33 1/4  × 29 1/4 ×  2 in. (84.5 × 74.3 × 5.1 cm)."
-    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.301."
-
-  - id: santner-fig-4
-    src: figures/inline/santner-fig-4.jpg
-    label: Fig. 4
-    caption: "Unknown artist, Chalice, Acapulco and Manila, 1787. Silver, 9 × 5 7/8 in. (23 × 15 cm)."
-    credit: Parroquia de Santa María de la Asunción, Mairena del Alcor, Sevilla, Spain.
-
-  - id: santner-fig-5
-    src: figures/inline/santner-fig-5.jpg
-    label: Fig. 5
-    caption: "Unknown artist, Heart and Pen, Philippines, 1600s. Gold, heart: 6 1/4 × 4 3/8 in. (16 × 11 cm); pen: 12 3/8 × 1 1/2 in. (31.5 × 3.8 cm)."
-    credit: San Agustin, Manila.
-
-  - id: santner-fig-6
-    src: figures/inline/santner-fig-6.jpg
-    label: Fig. 6
-    caption: "Unknown artist, Niño dormido, Philippines, late 1600s–early 1800s. Silver, gold, ivory, caobochon gems, enamel, kingfisher feather, piña fiber, and lace. Figure: 7 1/2 in. (19 cm); bed: 14 3/8 × 9 1/2 × 24 5/8 in. (36.5 × 24 × 62.5 cm)."
-    credit: Bangko Sentral ng Pilipinas Collection, Manila.
 
   - id: lua-fig-1
     src: figures/inline/lua-fig-1.jpg
@@ -621,6 +452,83 @@ figure_list:
     label: Fig. 14
     caption: "Damián Domingo (1796–1834), *Indio de Yloco (An Indian of Yloco)*, Philippines, 1827–32. Watercolor on paper, sheet: 16 1/2 × 10 5/8 in. (42 × 27 cm); image: 14 1/8 × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
+
+  - id: luis-fig-1
+    src: figures/inline/luis-fig-1.jpg
+    label: Fig. 1
+    caption: "Antonio de Herrera y Tordesillas (d. 1626), The official, imperial representation of the “West Indies,” which stretched from the Atlantic to Asia. “Descripcion de las Yndias Ocidentales,” 1601. Fold-out engraved map, 11 × 14 5/8 in. (28 × 37 cm)."
+    credit: "Descripcion de las Indias Ocidentales (Madrid: En la Emprenta Real, 1601). Courtesy of the John Carter Brown Library."
+    alt: A black-and-white map of north and south america and west Asia.
+
+  - id: luis-fig-2
+    src: figures/inline/luis-fig-2.jpg
+    label: Fig. 2
+    caption: "Juan López de Velasco (d. 1598), Manuscript map of the Spanish empire including routes of Spanish expeditions. “Demarcacion y nauegaciones de Yndias,” 1575. Manuscript map, 8 1/4 × 12 3/4 in. (20.8 × 32.5 cm)."
+    credit: “Demarcacion y diuision de las Yndias.” Courtesy of the John Carter Brown Library.
+    alt: A black-and-white map of north and south america and west Asia.
+
+  - id: luis-fig-3
+    src: figures/inline/luis-fig-3.jpg
+    label: Fig. 3
+    caption: "Arnoldus Montanus (d. 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco,” 1671. Engraving, 11 1/4 × 13 7/8 in. (28.7 × 35.1 cm)."
+    credit: "De Nieuwe en onbekende Weereld: of Beschryving van America (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)."
+    alt: A black-and-white image of a harbor with many buildings and palm trees.
+
+  - id: luis-fig-4
+    src: figures/inline/luis-fig-4.jpg
+    label: Fig. 4
+    caption: "Unknown artist, Earthenware jars that stored water and were used as ballast, recovered from the *San Diego* and displayed in the National Museum of Anthropology in Manila. Earthenware." 
+    credit: "Photograph courtesy the author."
+    alt: Fifteen earthenware vessels displayed on three tiers.
+
+  - id: luis-fig-5
+    src: figures/inline/luis-fig-5.jpg
+    label: Fig. 5
+    caption: "Unknown artist, Katana and tsuba (a circular guard for a katana) recovered from the wreck of the San Diego." 
+    credit: "Photograph courtesy the author."
+    alt: A long, heavily encrusted object is displayed with smaller round, flat objects.
+
+  - id: luis-fig-6
+    src: figures/inline/luis-fig-6.jpg
+    label: Fig. 6
+    caption: "Unknown artist, Ming dynasty Chinese chair gifted to Felipe II on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled with Asian products. China, Ming dynasty (1368–1644)." 
+    credit: "Photograph courtesy the author."
+    alt: A brown, armless chair with a curving back.
+
+  - id: luterbacher-fig-1
+    src: figures/inline/luterbacher-fig-1.jpg
+    label: Fig. 1
+    caption: "*Portable shrine with the Virgin and Child*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts, 47.2 x 35 x 5.1 cm. Image: late 16th century. Oil on copper."
+    credit: "Santa Maria da Caridade, Sardoal, Portugal. © Santa Maria da Caridade."
+
+  - id: luterbacher-fig-2
+    src: figures/inline/luterbacher-fig-2.jpg
+    label: Fig. 2
+    caption: "Hendrick van Balen and Jan Brueghel the Elder, *Madonna and Child in a Flower Garland*, 1607–8. Oil on panel and silver, 27 x 22 cm."
+    credit: "Pinacoteca Ambrosiana, Milan. ©  Veneranda Biblioteca Ambrosiana/ Palolo Manusardi/Mondadori Portfolio."
+
+  - id: luterbacher-fig-3
+    src: figures/inline/luterbacher-fig-3.jpg
+    label: Fig. 3
+    caption: "*Portable Shrine with Martyrdom of St. Stephen*. Shrine: late 16th/early 17th century. Shrine: wood base with lacquer (urushi), gold, silver, and mother-of-pearl and copper mounts, 44 x 34 x 4.3 cm. Image: 17th century; feathers glued on paper mounted on unknown substrate, gilt paper."
+    credit: "Tokyo National Museum, Tokyo. © ColBase (https://colbase.nich.go.jp/)"
+
+  - id: luterbacher-fig-4
+    src: figures/inline/luterbacher-fig-4.jpg
+    label: Fig. 4
+    caption: "*Saint John the Evangelist*, 17th century. Feathers glued on paper, mounted on copper, gilt paper, 30.8 x 22.5 cm."
+    credit: "Denver Art Museum, Denver. © Denver Art Museum."
+
+  - id: luterbacher-fig-5
+    src: figures/inline/luterbacher-fig-5.jpg
+    label: Fig. 5
+    caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail)."
+
+  - id: luterbacher-fig-6
+    src: figures/inline/luterbacher-fig-6.jpg
+    label: Fig. 6
+    caption: "*Portable shrine with the Virgin of Guadalupe and the Four Apparitions*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts. Images: 18th century. Oil on copper foil with embossed silver applications."
+    credit: "Daniel Liebsohn Collection, Mexico City.  © Archivo fotográfico F.C.D.L/ Colección Daniel Liebsohn."
 
   - id: onn-fig-1
     src: figures/inline/onn-fig-1.jpg
@@ -736,6 +644,69 @@ figure_list:
     caption: "Unknown artist, Copy of mid-18th century Biombo Showing a Fête-Galante in the House of Manuel and Teresa Barbachano Ponce, Mexico City, 1978. Oil paint on panel."
     credit: "© Bob Schalkwijk."
 
+  - id: rivas-fig-1
+    src: figures/inline/rivas-fig-1.jpg
+    label: Fig. 1
+    caption: "Unknown artist, Barrel-shaped Jardiniere, Puebla, Mexico, 1700s. Tin-glazed ceramic, 28 × 18 in. dia. (71.1 × 45.7 cm)."
+    credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.112."
+    alt: A vessel that bulges in the middle is divided into 7 registers and painted with red floral motifs.
+
+  - id: rivas-fig-2
+    src: figures/inline/rivas-fig-2.jpg
+    label: Fig. 2
+    caption: "Diego de Reinoso, Double-Sided Carving of Saint Michael and the Virgin and Child with Saints Dominic and John the Baptist, Mexico, ca. 1696. Alabaster, 3¼ × 2¼ × ⅞ in. (8.3 × 5.7 × 2.2 cm)."
+    credit: "Denver Art Museum: Gift of Robert J. Stroessner, 1991.1150."
+    alt: A white sculpture featuring a figure holding a shield standing on two disembodied heads and surrounded by geometric and swirl motifs.
+
+  - id: rivas-fig-3
+    src: figures/inline/rivas-fig-3.jpg
+    label: Fig. 3
+    caption: "Unknown artist, Plate with the Coat of Arms of Don Domingo Ignacio de Lardizábal y Arza, 1785. China, Qing dynasty (1644–1911). Porcelain, 9½ in. dia. (24.1 cm)."
+    credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.113."
+    alt: This white plate with a red border features images of animals, buildings, and trees in the center.
+
+  - id: rivas-fig-4
+    src: figures/inline/rivas-fig-4.jpg
+    label: Fig. 4
+    caption: "Unknown artist, Pair of Plates with the Arms of Francisco José de Ovando y Solís, 1st Marquis of Ovando, 1752. China, Qing dynasty (1644–1911). Porcelain, 11½ in. dia. (29.2 cm)."
+    credit: "Denver Art Museum: Funds from Ethel Sayre Berger by exchange, 2020.563.1-2."
+    alt: Two white plates with gold borders each feature a coat of arms at center comprising crown, cross, and sun motifs.
+
+  - id: rivas-fig-5
+    src: figures/inline/rivas-fig-5.jpg
+    label: Fig. 5
+    caption: "Unknown artist, *Young Woman with a Harpsichord*, Mexico, 1735–50. Oil on canvas, framed: 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
+    alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
+
+  - id: rivas-fig-6
+    src: figures/inline/rivas-fig-6.jpg
+    label: Fig. 6
+    caption: "Attributed to José de Alcíbar, *De Espanol y Negra, Mulato*, Mexico, ca. 1760. Oil on canvas, 30⅝ × 38¾ in. (77.8 × 98.4 cm)."
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.217."
+    alt: A light-skinned man and dark-skinned woman interact with a young mixed-race boy.
+
+  - id: rivas-fig-7
+    src: figures/inline/rivas-fig-7.jpg
+    label: Fig. 7
+    caption: "Francisco Clapera, *De Chino, e India, Genizara*, Mexico, ca. 1775. Oil on canvas, 20⅛ × 15⅝ in. (51.1 × 39.7 cm)."
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2011.428.14."
+    alt: A man and woman in white and brown clothing stand near a weaving machine against a wall decorated with plates and an instrument. A small child kneels over a basket filled with white, fluffy material.
+
+  - id: rivas-fig-8
+    src: figures/inline/rivas-fig-8.jpg
+    label: Fig. 8
+    caption: "Pedro Antonio Gualdi, *Zócalo of Mexico City*, Mexico, 1847. Oil and gouache on paper on canvas, 9½ × 14½ in. (24.1 × 36.8 cm)."
+    credit: "Denver Art Museum: Gift of Mrs. Frederic H. Douglas, 1956.72."
+    alt: A vast plaza filled with people lined by tall buildings on one side and a long building flying the American flag on the other against a pink sky.
+
+  - id: rivas-fig-9
+    src: figures/inline/rivas-fig-9.jpg
+    label: Fig. 9
+    caption: "Facade of Torre Tagle Palace, Lima, Peru, built ca. 1738. Postcard, 1920s."
+    credit: "Photograph courtesy the author."
+    alt: A black-and-white photograph of a row of buildings receding into the background.
+
   - id: rojas-fig-3
     src: figures/inline/rojas-fig-3.jpg
     label: Fig. 3
@@ -812,3 +783,39 @@ figure_list:
     label: Fig. 15
     caption: "Mathias Goeritz (1915–1990), Lattice for the Entryway of Ricardo Legorreta's Hotel Camino Real, Mexico City, 1968."
     credit: "Photograph by Armando Salas Portugal."
+
+  - id: santner-fig-1
+    src: figures/inline/santner-fig-1.jpg
+    label: Fig. 1
+    caption: "*Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ssmo Rossario, Año de 1750*."
+    credit: "Archivo de la Provincia del Santísimo Rosario, Avila. Photo by author."
+
+  - id: santner-fig-2
+    src: figures/inline/santner-fig-2.jpg
+    label: Fig. 2
+    caption: "Unknown artist, Ramilletes, Philippines, 1700s. Silver." 
+    credit: "Museo de Intramuros, Manila."
+
+  - id: santner-fig-3
+    src: figures/inline/santner-fig-3.jpg
+    label: Fig. 3
+    caption: "Unknown artist, Silver Panel, Mexico, Philippines, about 1785. Silver, 33 1/4  × 29 1/4 ×  2 in. (84.5 × 74.3 × 5.1 cm)."
+    credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.301."
+
+  - id: santner-fig-4
+    src: figures/inline/santner-fig-4.jpg
+    label: Fig. 4
+    caption: "Unknown artist, Chalice, Acapulco and Manila, 1787. Silver, 9 × 5 7/8 in. (23 × 15 cm)."
+    credit: Parroquia de Santa María de la Asunción, Mairena del Alcor, Sevilla, Spain.
+
+  - id: santner-fig-5
+    src: figures/inline/santner-fig-6.jpg
+    label: Fig. 5
+    caption: "Unknown artist, Heart and Pen, Philippines, 1600s. Gold, heart: 6 1/4 × 4 3/8 in. (16 × 11 cm); pen: 12 3/8 × 1 1/2 in. (31.5 × 3.8 cm)."
+    credit: San Agustin, Manila.
+
+  - id: santner-fig-6
+    src: figures/inline/santner-fig-6.jpg
+    label: Fig. 6
+    caption: "Unknown artist, Niño dormido, Philippines, late 1600s–early 1800s. Silver, gold, ivory, caobochon gems, enamel, kingfisher feather, piña fiber, and lace. Figure: 7 1/2 in. (19 cm); bed: 14 3/8 × 9 1/2 × 24 5/8 in. (36.5 × 24 × 62.5 cm)."
+    credit: Bangko Sentral ng Pilipinas Collection, Manila.
