@@ -44,7 +44,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Edited by Jorge F. Rivas Pérez and Karina H. Corrigan, with Kathryn Santner
+contributor_as_it_appears: Edited by Jorge F. Rivas Pérez, Karina H. Corrigan, and Kathryn Santner
 
 contributor:
   - id: Heinrich
@@ -59,8 +59,8 @@ contributor:
     type: secondary
     first_name: Diego Javier 
     last_name: Luis
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
+    title: Rohrbaugh Family Assistant Professor, Department of History
+    affiliation: Johns Hopkins University
     bio: "Diego Javier Luis is the Rohrbaugh Family Assistant Professor in the Department of History at Johns Hopkins University. He specializes in the fields of Colonial Latin America and Spanish Pacific Studies. He is the author of The First Asians in the Americas: A Transpacific History, published January 2024 by Harvard University Press."
     
   - id: Rivas
@@ -85,7 +85,7 @@ contributor:
     last_name: Connors McQuade
     title: Director of Collections
     affiliation: Museum of the City of New York
-    bio: "Margaret E. Connors McQuade is an independent curator from New York. Until recently, she was Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly 31 years.  She received her Ph.D. in art history from the Graduate Center at the City University of New York in 2005. In addition to a series of small-scale exhibitions at the Hispanic Society, Margaret curated the exhibitions *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society 1999) and *Alcora en New York: La colección de cerámica de Alcora* at the Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005. Most recently, she co-curated with Alexandra Frantischek Rodriguez-Jack the exhibition, A Room of her Own: The Estrados of Viceregal Spain, which opens at the Hispanic Society on November 7, 2024."
+    bio: "Margaret E. Connors McQuade is an independent curator and works as the Director of Collections, Museum of the City of New York. She was previously Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly 31 years. She received her Ph.D. in art history from the Graduate Center at the City University of New York in 2005. She has curated several exhibitions ceramics, including *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society, 1999) and *Alcora en New York: La colección de cerámica de Alcora* (Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005)."
   
   - id: Corrigan
     type: primary
@@ -93,7 +93,7 @@ contributor:
     last_name: Corrigan
     title: Deputy Chief Curator, The H. A. Crosby Forbes Curator of Asian Export Art
     affiliation: Peabody Essex Museum
-    bio: "Karina H. Corrigan is Associate Director – Collections and the H.A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Associate Director – Collections, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to the collection through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan and South Asia.  She has organized ten changing exhibitions drawn from PEM’s notable collections including Asia in Amsterdam: The Culture of Luxury in the Golden Age, co-organized with the Rijksmuseum and most recently, Power and Perspective: Early Photography in China.  Corrigan received a BA in Art History and Medieval Renaissance Studies from Wellesley College, an MS in Historic Preservation from the University of Pennsylvania and an MA from the Winterthur Program in American Material Culture."
+    bio: "Karina H. Corrigan is the Associate DirectorCollections and the H.A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Associate Director – Collections, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to the collection through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan, and South Asia. She has organized ten changing exhibitions drawn from PEM’s notable collections including Asia in Amsterdam: The Culture of Luxury in the Golden Age, co-organized with the Rijksmuseum."
   
   - id: Kasl
     type: secondary
@@ -101,7 +101,7 @@ contributor:
     last_name: Kasl
     title: Curator of Latin American Art
     affiliation: The Metropolitan Museum of Art
-    bio: "Ronda Kasl is Curator of Latin American Art at The Metropolitan Museum of Art, where she oversees the development and presentation of a new collection area. A specialist in the art of Spain and Spanish America, her curatorial work is chiefly concerned with the ways in which art objects are embedded in both local and global contexts of making and meaning. In addition to her curatorial work, she is Scholar in Practice at the Committee on Global Thought, Columbia University. Her current research focuses on the cultural consequences of early modern Iberian expansion in the Americas and Asia. She has curated numerous installations and exhibitions, including Sacred Spain: Art and Belief in the Spanish World (2009), Cristóbal de Villalpando: Mexican Painter of the Baroque (2017), and Crossroads: Empires and Emporia (2020–22). Recent articles include: “Empires and Emporia: The Manila Galleon Trade and the Spanish Invention of China” (2020), “Things They Do Not Have: Royal Spanish Gifts for the Emperor of China” (2022), and “Witnessing Ingenuity: Laquerware from Michoacán for the Vicereine of New Spain” (2023)."
+    bio: "Ronda Kasl is Curator of Latin American Art at The Metropolitan Museum of Art, where she oversees the development and presentation of a new collection area. A specialist in the art of Spain and Spanish America, her curatorial work is chiefly concerned with the ways in which art objects are embedded in both local and global contexts of making and meaning. In addition to her curatorial work, she is Scholar in Practice at the Committee on Global Thought, Columbia University.  She has curated numerous installations and exhibitions, including *Sacred Spain: Art and Belief in the Spanish World* (2009), *Cristóbal de Villalpando: Mexican Painter of the Baroque* (2017), and *Crossroads: Empires and Emporia* (2020–22)."
 
   - id: Santner
     type: primary
@@ -109,7 +109,7 @@ contributor:
     last_name: Santner
     title: Assistant Curator of Latin American Art
     affiliation: Denver Art Museum
-    bio:
+    bio: "Kathryn Santner is the Assistant Curator of Latin American Art at the Denver Art Museum. Prior to joining the museum as the Frederick and Jan Mayer Fellow of Spanish Colonial Art, she worked as the Curatorial Fellow of Art of the Spanish Americas at the Carl and Marilynn Thoma Foundation and a Leverhulme Early Career Fellow at the School of Advanced Study, University of London."
 
   - id: Lua
     type: secondary
@@ -117,7 +117,7 @@ contributor:
     last_name: Lua
     title: Assistant Curator
     affiliation: Michener Art Museum
-    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She previously held curatorial positions at Bryn Mawr College, the Pennsylvania Academy of the Fine Arts, and Philadelphia Contemporary. At the Michener, Abi curated Renewal and Change: New Acquisitions (2023-2024). She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. Abi holds a BA in History of Art from Bryn Mawr College and an MA in American Material Culture from the Winterthur Program in American Material Culture and the University of Delaware."
+    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She previously held curatorial positions at Bryn Mawr College, the Pennsylvania Academy of the Fine Arts, and Philadelphia Contemporary. She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. She holds a BA in History of Art from Bryn Mawr College and an MA in American Material Culture from the Winterthur Program in American Material Culture and the University of Delaware."
 
   - id: Onn
     type: secondary

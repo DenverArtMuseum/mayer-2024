@@ -1,6 +1,6 @@
 ---
 title: The Manila Galleon
-subtitle: A Historical Primer
+subtitle: An Historical Primer
 layout: essay
 order: 30
 classes:
