@@ -131,8 +131,9 @@ contributor:
     type: secondary
     first_name: Aldo Solano 
     last_name: Rojas
-    affiliation: UNAM
-    bio: "Aldo Solano Rojas is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He currently is doing a postdoctoral fellow in the School of Architecture of the National University of Mexico (UNAM)."
+    title: Professor
+    affiliation: School of Architecture, UNAM
+    bio: "Aldo Solano Rojas is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He is currently a professor in the School of Architecture of the National University of Mexico (UNAM)."
 
   - id: Luterbacher
     type: secondary
