@@ -3,7 +3,7 @@ figure_list:
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
     caption: "Attributed to the School of Giovanni Niccolò and the Jesuit Seminary workshop, Kyushu, Japan, with lacquer case by artists in Japan, probably Kyushu, Portable shrine, about 1597. Oil on wood panel, in a lacquered wood case with mother-of-pearl inlay."
-    credit: "Peabody Essex Museum: Museum purchase, made possible by an anonymous donor, 2000. AE85752."
+    credit: "Peabody Essex Museum, Salem: Museum purchase, made possible by an anonymous donor, 2000. AE85752."
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
@@ -372,7 +372,7 @@ figure_list:
     src: figures/inline/lua-fig-1.jpg
     label: Fig. 1
     caption: "Artist in Manila, Philippines, Piña cloth, Philippines, 1829. 15 × 13¾ in. (38.1 × 34.9 cm)."
-    credit: "Peabody Essex Museum: Gift of Capt. Joseph J. Knapp, 1829, E6538. Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
+    credit: "Peabody Essex Museum, Salem: Gift of Capt. Joseph J. Knapp, 1829, E6538. Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
 
   - id: lua-fig-2
     src: figures/inline/lua-fig-2.jpg
@@ -646,7 +646,7 @@ figure_list:
   - id: rivas-fig-1
     src: figures/inline/rivas-fig-1.jpg
     label: Fig. 1
-    caption: "Unknown artist, Barrel-shaped Jardiniere, Puebla, Mexico, 1700s. Tin-glazed ceramic, 28 × 18 in. dia. (71.1 × 45.7 cm)."
+    caption: "Unknown artist, Barrel-Shaped *Jardiniere*, Puebla, Mexico, 1700s. Tin-glazed ceramic, 28 × 18 in. dia. (71.1 × 45.7 cm)."
     credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.112."
     alt: A vessel that bulges in the middle is divided into 7 registers and painted with red floral motifs.
 
