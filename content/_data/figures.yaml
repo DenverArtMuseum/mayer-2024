@@ -3,19 +3,19 @@ figure_list:
     src: figures/inline/intro-fig-1.jpg
     label: Fig. 1
     caption: "Attributed to the School of Giovanni Niccolò and the Jesuit Seminary workshop, Kyushu, Japan, with lacquer case by artists in Japan, probably Kyushu, Portable shrine, about 1597. Oil on wood panel, in a lacquered wood case with mother-of-pearl inlay."
-    credit: "Museum purchase, made possible by an anonymous donor, 2000. AE85752."
+    credit: "Peabody Essex Museum: Museum purchase, made possible by an anonymous donor, 2000. AE85752."
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
     label: Fig. 2
-    caption: "Agustín del Pino, *Saint Ignatius Loyola, Mexico*, ca. 1700, Oil paint and shell inlay on wood panel (enconchado painting), Framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)"
+    caption: "Agustín del Pino, *Saint Ignatius Loyola, Mexico*, ca. 1700. Oil and shell inlay on wood panel (*enconchado* painting), framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.302."
     alt: A bearded man holds an open book and looks to the upper right against a gold background, which features painted rays emitting from his head.
 
   - id: intro-fig-3
     src: figures/inline/intro-fig-3.jpg
     label: Fig. 3
-    caption: "Unknown artist, *Young Woman with Harpsichord, Mexico*, 1735–50. Oil paint on canvas, Framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)"
+    caption: "Unknown artist, *Young Woman with Harpsichord*, Mexico, 1735–50. Oil on canvas, framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
 
