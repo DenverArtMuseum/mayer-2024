@@ -75,7 +75,7 @@ contributor:
     type: secondary
     first_name: Roberto 
     last_name: Junco
-    title: 
+    title: Deputy Director
     affiliation: SAS-INAH
     bio: "Dr. Roberto Junco has been Deputy Director of the Vice Directorate of Underwater Archeology (SAS) of the National Institute of Anthropology and History (INAH) Mexico since 2017. He is an Affiliated Scholar of the Institute of Nautical Archeology, a member of the Society for Historical Archeology, ICUCH, and an Institutional Board Member of ACUA. He holds a PhD from the National School of Anthropology and History (ENAH) and a Diploma in Historical Archaeology from Leicester University."
   
@@ -83,7 +83,7 @@ contributor:
     type: secondary
     first_name: Margaret E. 
     last_name: Connors McQuade
-    title: Director of Collections
+    title: Vice President of Collections
     affiliation: Museum of the City of New York
     bio: "Margaret E. Connors McQuade is an independent curator and works as the Director of Collections, Museum of the City of New York. She was previously Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly 31 years. She received her Ph.D. in art history from the Graduate Center at the City University of New York in 2005. She has curated several exhibitions ceramics, including *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society, 1999) and *Alcora en New York: La colección de cerámica de Alcora* (Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005)."
   
@@ -91,7 +91,7 @@ contributor:
     type: primary
     first_name: Karina H. 
     last_name: Corrigan
-    title: Deputy Chief Curator, The H. A. Crosby Forbes Curator of Asian Export Art
+    title: Deputy Chief Curator and H. A. Crosby Forbes Curator of Asian Export Art
     affiliation: Peabody Essex Museum
     bio: "Karina H. Corrigan is the Associate DirectorCollections and the H.A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Associate Director – Collections, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to the collection through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan, and South Asia. She has organized ten changing exhibitions drawn from PEM’s notable collections including Asia in Amsterdam: The Culture of Luxury in the Golden Age, co-organized with the Rijksmuseum."
   
@@ -117,7 +117,7 @@ contributor:
     last_name: Lua
     title: Assistant Curator
     affiliation: Michener Art Museum
-    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She previously held curatorial positions at Bryn Mawr College, the Pennsylvania Academy of the Fine Arts, and Philadelphia Contemporary. She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. She holds a BA in History of Art from Bryn Mawr College and an MA in American Material Culture from the Winterthur Program in American Material Culture and the University of Delaware."
+    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. At the Michener, she has curated or co-curated *Yesterday's Dreams Are Real: Collecting Black Art and the Legacy of Lewis Tanner Moore* (2025) and *Lisa Naples: Grounded in Gold* (2025)."
 
   - id: Onn
     type: secondary
@@ -131,8 +131,9 @@ contributor:
     type: secondary
     first_name: Aldo Solano 
     last_name: Rojas
-    affiliation: UNAM
-    bio: "Aldo Solano Rojas is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He currently is doing a postdoctoral fellow in the School of Architecture of the National University of Mexico (UNAM)."
+    title: Professor
+    affiliation: School of Architecture, UNAM
+    bio: "Aldo Solano Rojas is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He is currently a professor in the School of Architecture of the National University of Mexico (UNAM)."
 
   - id: Luterbacher
     type: secondary
