@@ -551,7 +551,7 @@ figure_list:
     src: figures/inline/onn-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, *Acamapichtli* from the *Codex Tovar*, fol. 93, Mexico, about 1585." 
-    credit: "Library of Congress, Washington, DC."
+    credit: "Wikimedia Commons."
 
   - id: onn-fig-4
     src: figures/inline/onn-fig-4.jpg
