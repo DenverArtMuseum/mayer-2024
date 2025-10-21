@@ -2,6 +2,9 @@
 title: Introduction
 layout: splash
 order: 20
+contributor:
+    - id: Corrigan
+    - id: Santner
 ---
 
 In 1662, the Franciscan friar Bartolomé de Letona wrote of Manila, “All things necessary to human life \[are found there\] and even articles of superfluity, ostentation, pomp, and luxury. . . . The diversity of the peoples . . . who are seen in Manila and its environs is the greatest in the world.”[^1]

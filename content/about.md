@@ -6,7 +6,7 @@ outputs:
   - html
 ---
 
-A free online edition of this publication is available at mayer2024.denartmus.org. A free PDF of the publication is also available to download.
+A free online edition of this publication is available at [mayer2024.denartmus.org](mayer2024.denartmus.org). A free PDF of the publication is also available to download.
 
 Published by the Mayer Center for Ancient and Latin American Art at the Denver Art Museum
 
@@ -32,7 +32,7 @@ This publication was created using Quire™, a multiplatform publishing tool cre
 Published by the Denver Art Museum
 100 West 14th Avenue Parkway
 Denver, CO 80204
-denverartmuseum.org
+[denverartmuseum.org](denverartmuseum.org)
 
 978-1-945483-21-9 (PDF)
 978-1-945483-20-2 (Print)

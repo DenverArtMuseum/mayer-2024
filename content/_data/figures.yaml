@@ -252,7 +252,7 @@ figure_list:
   - id: junco-fig-2
     src: figures/inline/junco-fig-2.jpg
     label: Fig. 2
-    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of the Manila Galleon, Baja California, Mexico, 2015." 
+    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of a Manila Galleon, Baja California, Mexico, 2015." 
     credit: "Courtesy the author."
     alt: Four people surround a square hole dug out of a stretch of sandy dunes.
 
@@ -555,19 +555,19 @@ figure_list:
 
   - id: onn-fig-4
     src: figures/inline/onn-fig-4.jpg
-    label: Fig. 4
+    label: Fig. 5
     caption: "Choirstalls in the church of San Agustin, Manila, Philippines, about 1608–14."
     credit: 
 
   - id: onn-fig-5
     src: figures/inline/onn-fig-5.jpg
-    label: Fig. 5
+    label: Fig. 6
     caption: "Choir lectern in the choir loft of San Agustin Church, Manila, Philippines, about 1728–34." 
     credit: "Courtesy the author."
 
   - id: onn-fig-6
     src: figures/inline/onn-fig-6.jpg
-    label: Fig. 6
+    label: Fig. 4
     caption: "Altar table, Philippines, 1700s. Wood (balayong) and metal, 27½ × 31½ × 19⅝ in. (70 × 80 × 50 cm)."
     credit: Collection of Paulino and Hetty Que.
 
@@ -739,7 +739,7 @@ figure_list:
   - id: rojas-fig-7
     src: figures/inline/rojas-fig-7.jpg
     label: Fig. 7
-    caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, Overall: 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
+    caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
     credit: © The Phoebus Foundation, Antwerp
 
   - id: rojas-fig-8
