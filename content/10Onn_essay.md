@@ -106,13 +106,13 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^4]: D. R. M. Irving, *Colonial Counterpoint: Music in Early Modern Manila* (Oxford, 2010), 32; the original text is on 245n29.
 
-[^5]: Pedro Murillo Velarde, *Geographia historia, de las Islas Philipinas, del Africa, y de sus islas adyacentes*, vol. 8 (Madrid, 1752), 52: “Ninguna Colonia, de quantas han fundado los Europeos en el Assia, y Africa, le iguala en grandeza, en riqueza, en abundancia, y vecindario. \[. . .\] El concurso de varias Naciones, no creo tiene semejante en el mundo.”
+[^5]: Pedro Murillo Velarde, *Geographia historia, de las Islas Philipinas, del Africa, y de sus islas adyacentes*, vol. 8 (Madrid, 1752), 52: “Ninguna Colonia, de quantas han fundado los Europeos en el Assia, y Africa, le iguala en grandeza, en riqueza, en abundancia, y vecindario. . . . El concurso de varias Naciones, no creo tiene semejante en el mundo.”
 
 [^6]: Jorge F. Rivas Pérez, “Domestic Display in the Spanish Overseas Territories,” in *Behind Closed Doors: Art in the Spanish American Home, 1492–1898*, ed. Richard Aste, exh. cat. (Brooklyn Museum in association with The Monacelli Press, 2013), 79.
 
 [^7]: Peter Lee, *Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950* (Asian Civilisations Museum, 2015), 290–308.
 
-[^8]: Etsuko Miyata Rodríguez, “Early Manila Galleon Trade: Merchants’ Networks and Market in Sixteenth- and Seventeenth-Century Mexico,” in *At the Crossroads: The Arts of Spanish America and Early Global Trade, 1492–1850*, ed. Donna Pierce and Ronald Otsuka (Denver Art Museum, 2012), 37–58; Peter Lee and Alan Chong, “Mixing Up Things and People in Asia’s Port Cities,” in *Port Cities: Multicultural Emporiums of Asia, 1500–1900*, ed. Peter Lee et al., exh. cat. (Asian Civilisations Museum, 2016), 30–41.
+[^8]: Etsuko Miyata Rodríguez, “Early Manila Galleon Trade: Merchants’ Networks and Market in Sixteenth- and Seventeenth-Century Mexico,” in *At the Crossroads: The Arts of Spanish America and Early Global Trade, 1492–1850*, ed. Donna Pierce and Ronald Otsuka (Mayer Center for Pre-Columbian & Spanish Colonial Art at the Denver Art Museum, 2012), 37–58; Peter Lee and Alan Chong, “Mixing Up Things and People in Asia’s Port Cities,” in *Port Cities: Multicultural Emporiums of Asia, 1500–1900*, ed. Peter Lee et al., exh. cat. (Asian Civilisations Museum, 2016), 30–41.
 
 [^9]: Ibid., 42–43, citing Archivo General de Indias, Seville, *Caja de Filipinas*, 943–56.
 
@@ -140,12 +140,12 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^21]: María Campos Carlés de Peña, *A Surviving Legacy in Spanish America: Seventeenth- and Eighteenth-Century Furniture from the Viceroyalty of Peru* (Ediciones El Viso, 2013), 90.
 
-[^22]: For figure 12, see Onn et al, *Across the Pacific*, 164. The cabinet with the family of Mr. and Mrs. Lee Kip Lee is also adorned with elaborate decorations, including pierced drawer fronts reminiscent of Kyushu furniture.
+[^22]: For figure 12, see Onn et al., *Across the Pacific*, 164. The cabinet with the family of Mr. and Mrs. Lee Kip Lee is also adorned with elaborate decorations, including pierced drawer fronts reminiscent of Kyushu furniture.
 
-[^23]: Onn et al, *Across the Pacific*, 165.
+[^23]: Onn et al., *Across the Pacific*, 165.
 
-[^24]: Onn et al, *Across the Pacific*, 160.
+[^24]: Onn et al., *Across the Pacific*, 160.
 
-[^25]: Fig. 17 is called seventeenth- to eighteenth-century Indo-Portuguese on the website of the Museo Franz Mayer.
+[^25]: Figure 17 is called seventeenth- to eighteenth-century Indo-Portuguese on the website of the Museo Franz Mayer.
 
-[^26]: On figures 16 and 17, see Onn et al, *Across the Pacific*, 166–67.
+[^26]: On figures 16 and 17, see Onn et al., *Across the Pacific*, 166–67.

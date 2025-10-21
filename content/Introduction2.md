@@ -44,6 +44,7 @@ Closing the volume, “*Biombas* in Modern Mexican Interiors,” by **Aldo Solan
 
 The 2024 Mayer Center symposium brought together scholars with diverse areas of expertise to advance transpacific material culture studies. It also sought to lay the groundwork for future exhibitions exploring this complex and fascinating narrative. In the last twenty-five years, several important exhibitions have explored the themes connected to the galleon trade.[^5] Most recently, *Across the Pacific: Art and the Manila Galleons*, organized by Clement Onn for the Asian Civilisations Museum in Singapore, offered an expansive view of the artistic cross-pollination fostered by the galleon trade. But, despite the captivating nature of objects produced over three centuries of contact between Asia, the Americas, and Europe, this subject remains unfamiliar to many American audiences. Our hope is that these proceedings will inspire new scholarship and exhibitions that will continue to mine the complex and expansive narratives of the world’s first global network.
 
+## Notes
 
 [^1]: Emma Helen Blair and James Alexander Robertson, *The Philippine Islands, 1493–1898*, 55 vols. (The Arthur H. Clark Company, 1905), 36:202, 205.
 
