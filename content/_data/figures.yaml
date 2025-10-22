@@ -252,7 +252,7 @@ figure_list:
   - id: junco-fig-2
     src: figures/inline/junco-fig-2.jpg
     label: Fig. 2
-    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of the Manila Galleon, Baja California, Mexico, 2015." 
+    caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of a Manila Galleon, Baja California, Mexico, 2015." 
     credit: "Courtesy the author."
     alt: Four people surround a square hole dug out of a stretch of sandy dunes.
 
@@ -332,33 +332,39 @@ figure_list:
     caption: "Church of San Nicolás de Tolentino, Manila, about 1945." 
     credit: "Courtesy the author."
 
+  - id: kasl-fig-2-new
+    src: figures/inline/kasl-fig-1.jpg
+    label: Fig. 2
+    caption: "*El Santo Cristo de la Paciencia*, in *Excelsior: Revista decenal ilustrada*, vol. 4, no. 72 (April 20, 1908), 1067." 
+    credit: "Courtesy the Filipinas Heritage Library."
+
   - id: kasl-fig-2
     src: figures/inline/kasl-fig-2.jpg
-    label: Fig. 2
+    label: Fig. 3
     caption: "Pedro Villafranca Malagón, Frontispiece, 1633. Diego de Santa Teresa, *História general de los religiosos descalzos del orden de los ermitaños del gran padre, y doctor de la Iglesia San Agustin* (Barcelona, 1743)."
     credit: "Biblioteca Nacional de España, Madrid."
 
   - id: kasl-fig-3
     src: figures/inline/kasl-fig-3.jpg
-    label: Fig. 3
+    label: Fig. 4
     caption: "Unknown artist, *El Señor del Cacao*, Metropolitan Cathedral, Mexico City, 1600s. Polychromed *caña de maíz* (cornstalk paste, gesso, and oil paint)."
     credit: "Courtesy the author."
 
   - id: kasl-fig-4
     src: figures/inline/kasl-fig-4.jpg
-    label: Fig. 4
+    label: Fig. 5
     caption: "Hispano-Philippine artist, *Nave Typus Religionis (Ship of Religion)*, 1600s. Ivory, 10⅛ × 8½ in. (25.7 × 21.5 cm)."
     credit: Museo Nacional de Artes Decorativas, Madrid. Photo courtesy of Ansorena.
 
   - id: kasl-fig-5
     src: figures/inline/kasl-fig-5.jpg
-    label: Fig. 5
-    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Manila: Nicolás de la Cruz Begay, 1749)." 
+    label: Fig. 6
+    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
     credit: "Courtesy of the John Carter Brown Library."
 
   - id: kasl-fig-6
     src: figures/inline/kasl-fig-6.jpg
-    label: Fig. 6
+    label: Fig. 8
     caption: "Johannes Vingboons (and/or workshop), *The Dutch Attack on Cavite in 1647*, in *Atlas Blaeu-van der Hem*, about 1670. Pen and brush drawing." 
     credit: "Österreichische Nationalbibliothek, Vienna."
 
@@ -545,23 +551,23 @@ figure_list:
     src: figures/inline/onn-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, *Acamapichtli* from the *Codex Tovar*, fol. 93, Mexico, about 1585." 
-    credit: "Library of Congress, Washington, DC."
+    credit: "Wikimedia Commons."
 
   - id: onn-fig-4
     src: figures/inline/onn-fig-4.jpg
-    label: Fig. 4
+    label: Fig. 5
     caption: "Choirstalls in the church of San Agustin, Manila, Philippines, about 1608–14."
     credit: 
 
   - id: onn-fig-5
     src: figures/inline/onn-fig-5.jpg
-    label: Fig. 5
+    label: Fig. 6
     caption: "Choir lectern in the choir loft of San Agustin Church, Manila, Philippines, about 1728–34." 
     credit: "Courtesy the author."
 
   - id: onn-fig-6
     src: figures/inline/onn-fig-6.jpg
-    label: Fig. 6
+    label: Fig. 4
     caption: "Altar table, Philippines, 1700s. Wood (balayong) and metal, 27½ × 31½ × 19⅝ in. (70 × 80 × 50 cm)."
     credit: Collection of Paulino and Hetty Que.
 
@@ -733,7 +739,7 @@ figure_list:
   - id: rojas-fig-7
     src: figures/inline/rojas-fig-7.jpg
     label: Fig. 7
-    caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, Overall: 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
+    caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
     credit: © The Phoebus Foundation, Antwerp
 
   - id: rojas-fig-8

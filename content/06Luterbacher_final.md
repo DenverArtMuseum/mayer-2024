@@ -2,7 +2,7 @@
 title: “Graceful, Rich, and Pleasing to the Eye”
 subtitle: Seamless Facture Across the Pacific
 layout: essay
-order: 110
+order: 120
 classes:
   - page-one
 contributor:
