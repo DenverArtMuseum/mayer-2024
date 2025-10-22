@@ -333,7 +333,7 @@ figure_list:
     credit: "Courtesy the author."
 
   - id: kasl-fig-2-new
-    src: figures/inline/kasl-fig-1.jpg
+    src: figures/inline/kasl-fig-2-new.jpg
     label: Fig. 2
     caption: "*El Santo Cristo de la Paciencia*, in *Excelsior: Revista decenal ilustrada*, vol. 4, no. 72 (April 20, 1908), 1067." 
     credit: "Courtesy the Filipinas Heritage Library."
