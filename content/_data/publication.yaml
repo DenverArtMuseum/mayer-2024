@@ -61,7 +61,7 @@ contributor:
     last_name: Luis
     title: Rohrbaugh Family Assistant Professor, Department of History
     affiliation: Johns Hopkins University
-    bio: "Diego Javier Luis is the Rohrbaugh Family Assistant Professor in the Department of History at Johns Hopkins University. He specializes in the fields of Colonial Latin America and Spanish Pacific Studies. He is the author of The First Asians in the Americas: A Transpacific History, published January 2024 by Harvard University Press."
+    bio: "Diego Javier Luis is the Rohrbaugh Family Assistant Professor in the Department of History at Johns Hopkins University. He specializes in the fields of colonial Latin America and Spanish Pacific studies. He is the author of *The First Asians in the Americas: A Transpacific History* (Harvard University Press, 2024)."
     
   - id: Rivas
     type: primary
@@ -77,7 +77,7 @@ contributor:
     last_name: Junco
     title: Deputy Director
     affiliation: SAS-INAH
-    bio: "Dr. Roberto Junco has been Deputy Director of the Vice Directorate of Underwater Archeology (SAS) of the National Institute of Anthropology and History (INAH) Mexico since 2017. He is an Affiliated Scholar of the Institute of Nautical Archeology, a member of the Society for Historical Archeology, ICUCH, and an Institutional Board Member of ACUA. He holds a PhD from the National School of Anthropology and History (ENAH) and a Diploma in Historical Archaeology from Leicester University."
+    bio: "Roberto Junco has been Deputy Director of the Vice Directorate of Underwater Archaeology (SAS) of the National Institute of Anthropology and History (INAH) Mexico since 2017. He is an Affiliated Scholar of the Institute of Nautical Archaeology, a member of the Society for Historical Archaeology and the International Committee on the Underwater Cultural Heritage (ICUCH), and an Institutional Board Member of the Advisory Council on Underwater Archaeology (ACUA). He holds a PhD from the National School of Anthropology and History (ENAH) and a diploma in Historical Archaeology from Leicester University."
   
   - id: McQuade
     type: secondary
@@ -85,7 +85,7 @@ contributor:
     last_name: Connors McQuade
     title: Vice President of Collections
     affiliation: Museum of the City of New York
-    bio: "Margaret E. Connors McQuade is an independent curator and works as the Director of Collections, Museum of the City of New York. She was previously Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly 31 years. She received her Ph.D. in art history from the Graduate Center at the City University of New York in 2005. She has curated several exhibitions ceramics, including *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society, 1999) and *Alcora en New York: La colección de cerámica de Alcora* (Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005)."
+    bio: "Margaret E. Connors McQuade is an independent curator and works as the Vice President of Collections, Museum of the City of New York. She was previously Deputy Director and Head of Collections at the Hispanic Society Museum & Library, where she worked in a number of roles for nearly thirty-one years. She received her PhD in art history from the Graduate Center at the City University of New York in 2005. She has curated several exhibitions on ceramics, including *Talavera Poblana: Four Centuries of a Mexican Ceramic Tradition* (Americas Society, 1999) and *Alcora en New York: La colección de cerámica de Alcora* (Museo de Bellas Artes de Castellón de la Plana and Museo de Bellas Artes, Valencia, 2005)."
   
   - id: Corrigan
     type: primary
@@ -93,7 +93,7 @@ contributor:
     last_name: Corrigan
     title: Deputy Chief Curator and H. A. Crosby Forbes Curator of Asian Export Art
     affiliation: Peabody Essex Museum
-    bio: "Karina H. Corrigan is the Associate DirectorCollections and the H.A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Associate Director – Collections, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to the collection through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan, and South Asia. She has organized ten changing exhibitions drawn from PEM’s notable collections including Asia in Amsterdam: The Culture of Luxury in the Golden Age, co-organized with the Rijksmuseum."
+    bio: "Karina H. Corrigan is the Deputy Chief Curator and the H. A. Crosby Forbes Curator of Asian Export Art at the Peabody Essex Museum (PEM). As Deputy Chief Curator, she is responsible for spearheading research on PEM’s rich and storied collection, enhancing access to it through increased documentation, digitization, and display, and building the collection through new acquisitions. In her curatorial practice, she oversees the largest, most comprehensive public collection of cross-cultural art from China, Japan, and South Asia. She has organized ten changing exhibitions drawn from PEM’s notable collections, including *Asia in Amsterdam: The Culture of Luxury in the Golden Age*, coorganized with the Rijksmuseum."
   
   - id: Kasl
     type: secondary
@@ -101,7 +101,7 @@ contributor:
     last_name: Kasl
     title: Curator of Latin American Art
     affiliation: The Metropolitan Museum of Art
-    bio: "Ronda Kasl is Curator of Latin American Art at The Metropolitan Museum of Art, where she oversees the development and presentation of a new collection area. A specialist in the art of Spain and Spanish America, her curatorial work is chiefly concerned with the ways in which art objects are embedded in both local and global contexts of making and meaning. In addition to her curatorial work, she is Scholar in Practice at the Committee on Global Thought, Columbia University.  She has curated numerous installations and exhibitions, including *Sacred Spain: Art and Belief in the Spanish World* (2009), *Cristóbal de Villalpando: Mexican Painter of the Baroque* (2017), and *Crossroads: Empires and Emporia* (2020–22)."
+    bio: "Ronda Kasl is Curator of Latin American Art at The Metropolitan Museum of Art. A specialist in the art of Spain and Spanish America, her curatorial work is chiefly concerned with the ways in which art objects are embedded in both local and global contexts of making and meaning. In addition to her curatorial work, she is Scholar in Practice at the Committee on Global Thought, Columbia University.  She has curated numerous installations and exhibitions, including *Sacred Spain: Art and Belief in the Spanish World* (2009), *Cristóbal de Villalpando: Mexican Painter of the Baroque* (2017), and *Crossroads: Empires and Emporia* (2020–22)."
 
   - id: Santner
     type: primary
@@ -109,15 +109,15 @@ contributor:
     last_name: Santner
     title: Assistant Curator of Latin American Art
     affiliation: Denver Art Museum
-    bio: "Kathryn Santner is the Assistant Curator of Latin American Art at the Denver Art Museum. Prior to joining the museum as the Frederick and Jan Mayer Fellow of Spanish Colonial Art, she worked as the Curatorial Fellow of Art of the Spanish Americas at the Carl and Marilynn Thoma Foundation and a Leverhulme Early Career Fellow at the School of Advanced Study, University of London."
+    bio: "Kathryn Santner is the Assistant Curator of Latin American Art at the Denver Art Museum. Prior to joining the museum as the Frederick and Jan Mayer Fellow of Spanish Colonial Art, she worked at the Carl and Marilynn Thoma Foundation and the School of Advanced Study, University of London."
 
   - id: Lua
     type: secondary
     first_name: Abi 
     last_name: Lua
     title: Assistant Curator
-    affiliation: James A. Michener Art Museum
-    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. At the Michener, she has curated or co-curated *Yesterday's Dreams Are Real: Collecting Black Art and the Legacy of Lewis Tanner Moore* (2025) and *Lisa Naples: Grounded in Gold* (2025)."
+    affiliation: Michener Art Museum
+    bio: "Abi Lua is Assistant Curator at the James A. Michener Art Museum, in Doylestown, Pennsylvania. She specializes in American and global craft and material culture, and her research has been supported by the Center for Material Culture Studies at the University of Delaware. At the Michener, she has curated or cocurated *Yesterday's Dreams Are Real: Collecting Black Art and the Legacy of Lewis Tanner Moore* (2025) and *Lisa Naples: Grounded in Gold* (2025)."
 
   - id: Onn
     type: secondary
@@ -125,7 +125,7 @@ contributor:
     last_name: Onn
     title: Director
     affiliation: Asian Civilisations Museum and Peranakan Museum
-    bio: "Clement Onn is the Director of the Asian Civilisation Museum and Peranakan Museum, Singapore. Prior to that, he was the deputy director (curatorial & research) and principal curator of Asian export art. His research interest lies in exchanges between Asia and Europe in the 16th and 18th centuries. His primary focus is on trading networks and the spread of the Christian faith in Asia, particularly in the Indian Subcontinent, Japan, China, and the Philippines. He has co-curated the exhibition Christianity in Asia: Sacred Art and Visual Splendour (2016), Port Cities: Multicultural Emporiums of Asia 1500–1900 (2016), Life in Edo x Russel Wong in Kyoto (2021), and the most recent Manila Galleon: From Asia to the Americas (2023)."
+    bio: "Clement Onn is the Director of the Asian Civilisation Museum and Peranakan Museum, Singapore. Prior to that, he was the deputy director (curatorial & research) and principal curator of Asian export art. His research interest lies in exchanges between Asia and Europe in the sixteenth and eighteenth centuries. His primary focus is on trading networks and the spread of the Christian faith in Asia, particularly in the Indian subcontinent, Japan, China, and the Philippines. He has co-curated the exhibitions *Christianity in Asia: Sacred Art and Visual Splendour* (2016), *Port Cities: Multicultural Emporiums of Asia 1500–1900* (2016), *Life in Edo x Russel Wong in Kyoto* (2021), and *Manila Galleon: From Asia to the Americas* (2023)."
 
   - id: Rojas
     type: secondary
@@ -133,7 +133,7 @@ contributor:
     last_name: Rojas
     title: Professor
     affiliation: School of Architecture, UNAM
-    bio: "Aldo Solano Rojas is an architectural and design historian, author of Playgrounds del México moderno (Cubo Blanco, 2018), member of the Mexican chapter of DOCOMOMO. He is currently a professor in the School of Architecture of the National University of Mexico (UNAM)."
+    bio: "Aldo Solano Rojas is an architectural and design historian, author of *Playgrounds del México moderno* (Cubo Blanco, 2018), and member of the Mexican chapter of DOCOMOMO, which documents and conserves modern architecture and design. He is currently a professor in the School of Architecture of the National University of Mexico (UNAM)."
 
   - id: Luterbacher
     type: secondary
@@ -141,7 +141,7 @@ contributor:
     last_name: Luterbacher
     title: Assistant Professor
     affiliation: Occidental College
-    bio: "Samuel Frédéric Luterbacher is Assistant Professor in the Department of Art and Art History at Occidental College. His research focuses on the early modern art and material culture, particularly the arts of the Portuguese and Spanish Empires, centering on Iberian expansion in Asia and trade with Japan. His work has been supported by the Center for Advanced Study in the Visual Arts in Washington D.C and he has been a member of The Global Horizons in Pre-modern Art research group at the University of Bern’s Institute of Art History."
+    bio: "Samuel Frédéric Luterbacher is Assistant Professor in the Department of Art and Art History at Occidental College. His research focuses on the early modern art and material culture, particularly the arts of the Portuguese and Spanish empires, centering on Iberian expansion in Asia and trade with Japan. His work has been supported by the Center for Advanced Study in the Visual Arts in Washington DC, and he has been a member of the Global Horizons in Pre-modern Art research group at the University of Bern’s Institute of Art History."
 
 # ------------------------------------------------------------------------------
 # Copright & License
