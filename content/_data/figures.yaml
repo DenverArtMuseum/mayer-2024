@@ -4,6 +4,7 @@ figure_list:
     label: Fig. 1
     caption: "Attributed to the School of Giovanni Niccolò and the Jesuit Seminary workshop, Kyushu, Japan, with lacquer case by artists in Japan, probably Kyushu, Portable shrine, about 1597. Oil on wood panel, in a lacquered wood case with mother-of-pearl inlay."
     credit: "Peabody Essex Museum, Salem: Museum purchase, made possible by an anonymous donor, 2000. AE85752."
+    alt: A painting of a woman with a white head covering and gold halo holds an infant swaddled in red cloth and a halo. The painting is inside a gold shrine with floral motifs and two birds at top.
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
@@ -331,73 +332,83 @@ figure_list:
     label: Fig. 1
     caption: "Church of San Nicolás de Tolentino, Manila, about 1945." 
     credit: "Courtesy the author."
+    alt: A photograph of church ruins.
 
   - id: kasl-fig-2-new
     src: figures/inline/kasl-fig-2-new.jpg
     label: Fig. 2
     caption: "*El Santo Cristo de la Paciencia*, in *Excelsior: Revista decenal ilustrada*, vol. 4, no. 72 (April 20, 1908), 1067." 
     credit: "Courtesy the Filipinas Heritage Library."
+    alt: A black and white photograph of a sculpture of Jesus.
 
   - id: kasl-fig-2
     src: figures/inline/kasl-fig-2.jpg
     label: Fig. 3
     caption: "Pedro Villafranca Malagón, Frontispiece, 1633. Diego de Santa Teresa, *História general de los religiosos descalzos del orden de los ermitaños del gran padre, y doctor de la Iglesia San Agustin* (Barcelona, 1743)."
     credit: "Biblioteca Nacional de España, Madrid."
+    alt: A black and white book frontispiece showing two monks and a bishop.
 
   - id: kasl-fig-3
     src: figures/inline/kasl-fig-3.jpg
     label: Fig. 4
     caption: "Unknown artist, *El Señor del Cacao*, Metropolitan Cathedral, Mexico City, 1600s. Polychromed *caña de maíz* (cornstalk paste, gesso, and oil paint)."
     credit: "Courtesy the author."
+    alt: A sculpture of Christ leaning on one knee and wearing a red and gold mantle. 
 
   - id: kasl-fig-4
     src: figures/inline/kasl-fig-4.jpg
     label: Fig. 5
     caption: "Hispano-Philippine artist, *Nave Typus Religionis (Ship of Religion)*, 1600s. Ivory, 10⅛ × 8½ in. (25.7 × 21.5 cm)."
     credit: Museo Nacional de Artes Decorativas, Madrid. Photo courtesy of Ansorena.
+    alt: An ivory bas relief of a ship heavily populated with religious figures and a cross for a mast. 
 
   - id: kasl-fig-5
     src: figures/inline/kasl-fig-5.jpg
     label: Fig. 6
     caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
     credit: "Courtesy of the John Carter Brown Library."
+    alt: A print showing two dressed Virgin Mary sculptures. 
 
   - id: kasl-fig-6
     src: figures/inline/kasl-fig-6.jpg
     label: Fig. 8
     caption: "Johannes Vingboons (and/or workshop), *The Dutch Attack on Cavite in 1647*, in *Atlas Blaeu-van der Hem*, about 1670. Pen and brush drawing." 
     credit: "Österreichische Nationalbibliothek, Vienna."
+    alt: A hand-colored print showing a bay dotted with ships. 
 
   - id: kasl-fig-7
     src: figures/inline/kasl-fig-7.jpg
     label: Fig. 7
     caption: "Interior of the church of San Nicolás de Tolentino, about 1930." 
     credit: "Archivo General de la Orden de Agustinos Recoletos, Rome."
+    alt: A black and white photograph of interior of a church. 
 
   - id: lua-fig-1
     src: figures/inline/lua-fig-1.jpg
     label: Fig. 1
     caption: "Artist in Manila, Philippines, Piña cloth, Philippines, 1829. 15 × 13¾ in. (38.1 × 34.9 cm)."
     credit: "Peabody Essex Museum, Salem: Gift of Capt. Joseph J. Knapp, 1829, E6538. Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
+    alt: A square of ivory colored woven cloth. 
 
   - id: lua-fig-2
     src: figures/inline/lua-fig-2.jpg
     label: Fig. 2
     caption: "Artist in Manila, Philippines, Detail of J. J. Knapp's piña cloth, Philippines, 1829." 
     credit: "Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
+    alt: A square of ivory colored woven cloth. 
 
   - id: lua-fig-3
     src: figures/inline/lua-fig-3.jpg
     label: Fig. 3
     caption: "Scraping the epidermis of the pineapple leaf with a porcelain plate shard, Aklan, 2022."
     credit: "Courtesy of the author."
-
+    
   - id: lua-fig-4
     src: figures/inline/lua-fig-4.jpg
     label: Fig. 4
     caption: "Scraping for the *liniwan* fibers with a coconut shell, Aklan, 2022." 
     credit: "Courtesy of the author."
-
+ 
   - id: lua-fig-5
     src: figures/inline/lua-fig-5.jpg
     label: Fig. 5
