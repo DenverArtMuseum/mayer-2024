@@ -372,7 +372,7 @@ figure_list:
   - id: kasl-fig-6
     src: figures/inline/kasl-fig-6.jpg
     label: Fig. 8
-    caption: "Johannes Vingboons (and/or workshop), *The Dutch Attack on Cavite in 1647*, in *Atlas Blaeu-van der Hem*, about 1670. Pen and brush drawing." 
+    caption: "Johannes Vingboons (and/or workshop), *The Dutch Attack on Cavite in 1647*, in Laurens Van der Hem, *Atlas Blaeu-van der Hem*, 50 vols. (Amsterdam, about 1670). Pen and brush drawing." 
     credit: "Österreichische Nationalbibliothek, Vienna."
     alt: A hand-colored print showing a bay dotted with ships. 
 
@@ -569,114 +569,133 @@ figure_list:
     label: Fig. 1
     caption: "Unknown artist, Writing cabinet with emblem of Mexico City, Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
     credit: Asian Civilisations Museum, Singapore [2019-00743].
+    alt: Writing cabinet with emblem of Mexico City. 
 
   - id: onn-fig-2
     src: figures/inline/onn-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, Writing cabinet with emblem of Mexico City (detail), Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
     credit: Asian Civilisations Museum, Singapore [2019-00743].
+    alt: Closeup view of writing cabinet with emblem of Mexico City. 
 
   - id: onn-fig-3
     src: figures/inline/onn-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, *Acamapichtli* from the *Codex Tovar*, fol. 93, Mexico, about 1585." 
     credit: "Wikimedia Commons."
+    alt: A painting of a man holding a spear with a floating, disembodied hand holding spikes nearby.
 
   - id: onn-fig-4
     src: figures/inline/onn-fig-4.jpg
     label: Fig. 5
     caption: "Choirstalls in the church of San Agustin, Manila, Philippines, about 1608–14."
-    credit: 
+    credit: "Courtesy the author."
+    alt: A photograph of ornate, wooden choirstalls.
 
   - id: onn-fig-5
     src: figures/inline/onn-fig-5.jpg
     label: Fig. 6
     caption: "Choir lectern in the choir loft of San Agustin Church, Manila, Philippines, about 1728–34." 
     credit: "Courtesy the author."
+    alt: A large, wooden lectern holding several sheets of music. 
 
   - id: onn-fig-6
     src: figures/inline/onn-fig-6.jpg
     label: Fig. 4
     caption: "Altar table, Philippines, 1700s. Wood (balayong) and metal, 27½ × 31½ × 19⅝ in. (70 × 80 × 50 cm)."
     credit: Collection of Paulino and Hetty Que.
+    alt: Wooden cabinet with legs that feature paws holding balls.
 
   - id: onn-fig-7
     src: figures/inline/onn-fig-7.jpg
     label: Fig. 7
     caption: "Cabinets in the sacristy of San Agustin, Manila, Philippines, 1600s or 1700s."
     credit: "Courtesy the author."
+    alt: A long wooden cabinet.
 
   - id: onn-fig-8
     src: figures/inline/onn-fig-8.jpg
     label: Fig. 8
     caption: "Fall-front cabinet in San Agustin Church, Manila, Philippines, 1700s." 
-    credit: 
+    credit: "Courtesy the author."
+    alt: An ornately decorated wooden cabinet. 
 
   - id: onn-fig-9
     src: figures/inline/onn-fig-9.jpg
     label: Fig. 9
-    caption: "Cabinet, India, Gujarat, 1600s. Ivory, rosewood, ebony, silver, and metals." 
+    caption: "Cabinet, India, Gujarat, 1600s. Ivory, rosewood, ebony, silver, and metals, 26 × 19¼ × 11¾ in. (66 × 49 × 30 cm)." 
     credit: "Asian Civilisations Museum, Singapore [2015-00516]."
+    alt: A triangular-shaped cabinet heavily ornamented in wood and metal. 
 
   - id: onn-fig-10
     src: figures/inline/onn-fig-10.jpg
     label: Fig. 10
     caption: "Cabinet, Mughal India, probably Agra, about 1640. Rosewood, ebony, ivory, and iron, 17¾ × 26 × 17⅜ in. (45 × 66 × 44 cm)."
     credit: "Asian Civilisations Museum, Singapore [2013-00164]: Gift of Dr Reshma Merchant and Mr Aziz Merchant, with ACM acquisition funds."
+    alt: An open wooden cabinet with ivory floral motifs. 
 
   - id: onn-fig-11
     src: figures/inline/onn-fig-11.jpg
     label: Fig. 11
     caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214., Mexico, about 1579."
     credit: "Biblioteca Nacional de España, Madrid [Vitr/26/11]."
+    alt: A painting of Indigenous people offering a wreath or necklace to a man in European clothes. Armored soldiers hold spears.
 
   - id: onn-fig-12
     src: figures/inline/onn-fig-12.jpg
     label: Fig. 12
     caption: "Writing cabinet, Manila, 1600s. Wood (balayong), bone, and iron, 17⅞ × 12¾ × 13¼ in. (45.5 × 32.5 × 33.5 cm)."
     credit: Fernando and Catherine Zobel de Ayala Collection.
+    alt: A wooden cabinet with an ornate locking hinge. 
 
   - id: onn-fig-13
     src: figures/inline/onn-fig-13.jpg
     label: Fig. 13
     caption: "Chest, Manila, 1700s. Wood (mahogany and dalbergia), bone, and brass, 29⅞ × 47¼ × 22 in. (76 × 120 × 56 cm)."
     credit: Museo Franz Mayer, Mexico City [04929].
+    alt: A wooden cabinet with inlaid floral imagery. 
 
   - id: onn-fig-14
     src: figures/inline/onn-fig-14.jpg
     label: Fig. 14
     caption: "Box, Philippines, late 1600s. Wood, bone, silver, and iron, 6¼ × 18⅛ × 15 in. (16 × 46 × 38 cm)."
     credit: Museo Franz Mayer, Mexico City [04943].
+    alt: A wooden box with inlaid floral imagery. 
 
   - id: onn-fig-15
     src: figures/inline/onn-fig-15.jpg
     label: Fig. 15
     caption: "Altar table (detail), Philippines, 1600s or 1700s. Wood (balayong) and metal."
-    credit: "Intramuros Museum, Manila."
+    credit: "Museo de Intramuros, Manila. Courtesy the author."
+    alt: Close-up view of vegetal motifs on a wooden altar table. 
 
   - id: onn-fig-16
     src: figures/inline/onn-fig-16.jpg
     label: Fig. 16
     caption: "Cabinet, Philippines, around 1700. Wood, bone, and silver, 23⅝ × 32⅛ × 16⅞ in. (60 × 81.5 × 43 cm)."
-    credit: Family of Mr and Mrs Lee Kip Lee, Singapore.
+    credit: Family of Mr. and Mrs. Lee Kip Lee, Singapore.
+    alt: A cabinet heavily decorated with white floral motifs. 
 
   - id: onn-fig-17
     src: figures/inline/onn-fig-17.jpg
     label: Fig. 17
     caption: "Cabinet, Philippines, around 1700. Wood, bone, silver, and iron, 23⅝ × 33¼ × 17⅞ in. (60 × 84.5 × 45.5 cm)."
     credit: Museo Franz Mayer, Mexico City [00415].
+    alt: A wooden box with intricate vegetal motifs. 
 
   - id: rojas-fig-1
     src: figures/inline/rojas-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, *Peres Maldonado Ex-voto*, Mexico, 1770. Oil on canvas, 27¼ × 36½ in. (69.2 × 92.7 cm)."
     credit: "Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10."
+    alt: A painting of a priest holding up a veiled woman having a chest operation in her bedroom. Spectators gather around her bed to observe. On the right is an altar table with status of the Virgin and Child, Christ on the Cross, and framed devotional paintings.
 
   - id: rojas-fig-2
     src: figures/inline/rojas-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, Copy of mid-eighteenth-century biombo showing a fête-galante in the house of Manuel and Teresa Barbachano Ponce, Mexico City, 1978. Oil on panel."
     credit: "© Bob Schalkwijk."
+    alt: A black and white photograph of a 10-panel biombo in the middle of a living room. The biombo shows aristocratic men and women enjoying food and live music in an outdoor garden.
 
   - id: rivas-fig-1
     src: figures/inline/rivas-fig-1.jpg
@@ -746,111 +765,130 @@ figure_list:
     label: Fig. 3
     caption: "Biombo Showing Fête Galante, Mexico, 1700s."
     credit: "Corcuera House. Image from *Diseño. Sugerencias para Vivir Mejor*, May 1973."
+    alt: A color photograph of an interior dining room with a partial view of a biombo placed against the left hand wall. Our view of the biombo shows aristocratic men enjoying food and games outdoors.
 
   - id: rojas-fig-4
     src: figures/inline/rojas-fig-4.jpg
     label: Fig. 4
     caption: "Attributed to Miguel Cabrera (1695–1768), Biombo with the Muses, Mexico, mid-1700s."
     credit: "Verna Cook Shipway Papers, Special Collections & Archives, UC San Diego."
+    alt: A black and white photograph of an interior dining room with a biombo pushed up against the wall. The biombo depicts women in Classical garbs enjoying live music in the outdoors.
 
   - id: rojas-fig-5
     src: figures/inline/rojas-fig-5.jpg
     label: Fig. 5
     caption: "Unknown artist, Wood Biombo with Retablos in the House of David and Anne Wilson, San Miguel de Allende, Guanajuato, Mexico, 1979." 
     credit: "© Bob Schalkwijk."
+    alt: A black and white photograph of a 3 panel biombo with 9 rectangular vignettes of religious scenes.
 
   - id: rojas-fig-6
     src: figures/inline/rojas-fig-6.jpg
     label: Fig. 6
     caption: "Interior design by Arturo Pani (1915–1981), House of Barbachano Ponce, Mexico, 1957."
-    credit: "Image from *Diseño. Sugerencias para Vivir Mejor*, January 1970."
+    credit: "Image from *Diseño. Sugerencias para Vivir Mejor*, January 1970, 72–73."
+    alt: A scanned image of a home interior. A 6 panel biombo is pushed up against the wall on the right. The biombo depicts aristocratic men and women enjoying live music and food in the outdoors.
 
   - id: rojas-fig-7
     src: figures/inline/rojas-fig-7.jpg
     label: Fig. 7
     caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
     credit: © The Phoebus Foundation, Antwerp
+    alt: A 6 panel biombo with a cartographic image of North America emphasizing Mexico in red.
 
   - id: rojas-fig-8
     src: figures/inline/rojas-fig-8.jpg
     label: Fig. 8
     caption: "Jesús “Chucho” Reyes Ferreira (1882–1977), *Biombo*, Mexico, ca. 1960. Oil on wood."
     credit: Courtesy Chucho Reyes.
+    alt: A 3 panel biombo with 9 rectangular vignettes of illustrated roses in pink, blue, red, and yellow.
 
   - id: rojas-fig-9
     src: figures/inline/rojas-fig-9.jpg
     label: Fig. 9
     caption: "David Alfaro Siqueiros (1896–1974), *Miniature Biombo with Fourteen Panels*, Mexico, 1965. Pyroxylin on wood."
     credit: "Sala de Arte Público Siqueiros/ Instituto Nacional de Bellas Artes y Literatura. Photograph by the author."
+    alt: A long biombo with short square panels displayed in a gallery case. The panels are illustrated with gestural strokes of red and black paint.
 
   - id: rojas-fig-10
     src: figures/inline/rojas-fig-10.jpg
     label: Fig. 10
     caption: "House of Luis Barragán, Tacabuya, Mexico City, 1948."
     credit: "Photograph by Alberto Moreno Guzmán."
+    alt: A black and white photo of a living room with a parchment biombo, couch, coffee table, stool seats, and a modern painting hung on a white wall.
 
   - id: rojas-fig-11
     src: figures/inline/rojas-fig-11.jpg
     label: Fig. 11
     caption: "Luis Barragán (1902–1988), Original Floor Plan Drawing with Furniture Layout for Barragán’s House, Mexico City, 1948." 
     credit: "Courtesy Barragán Foundaiton. © 2025 Barragán Foundation, Switzerland / Artists Rights Society (ARS), New York."
+    alt: A floor plan showing the interior rooms and outdoor garden of Barragán's house.
 
   - id: rojas-fig-12
     src: figures/inline/rojas-fig-12.jpg
     label: Fig. 12
     caption: "View of Parchment Biombo, house of Luis Barragán, Tacabuya, Mexico City, 2024."
     credit: "Courtesy the author."
+    alt: A color photograph of a parchment biombo in Barragán's house. In front of the biombo is a statue of the Virgin and child placed on a white pedestal.
 
   - id: rojas-fig-13
     src: figures/inline/rojas-fig-13.jpg
     label: Fig. 13
     caption: "Juan Sordo Madaleno (1916–1985), *Architect's Studio*, Mexico City, 1948."
     credit: "Photo by Guillermo Zamora, courtesy of Fundación Sordo Madaleno."
+    alt: A black and white photograph of Juan Sordo Madaleno working in his studio. Madaleno sits in a different room from us, framed by the wood paneled doorway and with his turned towards us.
 
   - id: rojas-fig-14
     src: figures/inline/rojas-fig-14.jpg
     label: Fig. 14
     caption: "Juan Sordo Madaleno (1916–1985), furniture by Clara Porset (1895–1981), Interiors of the Cine París, Mexico City, 1954."
     credit: "Photo by Guillermo Zamora, courtesy of Fundación Sordo Madaleno."
+    alt: A black and white photo of a staircase leading to a large room with an oversized white biombo.
 
   - id: rojas-fig-15
     src: figures/inline/rojas-fig-15.jpg
     label: Fig. 15
     caption: "Mathias Goeritz (1915–1990), Lattice for the Entryway of Ricardo Legorreta's Hotel Camino Real, Mexico City, 1968."
     credit: "Photograph by Armando Salas Portugal."
+    alt: A photograph of a wide exterior space with an in ground water fountain and modernist black gateway with squared holes and  an open space for passersby to the left.
 
   - id: santner-fig-1
     src: figures/inline/santner-fig-1.jpg
     label: Fig. 1
     caption: "*Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ssmo Rossario, Año de 1750*."
     credit: "Archivo de la Provincia del Santísimo Rosario, Avila. Photo by author."
+    alt: A manuscript page with Spanish text.
 
   - id: santner-fig-2
     src: figures/inline/santner-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, *Ramillete*, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
     credit: "Museo de Intramuros, Manila."
+    alt: A silver floral ornament. 
 
   - id: santner-fig-3
     src: figures/inline/santner-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, Silver Panel, Mexico or Philippines, about 1785. Silver, 33¼  × 29¼ ×  2 in. (84.5 × 74.3 × 5.1 cm)."
     credit: "Denver Art Museum: Gift of the collection of Frederick and Jan Mayer, 2013.301."
+    alt: A rectangular silver panel with raised ornamentation. 
 
   - id: santner-fig-4
     src: figures/inline/santner-fig-4.jpg
     label: Fig. 4
     caption: "Unknown artist, Chalice, Acapulco and Manila, 1787. Silver, 9 × 5⅞ in. (23 × 15 cm)."
     credit: Parroquia de Santa María de la Asunción, Mairena del Alcor, Sevilla, Spain.
+    alt: A silver gilt chalice with a round base. 
 
   - id: santner-fig-5
     src: figures/inline/santner-fig-6.jpg
     label: Fig. 5
     caption: "Unknown artist, Heart and Pen, Philippines, 1600s. Gold, heart 6¼ × 4⅜ in. (16 × 11 cm); pen 12⅜ × 1½ in. (31.5 × 3.8 cm)."
     credit: San Agustin, Manila.
+    alt: A gold wirework heart and quill. 
 
   - id: santner-fig-6
     src: figures/inline/santner-fig-6.jpg
     label: Fig. 6
     caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½ in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5 cm)."
     credit: Bangko Sentral ng Pilipinas Collection, Manila.
+    alt: A silver bed holding a small ivory figurine of the Christ Child. 

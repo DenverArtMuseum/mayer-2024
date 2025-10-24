@@ -60,9 +60,9 @@ Early-twentieth-century artists used the format of the biombo as a support for m
 
 {% figure 'rojas-fig-7' %}
 
-Montenegro repeated this formula in 1951: Across four panels, he reproduced a lithograph of the bay of Acapulco from 1628, a work by Dutch artist Adrian Boot (). Montenegro even copied the cartouche—an element present in colonial biombos that narrated battles or showed local fiestas—that held a legend to the map. In doing so, Montenegro referenced the tradition of mestizo and Indigenous artists in New Spain who reproduced European designs entirely, including cartouches and other editorial details like engravers’ signatures.[^20]
+Montenegro repeated this formula in 1951: Across four panels, he reproduced a lithograph of the bay of Acapulco from 1628, a work by Dutch artist Adrian Boot. Montenegro even copied the cartouche—an element present in colonial biombos that narrated battles or showed local fiestas—that held a legend to the map. In doing so, Montenegro referenced the tradition of mestizo and Indigenous artists in New Spain who reproduced European designs entirely, including cartouches and other editorial details like engravers’ signatures.[^20]
 
-Another of these pictorial screens was painted by the Austro-American artist, curator, and collector René d’Harnoncourt. D’Harnoncourt arrived in Mexico in 1925, where he met the antiquarian and dealer Frederick Davis, with whom he traveled the country buying and studying antiques and popular arts.[^21] Painted in 1931, *View of Miacatlán* measures about five feet tall and shows the bucolic and idealized Indigenous village of Miacatlán, located in the state of Morelos, south of Mexico City. D’Harnoncourt emphasized the traditional houses and local residents, ignoring the seventeenth-century church and nineteenth-century buildings in the town. An inscription at the bottom of the biombo recalls less the cartouches on colonial screens than those on popular ex-votos that detail miraculous events. D’Harnoncourt was certainly familiar with the ex-voto tradition, since he included several examples in the exhibition *Mexican Arts* that he curated for The Metropolitan Museum of Art in 1930. He included no biombos in that show but surely knew of them through Davis’s shop.[^22] It recalls colonial biombos showing Indigenous life, like the famous seventeenth-century screen at the Los Angeles County Museum of Art showing festivities, including *voladores*, at an Indigenous wedding. In *View of Miacatlán*, however, d’Harnoncourt mixed colonial and folk art to create something new.
+Another of these pictorial screens was painted by the Austrian American artist, curator, and collector René d’Harnoncourt. D’Harnoncourt arrived in Mexico in 1925, where he met the antiquarian and dealer Frederick Davis, with whom he traveled the country buying and studying antiques and popular arts.[^21] Painted in 1931, *View of Miacatlán* measures about five feet tall and shows the bucolic and idealized Indigenous village of Miacatlán, located in the state of Morelos, south of Mexico City. D’Harnoncourt emphasized the traditional houses and local residents, ignoring the seventeenth-century church and nineteenth-century buildings in the town. An inscription at the bottom of the biombo recalls less the cartouches on colonial screens than those on popular ex-votos that detail miraculous events. D’Harnoncourt was certainly familiar with the ex-voto tradition, since he included several examples in the exhibition *Mexican Arts* that he curated for The Metropolitan Museum of Art in 1930. He included no biombos in that show but surely knew of them through Davis’s shop.[^22] It recalls colonial biombos showing Indigenous life, like the famous seventeenth-century screen at the Los Angeles County Museum of Art showing festivities, including *voladores*, at an Indigenous wedding. In *View of Miacatlán*, however, d’Harnoncourt mixed colonial and folk art to create something new.
 
 {% figure 'rojas-fig-8' 'is-pulled-left' %}
 
@@ -138,7 +138,7 @@ Biombos continued to be part of Mexican art history long after the last galleon 
 
 [^12]: Aldo Solano Rojas, “Arte, coleccionismo y decoración: la revista *Diseño. Sugerencias para Vivir Mejor* (1969-1975),” *Bibliographica* 4, no. 1 (2021): 168–92.
 
-[^13]: Álvaro de Regil, “La belleza funcional del mueble moderno. El biombo, clave de separar sin dividir,” *Diseño. Sugerencias para Vivir Mejor* (1973): 46–49.
+[^13]: Álvaro de Regil, “La belleza funcional del mueble moderno. El biombo, clave de separar sin dividir,” *Diseño. Sugerencias para Vivir Mejor* 4, no. 45 (1973): 46–49.
 
 [^14]: “Bienvenidos a los dobleces,” *Diseño. Sugerencias para Vivir Mejor* (August 1970): 30–32. Translated by the author.
 
@@ -156,7 +156,7 @@ Biombos continued to be part of Mexican art history long after the last galleon 
 
 [^21]: López, *Crafting Mexico*, 111.
 
-[^22]: Richard Townsend, *Indian Art of the Americas at the Art Institute of Chicago* (Art Institute of Chicago, 2016), 17. D’Harnoncourt’s biombo is now part of the Philadelphia Museum of Art.
+[^22]: Richard Townsend, *Indian Art of the Americas at the Art Institute of Chicago* (Art Institute of Chicago, 2016), 17. D’Harnoncourt’s biombo is now part of the Philadelphia Museum of Art ([2022-72-151](https://www.visitpham.org/objects/96035)).
 
 [^23]: See Lily Kassner, *Chucho Reyes* (Editorial RM, 2002).
 

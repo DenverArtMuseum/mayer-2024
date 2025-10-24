@@ -43,7 +43,7 @@ All of these factors contributed to the immense loss of life that became a defin
 
 After disembarkation at Acapulco, following the confluence of objects and people leads us to other unexpected histories beyond formal sites of exchange at trade fairs and urban plazas. In fact, much of the cargo changed hands through informal means. Outside of the marketplace, non-elites gained access to Asian products. Middling merchants led mule trains through the central Mexican highlands, up the coast to Zihuatanejo, and further north to Guadalajara. On the way, they passed through smaller *pueblos de indios* (Indigenous towns) and peddled their wares to buyers with access to silver coins, cacao beans, and other goods for barter. One of these many merchants was Domingo de Villalobos, a thirty-one-year-old Kapampangan man from the Philippines. He lived on the Colima–Guadalajara trade corridor in Tzapotlan (also Zapotlán). From his will in 1618, we can approximate the inventory that these informal traders brought to small towns and scattered populations outside of urban centers in central Mexico:
 
-{% accordion '## Inventory' %}
+{% accordion '## Inventory' '' 'open' %}
 
 -   9 mules
 
