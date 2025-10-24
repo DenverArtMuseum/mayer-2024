@@ -274,7 +274,7 @@ figure_list:
   - id: junco-fig-5
     src: figures/inline/junco-fig-5.jpg
     label: Fig. 5
-    caption: "A replica of the Manila Galleon *N.S. de Guía*, sailing on an ocean of blue and white, Mexico."
+    caption: "A replica of the Manila Galleon *N.S. de Guía*, on blue-and-white ware, Mexico."
     credit: "Museum of Acapulco at the Fort of San Diego. Courtesy the author."
     alt: A model galleon with sails unfurled in a museum gallery surrounded by blue-and-white shards.
 
@@ -395,79 +395,91 @@ figure_list:
     label: Fig. 2
     caption: "Artist in Manila, Philippines, Detail of J. J. Knapp's piña cloth, Philippines, 1829." 
     credit: "Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
-    alt: A square of ivory colored woven cloth. 
+    alt: A photograph of a faint written inscription.
 
   - id: lua-fig-3
     src: figures/inline/lua-fig-3.jpg
     label: Fig. 3
     caption: "Scraping the epidermis of the pineapple leaf with a porcelain plate shard, Aklan, 2022."
     credit: "Courtesy of the author."
+    alt: A photo of a pineapple leaf scraped by a broken dish. 
     
   - id: lua-fig-4
     src: figures/inline/lua-fig-4.jpg
     label: Fig. 4
     caption: "Scraping for the *liniwan* fibers with a coconut shell, Aklan, 2022." 
     credit: "Courtesy of the author."
+    alt: A photo of a hand scraping a leaf with a coconut shell. 
  
   - id: lua-fig-5
     src: figures/inline/lua-fig-5.jpg
     label: Fig. 5
     caption: "Hand-knotting, or *pagpanug-ot* in Aklanon, piña fibers, Aklan, 2022." 
     credit: "Courtesy of the author."
+    alt: A photo of hands knotting two threads. 
 
   - id: lua-fig-6
     src: figures/inline/lua-fig-6.jpg
     label: Fig. 6
     caption: "Knots in Knapp’s cloth under 10× magnification, Philippines, ca. 1829."
     credit: "Courtesy of the author."
+    alt: A photo of the detail of a fabric weave. 
 
   - id: lua-fig-7
     src: figures/inline/lua-fig-7.jpg
     label: Fig. 7
     caption: "Cylindrical piña warp frame, Aklan, 2022."
     credit: "Courtesy of the author."
+    alt: A photograph of a wooden loom. 
 
   - id: lua-fig-8
     src: figures/inline/lua-fig-8.jpg
     label: Fig. 8
     caption: "Shuttle and bobbin with piña weft thread, Aklan, 2022."
     credit: "Courtesy of the author."
+    alt: A photo of a wooden shuttle and bobbin resting on a piece of fabric. 
 
   - id: lua-fig-9
     src: figures/inline/lua-fig-9.jpg
     label: Fig. 9
     caption: "Floor looms at Haboean Weaving Studio, Aklan, 2022." 
     credit: "Courtesy of the author."
+    alt: A photograph of a woman working at a wooden loom. 
 
   - id: lua-fig-10
     src: figures/inline/lua-fig-10.jpg
     label: Fig. 10
     caption: "Blouse, Philippines. Piña cloth, overall: 21 × 53 in. (53.3 × 134.6 cm)."
     credit: The Textile Museum Collection, Washington, DC, 1998.6.1A-C, Gift of Mr. and Mrs. George W. White. Photography by Breton Littlehales.
+    alt: An ivory colored blouse with very poofy sleeves.
 
   - id: lua-fig-11
     src: figures/inline/lua-fig-11.jpg
     label: Fig. 11
     caption: "Damián Domingo (1796–1834), *Mistisa de Manila (A Mistisa Woman of Manila)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
+    alt: A watercolor of a woman in a long skirt, white blouse, and head covering. 
 
   - id: lua-fig-12
     src: figures/inline/lua-fig-12.jpg
     label: Fig. 12
     caption: "Damián Domingo (1796–1834), *India Ollera de Pasig (An Indian Pot-maker of Pasig)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
+    alt: A watercolor of a woman in a blue skirt, blue top, and woven hat, surrounded by pots. 
 
   - id: lua-fig-13
     src: figures/inline/lua-fig-13.jpg
     label: Fig. 13
     caption: "Damián Domingo (1796–1834), *Mestiso de Manila (A Mestise of Manila)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
+    alt: A watercolor of a man in long trousers, a long semi-sheer top, and a top hat, holding a closed umbrella. 
 
   - id: lua-fig-14
     src: figures/inline/lua-fig-14.jpg
     label: Fig. 14
     caption: "Damián Domingo (1796–1834), *Indio de Yloco (An Indian of Yloco)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
+    alt: A watercolor of a man in a white shirt, blue shorts, and woven hat holding a bundle. 
 
   - id: luis-fig-1
     src: figures/inline/luis-fig-1.jpg
@@ -516,35 +528,41 @@ figure_list:
     label: Fig. 1
     caption: "*Portable shrine with the Virgin and Child*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts, 18½ × 13¾ × 2 in. (47.2 × 35 × 5.1 cm). Image: late 16th century. Oil on copper."
     credit: "Santa Maria da Caridade, Sardoal, Portugal. © Santa Maria da Caridade."
+    alt: A photo of a winged altar with embellished doors and a central scene of the Virgin and Child.
 
   - id: luterbacher-fig-2
     src: figures/inline/luterbacher-fig-2.jpg
     label: Fig. 2
     caption: "Hendrick van Balen and Jan Brueghel the Elder, *Madonna and Child in a Flower Garland*, 1607–8. Oil on panel and silver, 10⅝ × 8⅝ in. (27 × 22 cm)."
     credit: "Pinacoteca Ambrosiana, Milan. © Veneranda Biblioteca Ambrosiana/ Palolo Manusardi/Mondadori Portfolio."
+    alt: A painting of the Virgin and Child surrounded by a wreath of flowers. 
 
   - id: luterbacher-fig-3
     src: figures/inline/luterbacher-fig-3.jpg
     label: Fig. 3
     caption: "*Portable Shrine with Martyrdom of St. Stephen*. Shrine: late 16th/early 17th century. Shrine: wood base with lacquer (urushi), gold, silver, and mother-of-pearl and copper mounts, 17⅜ × 13⅜ × 1⅝ in. (44 × 34 × 4.3 cm). Image: 17th century. Feathers glued on paper mounted on unknown substrate, gilt paper."
     credit: "Tokyo National Museum, Tokyo. © ColBase (https://colbase.nich.go.jp/)."
+    alt: A photo of a winged altar with leaf decoration on the doors and a central scene of a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-4
     src: figures/inline/luterbacher-fig-4.jpg
     label: Fig. 4
     caption: "*Saint John the Evangelist*, 17th century. Feathers glued on paper, mounted on copper, gilt paper, 12⅛ × 8⅞ in. (30.8 × 22.5 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.389."
+    alt: An image of St. John the Evangelist holding a chalice made from feathers. 
 
   - id: luterbacher-fig-5
     src: figures/inline/luterbacher-fig-5.jpg
     label: Fig. 5
     caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail)."
+    alt: A detail of an altar panel showing a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-6
     src: figures/inline/luterbacher-fig-6.jpg
     label: Fig. 6
     caption: "*Portable Shrine with the Virgin of Guadalupe and the Four Apparitions*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts. Images: 18th century. Oil on copper foil with embossed silver applications."
     credit: "Daniel Liebsohn Collection, Mexico City. © Archivo fotográfico F.C.D.L/ Colección Daniel Liebsohn."
+    alt: An open shrine with five paintings of the Virgin Mary.
 
   - id: onn-fig-1
     src: figures/inline/onn-fig-1.jpg
