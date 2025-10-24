@@ -70,9 +70,11 @@ Across the archipelago, Philippine churches gleamed with candlelight reflected i
 
 What is clear is that sangley and, to a lesser extent, Indigenous artisans dominated the trade for wrought silver, producing works that were so prized as to be traded across the globe and displayed in exalted spaces from Lima to Rome. Manila’s sangley artisans have been examined primarily as ivory carvers. Attending to their roles as silversmiths helps us better understand not only the kinds of work they produced but the very nature of artistic production in a city where professions were plastic and immigrants looked for economic opportunities wherever they might appear.[^66]
 
+<div class="backmatter">The author would like to thank Emiliano Pérez, OP; Pedro Gil, OFM; Rev. Pe. Ramón Carmona Morillo and Mari Carmen Gavira Vara; the staff of the Archivo General de Indias; Regalado Jose Trota; Ronda Kasl; Diego Javier Luis; and Lilly Barrientos.</div>
+
 ## Notes
 
-[^1]: Archivo de la Provincia del Santísimo Rosario (hereafter APSR), Avila, Estante 1, Tomo 164, “Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ss<sup>mo</sup> Rossario, Año de 1750.” I would like to thank Emiliano Pérez, OP; Pedro Gil, OFM; Rev. Pe. Ramón Carmona Morillo and Mari Carmen Gavira Vara; the staff of the Archivo General de Indias; Regalado Jose Trota; Ronda Kasl; Diego Javier Luis; and Lilly Barrientos.
+[^1]: Archivo de la Provincia del Santísimo Rosario (hereafter APSR), Avila, Estante 1, Tomo 164, “Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ss<sup>mo</sup> Rossario, Año de 1750.” 
 
 [^2]: See Katharine Bjork, “The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815,” *Journal of World History* 9, no. 1 (1998): 25–50; Dennis O. Flynn and Arturo Giráldez, “Born with a ‘Silver Spoon’: The Origin of World Trade in 1571,” *Journal of World History* 6, no. 2 (1995), 201–21; Flynn and Giráldez, “Cycles of Silver: Global Economic Unity Through the Mid-Eighteenth Century,” *Journal of World History* 13, no. 2 (2002): 391–428.
 
@@ -88,7 +90,7 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^8]: Blair and Robertson, *The Philippine Islands*, 17:216.
 
-[^9]: Bartolomé Arzáns de Orsúa y Vela, *Historia de la villa imperial de Potosí* (Brown University, 1965), 1:95–97, 348–49, 390; Amédée-François Frézier, *Relation du voyage de la mer du sud aux côtes du Chily et du Perou, fait pendant les années 1712, 1713 & 1714* (Jean-Geoffroy Nyon, Etienne Ganeau, Jacque Quillau, 1716), 195–96; Irving A. Leonard, ed., *Colonial Travelers in Latin America* (Alfred A. Knopf, 1972), 142–43.
+[^9]: Bartolomé Arzáns de Orsúa y Vela, *Historia de la villa imperial de Potosí*, 3 vols. (Brown University, 1965), 1:95–97, 348–49, 390; Amédée-François Frézier, *Relation du voyage de la mer du sud aux côtes du Chily et du Perou, fait pendant les années 1712, 1713 & 1714* (Jean-Geoffroy Nyon, Etienne Ganeau, Jacque Quillau, 1716), 195–96; Irving A. Leonard, ed., *Colonial Travelers in Latin America* (Alfred A. Knopf, 1972), 142–43.
 
 [^10]: Jorge Chapa, “The Creation of Wage Labor in a Colonial Society: Silver Mining in Mexico, 1520–1771,” *Berkeley Journal of Sociology* 23 (1978): 103.
 
