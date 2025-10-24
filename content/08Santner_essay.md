@@ -88,7 +88,7 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^8]: Blair and Robertson, *The Philippine Islands*, 17:216.
 
-[^9]: Bartolomé Arzáns de Orsúa y Vela, *Historia de la villa imperial de Potosí* (Brown University, 1965), 1:95–97, 348–49, 390; Amédée-François Frézier, *Relation du voyage de la mer du sud aux côtes du Chily et du Perou, fait pendant les années 1712, 1713 & 1714* (Jean-Geoffroy Nyon, Etienne Ganeau, Jacque Quillau, 1716), 195–96; Irving A. Leonard, ed., *Colonial Travelers in Latin America* (Alfred A. Knopf, 1972), 142–43.
+[^9]: Bartolomé Arzáns de Orsúa y Vela, *Historia de la villa imperial de Potosí*, 3 vols. (Brown University, 1965), 1:95–97, 348–49, 390; Amédée-François Frézier, *Relation du voyage de la mer du sud aux côtes du Chily et du Perou, fait pendant les années 1712, 1713 & 1714* (Jean-Geoffroy Nyon, Etienne Ganeau, Jacque Quillau, 1716), 195–96; Irving A. Leonard, ed., *Colonial Travelers in Latin America* (Alfred A. Knopf, 1972), 142–43.
 
 [^10]: Jorge Chapa, “The Creation of Wage Labor in a Colonial Society: Silver Mining in Mexico, 1520–1771,” *Berkeley Journal of Sociology* 23 (1978): 103.
 
