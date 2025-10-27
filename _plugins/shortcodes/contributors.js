@@ -112,7 +112,9 @@ module.exports = function (eleventyConfig) {
       case 'string': {
         const last = contributorNames.pop()
         const namesString =
-          contributorNames.length >= 1
+          contributorNames.length == 1 ?
+            contributorNames.pop() + ' and ' + last :
+            contributorNames.length >= 1
             ? contributorNames.join(', ') + ', and ' + last
             : last
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
