@@ -41,7 +41,7 @@ Library of Congress Control Number: 2025945180
 
 Managing Editor: Valerie Hellstein
 Editor and Project Manager: Leslie Murrell
-Curatorial Assistants: Lisbeth Barrientos and Paula Contreras
+Curatorial Assistants: Lisbet Barrientos and Paula Contreras
 Developer: Matt Popke
 Design: Tasso Stathopulos
 
