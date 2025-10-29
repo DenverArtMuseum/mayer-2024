@@ -261,14 +261,14 @@ figure_list:
     src: figures/inline/junco-fig-3.jpg
     label: Fig. 3
     caption: "Archaeologists from SAS-INAH prospecting the Contaduria complex in San Blas, Nayarit, Mexico, 2017." 
-    credit: "Courtesy the author."
+    credit: "Courtesy A. Martinez, SAS-INAH."
     alt: Two people take notes near a stone arch.
 
   - id: junco-fig-4
     src: figures/inline/junco-fig-4.jpg
     label: Fig. 4
     caption: "Archaeologists from SAS-INAH excavating at the walls of the Fort of San Diego, Acapulco, Mexico, 2018."
-    credit: "Courtesy the author."
+    credit: "Courtesy A. Soto, SAS-INAH."
     alt: Two people are in front of a stone wall, one looking down at their hand and one bending over a wooden structure suspended from ropes.
 
   - id: junco-fig-5
@@ -282,49 +282,49 @@ figure_list:
     src: figures/inline/junco-fig-6.jpg
     label: Fig. 6
     caption: "View of the fine deer-in-the-park plate with overlapping sherds showing the differences and similarities. It is possible they were done in the same shop at the same time and broke together, about 1580–95." 
-    credit:
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Four blue-and-white plate shards are overlaid onto grayed-out full-size plates.
 
   - id: junco-fig-7
     src: figures/inline/junco-fig-7.jpg
     label: Fig. 7
     caption: "Reconstruction of the fine deer-in-the-park plates from the available sherds. There are at least four plates (maybe even six) from the sherds recovered." 
-    credit: 
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Three blue-and-white bowl shards are stacked, with a black-and-white graphic evoking a taller stack of bowls.
 
   - id: junco-fig-8
     src: figures/inline/junco-fig-8.jpg
     label: Fig. 8
     caption: "Comparison of two plates with the same deer motif. One is from Jingdezhen the other from Zhangzhou. They demonstrate the range in qualities aboard the galleons." 
-    credit: 
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Two blue-and-white plate shards with matching pantone color swatches. The plates feature animals and trees, the left shard much sketchier and the right more details.
 
   - id: junco-fig-9
     src: figures/inline/junco-fig-9.jpg
     label: Fig. 9
     caption: "Large bowls with the same deer motif, a popular Wanli (1573–1620) export design."
-    credit: 
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Four nested blue-and-white shards featuring animals and vegetation.
 
   - id: junco-fig-10
     src: figures/inline/junco-fig-10.jpg
     label: Fig. 10
     caption: "Sherd of a large cup in blue-and-white porcelain from the Wanli (1573–1620) period, depicting the celebrated “Lanting Xu.” This scene is represented broadly in the late Ming dynasty (1368–1644) on different media." 
-    credit:
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A blue-and-white shard featuring two people sitting under a pagoda at lower left.
 
   - id: junco-fig-11
     src: figures/inline/junco-fig-11.jpg
     label: Fig. 11
     caption: "A blue-and-white Wanli (1573–1620) plate with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan ao 1* wreck." 
-    credit: 
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A shard of the rim of a plate or bowl.
 
   - id: junco-fig-12
     src: figures/inline/junco-fig-12.jpg
     label: Fig. 12
     caption: "Fragment of a white chocolate cup with the monogram of Ferdinand VII, king of Spain, possibly, and the coin of his proclamation with his monogram. The execution of the decoration is poor."
-    credit: 
+    credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A white shard with brown cursive letters and the roman numeral VII at left; a silver coin with the roman numeral VII at right; and the two overlaid at center.
 
   - id: kasl-fig-1
@@ -513,14 +513,14 @@ figure_list:
     src: figures/inline/luis-fig-5.jpg
     label: Fig. 5
     caption: "Katana and tsuba (a circular guard for a katana), recovered from the wreck of the *San Diego*." 
-    credit: "Photograph courtesy the author."
+    credit: "Courtesy the author."
     alt: A long, heavily encrusted object is displayed with smaller round, flat objects.
 
   - id: luis-fig-6
     src: figures/inline/luis-fig-6.jpg
     label: Fig. 6
     caption: "Unknown artist, Ming dynasty (1368–1644) Chinese chair gifted to Felipe II, on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled with Asian products." 
-    credit: "Photograph courtesy the author."
+    credit: "Courtesy the author."
     alt: A brown, armless chair with a curving back.
 
   - id: luterbacher-fig-1
@@ -757,7 +757,7 @@ figure_list:
     src: figures/inline/rivas-fig-9.jpg
     label: Fig. 9
     caption: "Facade of Torre Tagle Palace, Lima, Peru, built ca. 1738. Postcard, 1920s."
-    credit: "Photograph courtesy the author."
+    credit: "Courtesy the author."
     alt: A black-and-white photograph of a row of buildings receding into the background.
 
   - id: rojas-fig-3

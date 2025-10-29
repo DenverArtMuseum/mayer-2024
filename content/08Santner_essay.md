@@ -188,7 +188,7 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^57]: Will of doña Maria Marquez y Quintos de la Torre, April 12, 1737, quoted in Trota Jose and Villegas, *Power*, 271.
 
-[^58]: Ibid., 162; Pedro Luengo, “Mestizo Musical Iconography: Manila’s Santo Niño Cradle,” *Cultural and Social History* 16, no. 4 (2019): n33.
+[^58]: Ibid., 162; Pedro Luengo, “Mestizo Musical Iconography: Manila’s Santo Niño Cradle,” *Cultural and Social History* 16, no. 4 (2019): 13n33.
 
 [^59]: APSR “Libro,” f. 2v.
 

@@ -105,7 +105,7 @@ The port of Acapulco, the origin and terminus of the Acapulco–Manila Galleon r
 
 [^12]: Gasch-Tomás, “The Manila Galleons in Perspective,” 235.
 
-[^13]: Patricia Fournier and Roberto Junco, “Archaeological Distribution of Chinese Porcelain in Mexico,” in *Archaeology of Manila Galleon Seaports*, 220. See also John M. Goggin, *Spanish Majolica in the New World: Types of the Sixteenth to Eighteenth Centuries* (Yale University Press, 1968); Florence C. Lister and Robert H. Lister, *Sixteenth Century Maiolica Pottery in the Valley of Mexico* (University of Arizona Press, 1982); 
+[^13]: For an overview of Chinese porcelain in Mexico as a research topic, see Patricia Fournier and Roberto Junco, “Archaeological Distribution of Chinese Porcelain in Mexico,” in *Archaeology of Manila Galleon Seaports*, 220. 
 
 [^14]: Ibid., 222.
 
