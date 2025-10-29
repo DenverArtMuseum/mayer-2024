@@ -111,7 +111,7 @@ The success of Puebla’s ceramic production beginning in the viceregal period i
 
 [^15]: Archivo de la Catedral de Puebla, Fábrica Municipal, Legajo II. Cited in Cervantes, *Loza Blanca*, 2:15; Lister and Lister, *Sixteenth Century Maiolica*, 231; Rose Gpe. de la Peña V., “Azulejos encontrados *in situ*: primera catedral de México,” in *Ensayos de Alfareria Prehispánica e Histórica de Mesoamérica: Homenaje a Eduardo Noguera Auza*, Serie Antropológia 82, ed. Mari Carmen Serra Puche and Carlos Navarrete Cáceres (Universidad Autónoma de Mexico, 1988), 437–38.
 
-[^16]: The attribution was suggested to me via email in late 2018 by Guillermo Tovar de Teresa, who acquired the pieces from the Pérez de Salazar family. He based the attribution on a mark he found on the pieces. While unpublished, it has been documented in descriptions of the collection online, <https://www.edify.mx/post/los-objetos-que-viven-en-la-casa-de-guillermo-tovar-de-teresa>. The basins are currently held in Tovar de Teresa’s Mexico City home, which is now the Guillermo de Tovar House Museum, operated by the Museo Soumaya in Mexico City.
+[^16]: The attribution was suggested to me via email in late 2018 by Guillermo Tovar de Teresa, who acquired the pieces from the Pérez de Salazar family. The basins are currently held in the Guillermo de Tovar House Museum, operated by the Museo Soumaya in Mexico City.
 
 [^17]: See, for example, Alfonso Pleguezuelo, “Center of Traditional Spanish Mayólica,” in *Cerámica y Cultura: The Story of Spanish and Mexican Mayólica*, ed. Robin Farwell Gavin, Donna Pierce, and Alfonso Peguezuelo (University of New Mexico Press, 2003), pl. 1.11.
 
