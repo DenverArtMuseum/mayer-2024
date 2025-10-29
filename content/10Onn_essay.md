@@ -146,6 +146,6 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^24]: Onn et al., *Across the Pacific*, 160.
 
-[^25]: Figure 17 is called seventeenth- to eighteenth-century Indo-Portuguese by the Museo Franz Mayer.
+[^25]: Figure 17 is identified as seventeenth- to eighteenth-century Indo-Portuguese by the Museo Franz Mayer.
 
 [^26]: On figures 16 and 17, see Onn et al., *Across the Pacific*, 166–67.
