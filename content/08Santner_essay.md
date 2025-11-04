@@ -80,7 +80,7 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^3]: Archivo-Biblioteca Provincial Franciscano (ABPF), Fondo: AFIO; Sección A-Manuscritos, Documento: 21/28, “Relación de los sucesos acaecidos en la pasada Guerra de los Yngleses por lo perteneciente solamente al convento de Sta. Clara y sus religiosas en Manila,” 1764, f. 1v–2r.
 
-[^4]: Marqués de Ayerbe, *Sitio y conquista de Manila por los ingleses en 1762* (Ramón Miedes, 1897), 67–68; APSR, Estante 1, Tomo 380, Sección Historia Civil de Filipinas, Tomo 1, doc. 13. “En este mes el día cinco después de doze días de cercada la Ciudad por los Ingleses . . .,” 1762; Joaquín Martínez de Zúñiga, *Historia de las islas Philipinas* (Pedro Argüelles de la Concepción, 1803), 642.
+[^4]: Pedro María Jordán de Urriés y Urriés, Marqués de Ayerbe, *Sitio y conquista de Manila por los ingleses en 1762* (Ramón Miedes, 1897), 67–68; APSR, Estante 1, Tomo 380, Sección Historia Civil de Filipinas, Tomo 1, doc. 13. “En este mes el día cinco después de doze días de cercada la Ciudad por los Ingleses . . .,” 1762; Joaquín Martínez de Zúñiga, *Historia de las islas Philipinas* (Pedro Argüelles de la Concepción, 1803), 642.
 
 [^5]: Frequent losses of silver ornaments also occurred during conflicts with the Muslims in Mindanao. See Emma Helen Blair and James Alexander Robertson, *The Philippine Islands, 1493–1898*, 55 vols. (The Arthur H. Clark Company, 1905), 24:117.
 
@@ -106,27 +106,27 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^16]: Blair and Robertson, *The Philippine Islands*, 23:284.
 
-[^17]: Blair and Robertson, *The Philippine Islands*, 17:46–47; AGI Mexico 27, n. 18, f. 4r.
+[^17]: Blair and Robertson, *The Philippine Islands*, 17:46–47; AGI Mexico 27, N. 18, f. 4r.
 
 [^18]: Cf. AGI Filipinas 348, L. 4, f. 344r; Filipinas 339, L.1, f. 240r.
 
-[^19]: AGI Filipinas 96, n. 60.
+[^19]: AGI Filipinas 96, N. 60.
 
 [^20]: Cayetano Sánchez Fuertes, “Biblioteca, pinacoteca, mobiliario y ajuar de Don Miguel de Poblete, arzobispo de Manila,” *Archivo Agustiniano* 95, no. 213 (2011): 428–32. My thanks to Ronda Kasl for sharing this article with me.
 
 [^21]: Blair and Robertson, *The Philippine Islands*, 7:226.
 
-[^22]: Manuel Toussaint, *La catedral de México y el Sagrario Metropolitano: su historia, su tesoro, su arte* (Editorial Porrúa, 1973), 107; AGI Filipinas 199, n. 5.
+[^22]: Manuel Toussaint, *La catedral de México y el Sagrario Metropolitano: su historia, su tesoro, su arte* (Editorial Porrúa, 1973), 107; AGI Filipinas 199, N. 5.
 
 [^23]: Susan I. Eberhard, “Metamorphic Medium: Materializing Silver in Modern China, 1682–1839” (PhD diss., University of California, Berkeley, 2023), 16; Birgit Tremml-Werner, *Spain, China, and Japan in Manila, 1571–1644: Local Comparisons and Global Connections* (Amsterdam University Press, 2015), 285n116, 289n143.
 
 [^24]: Jessie Park, “Made by Migrants: Southeast Asian Ivories for Local and Global Markets, ca. 1590–1640,” *The Art Bulletin* 102, no. 4 (2020): 73–75; Tremml-Werner, *Spain*, 285.
 
-[^25]: Blair and Robertson, *The Philippine Islands*, 40:285n331; AGI Filipinas 28, n.131, f. 970v, 972v.
+[^25]: Blair and Robertson, *The Philippine Islands*, 40:285n331; AGI Filipinas 28, N. 131, f. 970v, 972v.
 
 [^26]: AGI Filipinas 202, f. 385v; 435v–436v.
 
-[^27]: Joshua Kueh, “The Manila Chinese: Community, Trade, and Empire, c. 1570–c. 1770” (PhD diss., Georgetown University, 2014), 112–13; Pedro Luengo Gutiérrez, “Arte oriental e inquisición en Manila a principios del siglo XVIII,” in *La Nao de China, 1565–1815*, ed. Salvador Bernabéu Albert (Universidad de Sevilla, 2013), 174–75; AGI Filipinas 562, “Razon Yndividual de los Gremios del Parian de Sangleyes, y consumo anual de cada gremio en el estado presente,” f. 1v. Repeated attempts were made to standardize the creation of gold and silver ornaments (*alhajas*) in the Philippines and to organize silversmiths into a proper guild. See Blair and Robertson, *The Philippine Islands*, 50:103–04; AGI Filipinas 144 n. 5; Filipinas 95, n. 104; Filipinas 147, n. 2.
+[^27]: Joshua Kueh, “The Manila Chinese: Community, Trade, and Empire, c. 1570–c. 1770” (PhD diss., Georgetown University, 2014), 112–13; Pedro Luengo Gutiérrez, “Arte oriental e inquisición en Manila a principios del siglo XVIII,” in *La Nao de China, 1565–1815*, ed. Salvador Bernabéu Albert (Universidad de Sevilla, 2013), 174–75; AGI Filipinas 562, “Razon Yndividual de los Gremios del Parian de Sangleyes, y consumo anual de cada gremio en el estado presente,” f. 1v. Repeated attempts were made to standardize the creation of gold and silver ornaments (*alhajas*) in the Philippines and to organize silversmiths into a proper guild. See Blair and Robertson, *The Philippine Islands*, 50:103–04; AGI Filipinas 144 N. 5; Filipinas 95, N. 104; Filipinas 147, N. 2.
 
 [^28]: “Trabajó por su mano todas las alhajas de esta iglesia de plata, que eran muchas y buenas . . .; pero todo fué \[sic\] a costa, a celo, dirección, y cuidado del P. Fr. Fernando Cabrera,” Manuel Merino, “El Convento Agustiniano de San Pablo de Manila,” *Missionalia Hispanica* 8, no. 22 (1951): 105n49. However, in another of Castro’s manuscripts, he mentions objects at San Pablo de los Montes of silver and gold “made in Canton.” See M. Rasi Roice, “San Pablo de los Montes,” *Libertas* 4, no. 816 (1902).
 
@@ -204,4 +204,4 @@ What is clear is that sangley and, to a lesser extent, Indigenous artisans domin
 
 [^65]: *Pamanang Pilak: Philippine Domestic Silver*, exh. cat. (Ayala Museum, 1990), 22–23.
 
-[^66]: AGI, Filipinas 28, n. 131, f. 1016r.
+[^66]: AGI, Filipinas 28, N. 131, f. 1016r.
