@@ -62,6 +62,26 @@
         color: $quire-navbar-hover-text-color;
       }
     }
+
+    .quire-navbar-controls__left {
+      .logo {
+        a {
+          max-height:100%;
+
+          img {
+            height:2.5rem;
+            width:auto;
+            margin: .25rem 0 0 .5rem;
+            max-width:100%;
+          }
+
+          &:hover {
+            color: $off-white;
+            background-color: $blue;
+          }
+        }
+      }
+    }
   }
   .quire-navbar-page-controls {
     &__item{
