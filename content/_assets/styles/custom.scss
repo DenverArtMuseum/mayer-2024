@@ -51,6 +51,7 @@
  * Removed overly broad * selector in quire-navbar.scss
  -----------------------------------------------------------------------*/
 .quire-navbar {
+  font-size: 1.25rem;
   text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
 
   .quire-navbar-controls {
@@ -69,7 +70,7 @@
           max-height:100%;
 
           img {
-            height:2.5rem;
+            height:3rem;
             width:auto;
             margin: .25rem 0 0 .5rem;
             max-width:100%;
