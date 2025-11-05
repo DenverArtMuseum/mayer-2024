@@ -8,14 +8,14 @@ figure_list:
 
   - id: intro-fig-2
     src: figures/inline/intro-fig-2.jpg
-    label: Fig. 2
+    label: Fig. 3
     caption: "Agustín del Pino, *Saint Ignatius Loyola, Mexico*, ca. 1700. Oil and shell inlay on wood panel (*enconchado* painting), framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.302."
     alt: A bearded man holds an open book and looks to the upper right against a gold background, which features painted rays emitting from his head.
 
   - id: intro-fig-3
     src: figures/inline/intro-fig-3.jpg
-    label: Fig. 3
+    label: Fig. 2
     caption: "Unknown artist, *Young Woman with Harpsichord*, Mexico, 1735–50. Oil on canvas, framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
