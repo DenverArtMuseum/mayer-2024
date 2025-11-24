@@ -1,893 +1,893 @@
 figure_list:
   - id: intro-fig-1
-    src: figures/inline/intro-fig-1.jpg
+    src: figures/cmyk/intro-fig-1.jpg
     label: Fig. 1
     caption: "Attributed to the School of Giovanni Niccolò and the Jesuit Seminary workshop, Kyushu, Japan, with lacquer case by artists in Japan, probably Kyushu, Portable shrine, about 1597. Oil on wood panel, in a lacquered wood case with mother-of-pearl inlay."
     credit: "Peabody Essex Museum, Salem: Museum purchase, made possible by an anonymous donor, 2000. AE85752."
     alt: A painting of a woman with a white head covering and gold halo holds an infant swaddled in red cloth and a halo. The painting is inside a gold shrine with floral motifs and two birds at top.
 
   - id: intro-fig-2
-    src: figures/inline/intro-fig-2.jpg
+    src: figures/cmyk/intro-fig-2.jpg
     label: Fig. 3
     caption: "Agustín del Pino, *Saint Ignatius Loyola, Mexico*, ca. 1700. Oil and shell inlay on wood panel (*enconchado* painting), framed: 43½ × 33⅛ in. (110.5 × 84.1 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.302."
     alt: A bearded man holds an open book and looks to the upper right against a gold background, which features painted rays emitting from his head.
 
   - id: intro-fig-3
-    src: figures/inline/intro-fig-3.jpg
+    src: figures/cmyk/intro-fig-3.jpg
     label: Fig. 2
     caption: "Unknown artist, *Young Woman with Harpsichord*, Mexico, 1735–50. Oil on canvas, framed 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
 
   - id: connors-mcquade-fig-1
-    src: figures/inline/connors-mcquade-fig-1.jpg
+    src: figures/cmyk/connors-mcquade-fig-1.jpg
     label: Fig. 1
     caption: "Facade with tile panels, church of San Marcos, Puebla de los Ángeles, Mexico, about 1797." 
     credit: "Photograph by Carlos Varillas."
     alt: A red tiled building with a white bell tower at top left.
 
   - id: connors-mcquade-fig-2
-    src: figures/inline/connors-mcquade-fig-2.jpg
+    src: figures/cmyk/connors-mcquade-fig-2.jpg
     label: Fig. 2
     caption: "Padierna ceramic workshop featuring tin-glazed earthenware, Puebla de los Ángeles, Mexico, ca. 1917–18." 
     credit: "Enrique Luis Cervantes Collection, Mexico City."
     alt: 27 men and boys gather in front of 9 oversize vessels taller than the standing man.
 
   - id: connors-mcquade-fig-3
-    src: figures/inline/connors-mcquade-fig-3.jpg
+    src: figures/cmyk/connors-mcquade-fig-3.jpg
     label: Fig. 3
     caption: "Attributed to Gaspar de Encinas, the younger, Basin with Guajolote, Puebla de los Ángeles, Mexico, ca. 1600. Tin-glazed earthenware." 
     credit: "Guillermo Tovar de Teresa House Museum, Museo Soumaya, Mexico City."
     alt: A cream plate or bowl decorated with curving black lines, with a strutting bird and floral motifs at center.
 
   - id: connors-mcquade-fig-4
-    src: figures/inline/connors-mcquade-fig-4.jpg
+    src: figures/cmyk/connors-mcquade-fig-4.jpg
     label: Fig. 4
     caption: "Basin with inscription “Soy para labar los puryfycadores y no más,” marked “A.” Puebla de los Ángeles, Mexico, ca. 1625. Tin-glazed earthenware." 
     credit: "Image © The Metropolitan Museum of Art. Image source: Art Resource, NY."
     alt: A cream bowl decorated with black and blue curving lines, with text around the outer edge.
 
   - id: connors-mcquade-fig-5
-    src: figures/inline/connors-mcquade-fig-5.jpg
+    src: figures/cmyk/connors-mcquade-fig-5.jpg
     label: Fig. 5
     caption: "Basin with inscription “Soy para labar los puryfycadores y no más,” (detail of mark “A”), Puebla de los Ángeles, Mexico, ca. 1625. Tin-glazed earthenware." 
     credit: "Image © The Metropolitan Museum of Art. Image source: Art Resource, NY."
     alt: A close-up view of a cream vessel marked with a black symbol.
 
   - id: connors-mcquade-fig-6
-    src: figures/inline/connors-mcquade-fig-6.jpg
+    src: figures/cmyk/connors-mcquade-fig-6.jpg
     label: Fig. 6
     caption: "Plate with figure, Puebla de los Ángeles, Mexico, ca. 1625–75. Tin-glazed earthenware."
     credit: "Hispanic Society Museum & Library, New York."
     alt: A cream vessel with orange-brown, yellow, green, and blue circle motifs surrounding an image of a person wearing a mid-length skirt.
 
   - id: connors-mcquade-fig-7
-    src: figures/inline/connors-mcquade-fig-7.jpg
+    src: figures/cmyk/connors-mcquade-fig-7.jpg
     label: Fig. 7
     caption: "Attributed to Damián Hernández (active 1607–1653), Jar with festival scene marked “he,” Puebla de los Ángeles, Mexico, ca. 1660. Tin-glazed earthenware." 
     credit: "Hispanic Society Museum & Library, New York."
     alt: A white bulbous vessel featuring blue imagery of a pair of horses drawing a carriage with a woman
 
   - id: connors-mcquade-fig-8
-    src: figures/inline/connors-mcquade-fig-8.jpg
+    src: figures/cmyk/connors-mcquade-fig-8.jpg
     label: Fig. 8
     caption: "Attributed to Damián Hernández (active 1607–1653), Basin with quetzal and spotted feline, marked “he,” Puebla de los Ángeles, Mexico, ca. 1660. Tin-glazed earthenware." 
     credit: "Franz Mayer Museum, Mexico City."
     alt: A white plate or bowl heavily decorated with blue animals and vegetation motifs.
 
   - id: connors-mcquade-fig-9
-    src: figures/inline/connors-mcquade-fig-9.jpg
+    src: figures/cmyk/connors-mcquade-fig-9.jpg
     label: Fig. 9
     caption: "Attributed to Damián Hernández (active 1607–1653), Basin with quetzal and spotted feline (detail of mark “he”), Puebla de los Ángeles, Mexico, ca. 1660. Tin-glazed earthenware." 
     credit: "Franz Mayer Museum, Mexico City."
     alt: "An overturned cream vessel decorated with blue vegetation motifs and featuring a mark that resembles he."
 
   - id: connors-mcquade-fig-10
-    src: figures/inline/connors-mcquade-fig-10.jpg
+    src: figures/cmyk/connors-mcquade-fig-10.jpg
     label: Fig. 10
     caption: "Attributed to Damián Hernández (active 1607–1653), Pharmacy Jar, marked “he,” Puebla de los Ángeles, Mexico, ca. 1660. Tin-glazed earthenware." 
     credit: "Image © The Metropolitan Museum of Art. Image source: Art Resource, NY."
     alt: A white bulbous vessel heavily decorated with blue floral motifs except for a void in the shape of a rectangle.
 
   - id: connors-mcquade-fig-11
-    src: figures/inline/connors-mcquade-fig-11.jpg
+    src: figures/cmyk/connors-mcquade-fig-11.jpg
     label: Fig. 11
     caption: "Attributed to Damián Hernández (active 1607–1653), Pharmacy Jar (detail of mark “he”), Puebla de los Ángeles, Mexico, ca. 1660. Tin-glazed earthenware."
     credit: "Image © The Metropolitan Museum of Art. Image source: Art Resource, NY."
     alt: A cream bulbous vessel with minimal blue decoration at top and a mark that resembles he.
 
   - id: connors-mcquade-fig-12
-    src: figures/inline/connors-mcquade-fig-12.jpg
+    src: figures/cmyk/connors-mcquade-fig-12.jpg
     label: Fig. 12
     caption: "Jar with cactus and bird, Puebla de los Ángeles, Mexico, ca. 1660–75. Tin-glazed earthenware."
     credit: "The Hispanic Society of America, New York."
     alt: A round white vessel with blue animal and vegetation motifs.
 
   - id: connors-mcquade-fig-13
-    src: figures/inline/connors-mcquade-fig-13.jpg
+    src: figures/cmyk/connors-mcquade-fig-13.jpg
     label: Fig. 13
     caption: "Trade tile, Puebla de los Ángeles, Mexico, ca. 1660–75. Tin-glazed earthenware."
     credit: "Philadelphia Museum of Art: Purchased with the Joseph E. Temple Fund, 1908."
     alt: A white tile with broken edges features blue architectural, animal, and floral motifs.
 
   - id: connors-mcquade-fig-14
-    src: figures/inline/connors-mcquade-fig-14.jpg
+    src: figures/cmyk/connors-mcquade-fig-14.jpg
     label: Fig. 14
     caption: "Attributed to Diego Salvador Carreto (active 1649, died 1670 or 1671), Basin, Puebla de los Ángeles, Mexico, ca. 1649–71. Tin-glazed earthenware."
     credit: "Philadelphia Museum of Art: Purchased with the Joseph E. Temple Fund, 1908."
     alt: A blue and cream vessel features four men at center each sporting a mostly bald hairstyle with a single braid at the back of the head. One man rides a horse and carries an umbrella.
 
   - id: connors-mcquade-fig-15
-    src: figures/inline/connors-mcquade-fig-15.jpg
+    src: figures/cmyk/connors-mcquade-fig-15.jpg
     label: Fig. 15
     caption: "Attributed to Diego Salvador Carreto (active 1649, died 1670 or 1671), Basin (detail of mark “C.S.”), Puebla de los Ángeles, Mexico, ca. 1649–71. Tin-glazed earthenware." 
     credit: "Philadelphia Museum of Art: Purchased with the Joseph E. Temple Fund, 1908."
     alt: A close-up view of a white vessel marked with C.S.
 
   - id: connors-mcquade-fig-16
-    src: figures/inline/connors-mcquade-fig-16.jpg
+    src: figures/cmyk/connors-mcquade-fig-16.jpg
     label: Fig. 16
     caption: "Plate, Puebla de los Ángeles, Mexico, ca. 1680–1700. Tin-glazed earthenware."
     credit: "Franz Mayer Museum, Mexico City."
 
   - id: corrigan-fig-1
-    src: figures/inline/corrigan-fig-1.jpg
+    src: figures/cmyk/corrigan-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artists, Dalmatic from a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen." 
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.3A."
     alt: A red tunic with gold decorations featuring a crown at center, two animals (maybe lions) at bottom, floral motifs, and lion heads on each sleeve.
 
   - id: corrigan-fig-2
-    src: figures/inline/corrigan-fig-2.jpg
+    src: figures/cmyk/corrigan-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artists, Chasuble from a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen."
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.1."
     alt: A long sleeveless red cloth with gold decorations featuring a crown at center and animals (likely lions) at left and right, and floral motifs throughout.
 
   - id: corrigan-fig-3
-    src: figures/inline/corrigan-fig-3.jpg
+    src: figures/cmyk/corrigan-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artists, Chasuble, Macau, China, modified in Portugal, about 1630. Silk embroidered with gold and silver thread, 42½ × 26 in. (108 × 66 cm)."
     credit: Irmandade de Santa Cruz, Braga.
     alt: A cream-colored, sleeveless garment open at the sides, featuring floral motifs in brown with blue and red flowers, and a black rectangle down the front with gold and red floral motifs.
 
   - id: corrigan-fig-4
-    src: figures/inline/corrigan-fig-4.jpg
+    src: figures/cmyk/corrigan-fig-4.jpg
     label: Fig. 3
     caption: "Unknown artists, detail of Chinese silk in fig. 1, showing the crimson satin ground and the discontinuous gilded paper floats on a length of silk used to create a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen."
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.3A."
     alt: A close-up view of floral motifs on a textile. The cloth is burgundy, the leaves and flowers have green and blue edges and are filled in with yellow thread.
 
   - id: corrigan-fig-5
-    src: figures/inline/corrigan-fig-5.jpg
+    src: figures/cmyk/corrigan-fig-5.jpg
     label: Fig. 4
     caption: "Unknown artists, Rank Badge with Lion, China, 1400s. Silk and metallic-thread tapestry (*kesi*), 15½ × 14½ in. (39.4 × 36.8 cm)."
     credit: The Metropolitan Museum of Art, Purchase, Mr. and Mrs. C. Y. Chen and Anonymous Gifts, 1988, 1988.154.2.
     alt: A textile featuring a yellow lion or dragon against a blue sky embellished with stylized orange and yellow abstract shapes.
 
   - id: corrigan-fig-6
-    src: figures/inline/corrigan-fig-6.jpg
+    src: figures/cmyk/corrigan-fig-6.jpg
     label: Fig. 5
     caption: "Unknown artists, detail of guardian lions and crown motifs in Chinese silk on the underside of the baldachin in fig. 10. From a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen."
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.4."
     alt: A close-up view of a red textile adorned with gold lions, a crown at center, and floral motifs throughout.
 
   - id: corrigan-fig-7
-    src: figures/inline/corrigan-fig-7.jpg
+    src: figures/cmyk/corrigan-fig-7.jpg
     label: Fig. 6
     caption: "Unknown artists, Fragment (detail), Granada, Spain, 1400s. Brocaded silk, 51 × 31¼ in. (129.5 × 79.4 cm)."
     credit: "The Metropolitan Museum of Art, Rogers Fund, 1920, 20.94.1."
     alt: A close-up view of a green textile with two yellow lions and bright pink floral motifs.
 
   - id: corrigan-fig-8
-    src: figures/inline/corrigan-fig-8.jpg
+    src: figures/cmyk/corrigan-fig-8.jpg
     label: Fig. 7
     caption: "Unknown artists, Fragment (detail), Italian or Spanish, late 1500s–early 1600s. Lampas silk, 30⅞ × 22¾ in. (78.4 × 57.8 cm)."
     credit: Art Institute of Chicago, purchased with funds provided by Mr. and Mrs. John V. Farwell III, 1973.308.
     alt: A close-up view of a red textile featuring pale animals (birds and likely lions) and floral motifs.
 
   - id: corrigan-fig-9
-    src: figures/inline/corrigan-fig-9.jpg
+    src: figures/cmyk/corrigan-fig-9.jpg
     label: Fig. 8
     caption: "Unknown artists, Fragment (detail), China, 1500s–early 1600s. Damask silk, 25¼ × 23 in. (64.1 × 58.4 cm)."
     credit: The Metropolitan Museum of Art, Rogers Fund, 1909, 09.50.960.
     alt: A close-up view of pale brown cloth with light-colored floral motifs throughout.
 
   - id: corrigan-fig-10
-    src: figures/inline/corrigan-fig-10.jpg
+    src: figures/cmyk/corrigan-fig-10.jpg
     label: Fig. 12
     caption: "Unknown artists, detail of ink inscription on linen lining of baldachin in fig. 10, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen." 
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.4."
     alt: A close-up view of the sleeve of a garment decorated with lion and floral motifs.
 
   - id: corrigan-fig-11
-    src: figures/inline/corrigan-fig-11.jpg
+    src: figures/cmyk/corrigan-fig-11.jpg
     label: Fig. 9
     caption: "Unknown artists, Dalmatic (detail) from a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen." 
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.3AB."
     alt: A close-up view of the sleeve of a garment decorated with lion and floral motifs.
 
   - id: corrigan-fig-12
-    src: figures/inline/corrigan-fig-12.jpg
+    src: figures/cmyk/corrigan-fig-12.jpg
     label: Fig. 10
     caption: "Unknown artists, Baldachin from a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen." 
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.4."
     alt: A rectangle juts out from a blue wall. The structure is covered with red cloth embellished with gold fringe and animal and floral motifs.
 
   - id: corrigan-fig-13
-    src: figures/inline/corrigan-fig-13.jpg
+    src: figures/cmyk/corrigan-fig-13.jpg
     label: Fig. 11
     caption: "Unknown artists, Inner side panel of the baldachin in fig. 10 (detail), showing fragmentary evidence of the blue silk lining and one of the European linens used to line and support the baldachin’s side panels."
     credit: 
     alt: A close-up view of the white edge of a red and gold textile.
 
   - id: corrigan-fig-14
-    src: figures/inline/corrigan-fig-14.jpg
+    src: figures/cmyk/corrigan-fig-14.jpg
     label: Fig. 13
     caption: "Unknown artists, Fragment (detail) of European block printed linen used to line and support the sides of the baldachin in fig. 10." 
     credit: 
     alt: A close-up view of the white edge of a red and gold textile.
 
   - id: corrigan-fig-15
-    src: figures/inline/corrigan-fig-15.jpg
+    src: figures/cmyk/corrigan-fig-15.jpg
     label: Fig. 14
     caption: "Unknown artists, Fragment (detail) of European block printed linen used to line and support the sides of the baldachin in fig. 10." 
     credit: 
     alt: A close-up view of the underside of a red textile. The underside is cream colored with light red floral motifs.
 
   - id: corrigan-fig-16
-    src: figures/inline/corrigan-fig-16.jpg
+    src: figures/cmyk/corrigan-fig-16.jpg
     label: Fig. 15
     caption: "Unknown artist, Fragment (detail), India, 1600s–1700s. Block-printed, mordant-dyed, and painted cotton." 
     credit: "Victoria & Albert Museum, London, 1337-1888."
     alt: Two textiles (one blue and one cream, both with red floral motifs) against a blue background with a typed white card.
 
   - id: junco-fig-1
-    src: figures/inline/junco-fig-1.jpg
+    src: figures/cmyk/junco-fig-1.jpg
     label: Fig. 1
     caption: "Tomás de Suría (1761–1844), *Acapulco Bay and Port*, from the expedition of Malaspina (1789–1794), Mexico, 1791. Laid paper, ink, sepia, and colored gouaches, 11⅝ × 19¼ in. (29.5 × 49 cm)."
     credit: Biblioteca Virtual de Defensa, Archivo Histórico de la Armada - J.S. de Elcano [AHA JSE Ms. 1726 (44)].
     alt: A bay with three ships is surrounded by hills, buildings, and a plaza several people is depicted in soft greens, blues, and pinks.
 
   - id: junco-fig-2
-    src: figures/inline/junco-fig-2.jpg
+    src: figures/cmyk/junco-fig-2.jpg
     label: Fig. 2
     caption: "Archaeologists Edward Von der Porten and Peter Von der Porten, from SAS-INAH, at the site of a Manila Galleon, Baja California, Mexico, 2015." 
     credit: "Courtesy the author."
     alt: Four people surround a square hole dug out of a stretch of sandy dunes.
 
   - id: junco-fig-3
-    src: figures/inline/junco-fig-3.jpg
+    src: figures/cmyk/junco-fig-3.jpg
     label: Fig. 3
     caption: "Archaeologists from SAS-INAH prospecting the Contaduria complex in San Blas, Nayarit, Mexico, 2017." 
     credit: "Courtesy A. Martinez, SAS-INAH."
     alt: Two people take notes near a stone arch.
 
   - id: junco-fig-4
-    src: figures/inline/junco-fig-4.jpg
+    src: figures/cmyk/junco-fig-4.jpg
     label: Fig. 4
     caption: "Archaeologists from SAS-INAH excavating at the walls of the Fort of San Diego, Acapulco, Mexico, 2018."
     credit: "Courtesy A. Soto, SAS-INAH."
     alt: Two people are in front of a stone wall, one looking down at their hand and one bending over a wooden structure suspended from ropes.
 
   - id: junco-fig-5
-    src: figures/inline/junco-fig-5.jpg
+    src: figures/cmyk/junco-fig-5.jpg
     label: Fig. 5
     caption: "A replica of the Manila Galleon *N.S. de Guía*, on blue-and-white ware, Mexico."
     credit: "Museum of Acapulco at the Fort of San Diego. Courtesy the author."
     alt: A model galleon with sails unfurled in a museum gallery surrounded by blue-and-white shards.
 
   - id: junco-fig-6
-    src: figures/inline/junco-fig-6.jpg
+    src: figures/cmyk/junco-fig-6.jpg
     label: Fig. 6
     caption: "View of the fine deer-in-the-park plate with overlapping sherds showing the differences and similarities. It is possible they were done in the same shop at the same time and broke together, about 1580–95." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Four blue-and-white plate shards are overlaid onto grayed-out full-size plates.
 
   - id: junco-fig-7
-    src: figures/inline/junco-fig-7.jpg
+    src: figures/cmyk/junco-fig-7.jpg
     label: Fig. 7
     caption: "Reconstruction of the fine deer-in-the-park plates from the available sherds. There are at least four plates (maybe even six) from the sherds recovered." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Three blue-and-white bowl shards are stacked, with a black-and-white graphic evoking a taller stack of bowls.
 
   - id: junco-fig-8
-    src: figures/inline/junco-fig-8.jpg
+    src: figures/cmyk/junco-fig-8.jpg
     label: Fig. 8
     caption: "Comparison of two plates with the same deer motif. One is from Jingdezhen the other from Zhangzhou. They demonstrate the range in qualities aboard the galleons." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Two blue-and-white plate shards with matching pantone color swatches. The plates feature animals and trees, the left shard much sketchier and the right more details.
 
   - id: junco-fig-9
-    src: figures/inline/junco-fig-9.jpg
+    src: figures/cmyk/junco-fig-9.jpg
     label: Fig. 9
     caption: "Large bowls with the same deer motif, a popular Wanli (1573–1620) export design."
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: Four nested blue-and-white shards featuring animals and vegetation.
 
   - id: junco-fig-10
-    src: figures/inline/junco-fig-10.jpg
+    src: figures/cmyk/junco-fig-10.jpg
     label: Fig. 10
     caption: "Sherd of a large cup in blue-and-white porcelain from the Wanli (1573–1620) period, depicting the celebrated “Lanting Xu.” This scene is represented broadly in the late Ming dynasty (1368–1644) on different media." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A blue-and-white shard featuring two people sitting under a pagoda at lower left.
 
   - id: junco-fig-11
-    src: figures/inline/junco-fig-11.jpg
+    src: figures/cmyk/junco-fig-11.jpg
     label: Fig. 11
     caption: "A blue-and-white Wanli (1573–1620) plate with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan ao 1* wreck." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A shard of the rim of a plate or bowl.
 
   - id: junco-fig-12
-    src: figures/inline/junco-fig-12.jpg
+    src: figures/cmyk/junco-fig-12.jpg
     label: Fig. 12
     caption: "Fragment of a white chocolate cup with the monogram of Ferdinand VII, king of Spain, possibly, and the coin of his proclamation with his monogram. The execution of the decoration is poor."
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A white shard with brown cursive letters and the roman numeral VII at left; a silver coin with the roman numeral VII at right; and the two overlaid at center.
 
   - id: kasl-fig-1
-    src: figures/inline/kasl-fig-1.jpg
+    src: figures/cmyk/kasl-fig-1.jpg
     label: Fig. 1
     caption: "Church of San Nicolás de Tolentino, Manila, about 1945." 
     credit: "Courtesy the author."
     alt: A photograph of church ruins.
 
   - id: kasl-fig-2-new
-    src: figures/inline/kasl-fig-2-new.jpg
+    src: figures/cmyk/kasl-fig-2-new.jpg
     label: Fig. 2
     caption: "*El Santo Cristo de la Paciencia*, in *Excelsior: Revista decenal ilustrada*, vol. 4, no. 72 (April 20, 1908), 1067." 
     credit: "Courtesy the Filipinas Heritage Library."
     alt: A black and white photograph of a sculpture of Jesus.
 
   - id: kasl-fig-2
-    src: figures/inline/kasl-fig-2.jpg
+    src: figures/cmyk/kasl-fig-2.jpg
     label: Fig. 3
     caption: "Pedro Villafranca Malagón, Frontispiece, 1633. Diego de Santa Teresa, *História general de los religiosos descalzos del orden de los ermitaños del gran padre, y doctor de la Iglesia San Agustin* (Barcelona, 1743)."
     credit: "Biblioteca Nacional de España, Madrid."
     alt: A black and white book frontispiece showing two monks and a bishop.
 
   - id: kasl-fig-3
-    src: figures/inline/kasl-fig-3.jpg
+    src: figures/cmyk/kasl-fig-3.jpg
     label: Fig. 4
     caption: "Unknown artist, *El Señor del Cacao*, Metropolitan Cathedral, Mexico City, 1600s. Polychromed *caña de maíz* (cornstalk paste, gesso, and oil paint)."
     credit: "Courtesy the author."
     alt: A sculpture of Christ leaning on one knee and wearing a red and gold mantle. 
 
   - id: kasl-fig-4
-    src: figures/inline/kasl-fig-4.jpg
+    src: figures/cmyk/kasl-fig-4.jpg
     label: Fig. 5
     caption: "Hispano-Philippine artist, *Nave Typus Religionis (Ship of Religion)*, 1600s. Ivory, 10⅛ × 8½ in. (25.7 × 21.5 cm)."
     credit: Museo Nacional de Artes Decorativas, Madrid. Photo courtesy of Ansorena.
     alt: An ivory bas relief of a ship heavily populated with religious figures and a cross for a mast. 
 
   - id: kasl-fig-5
-    src: figures/inline/kasl-fig-5.jpg
+    src: figures/cmyk/kasl-fig-5.jpg
     label: Fig. 6
     caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
     credit: "Courtesy of the John Carter Brown Library."
     alt: A print showing two dressed Virgin Mary sculptures. 
 
   - id: kasl-fig-6
-    src: figures/inline/kasl-fig-6.jpg
+    src: figures/cmyk/kasl-fig-6.jpg
     label: Fig. 8
     caption: "Johannes Vingboons (and/or workshop), *The Dutch Attack on Cavite in 1647*, in Laurens Van der Hem, *Atlas Blaeu-van der Hem*, 50 vols. (Amsterdam, about 1670). Pen and brush drawing." 
     credit: "Österreichische Nationalbibliothek, Vienna."
     alt: A hand-colored print showing a bay dotted with ships. 
 
   - id: kasl-fig-7
-    src: figures/inline/kasl-fig-7.jpg
+    src: figures/cmyk/kasl-fig-7.jpg
     label: Fig. 7
     caption: "Interior of the church of San Nicolás de Tolentino, about 1930." 
     credit: "Archivo General de la Orden de Agustinos Recoletos, Rome."
     alt: A black and white photograph of interior of a church. 
 
   - id: lua-fig-1
-    src: figures/inline/lua-fig-1.jpg
+    src: figures/cmyk/lua-fig-1.jpg
     label: Fig. 1
     caption: "Artist in Manila, Philippines, Piña cloth, Philippines, 1829. 15 × 13¾ in. (38.1 × 34.9 cm)."
     credit: "Peabody Essex Museum, Salem: Gift of Capt. Joseph J. Knapp, 1829, E6538. Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
     alt: A square of ivory colored woven cloth. 
 
   - id: lua-fig-2
-    src: figures/inline/lua-fig-2.jpg
+    src: figures/cmyk/lua-fig-2.jpg
     label: Fig. 2
     caption: "Artist in Manila, Philippines, Detail of J. J. Knapp's piña cloth, Philippines, 1829." 
     credit: "Courtesy of the Peabody Essex Museum. Photo by Patrick Doyle, 2025."
     alt: A photograph of a faint written inscription.
 
   - id: lua-fig-3
-    src: figures/inline/lua-fig-3.jpg
+    src: figures/cmyk/lua-fig-3.jpg
     label: Fig. 3
     caption: "Scraping the epidermis of the pineapple leaf with a porcelain plate shard, Aklan, 2022."
     credit: "Courtesy of the author."
     alt: A photo of a pineapple leaf scraped by a broken dish. 
     
   - id: lua-fig-4
-    src: figures/inline/lua-fig-4.jpg
+    src: figures/cmyk/lua-fig-4.jpg
     label: Fig. 4
     caption: "Scraping for the *liniwan* fibers with a coconut shell, Aklan, 2022." 
     credit: "Courtesy of the author."
     alt: A photo of a hand scraping a leaf with a coconut shell. 
  
   - id: lua-fig-5
-    src: figures/inline/lua-fig-5.jpg
+    src: figures/cmyk/lua-fig-5.jpg
     label: Fig. 5
     caption: "Hand-knotting, or *pagpanug-ot* in Aklanon, piña fibers, Aklan, 2022." 
     credit: "Courtesy of the author."
     alt: A photo of hands knotting two threads. 
 
   - id: lua-fig-6
-    src: figures/inline/lua-fig-6.jpg
+    src: figures/cmyk/lua-fig-6.jpg
     label: Fig. 6
     caption: "Knots in Knapp’s cloth under 10× magnification, Philippines, ca. 1829."
     credit: "Courtesy of the author."
     alt: A photo of the detail of a fabric weave. 
 
   - id: lua-fig-7
-    src: figures/inline/lua-fig-7.jpg
+    src: figures/cmyk/lua-fig-7.jpg
     label: Fig. 7
     caption: "Cylindrical piña warp frame, Aklan, 2022."
     credit: "Courtesy of the author."
     alt: A photograph of a wooden loom. 
 
   - id: lua-fig-8
-    src: figures/inline/lua-fig-8.jpg
+    src: figures/cmyk/lua-fig-8.jpg
     label: Fig. 8
     caption: "Shuttle and bobbin with piña weft thread, Aklan, 2022."
     credit: "Courtesy of the author."
     alt: A photo of a wooden shuttle and bobbin resting on a piece of fabric. 
 
   - id: lua-fig-9
-    src: figures/inline/lua-fig-9.jpg
+    src: figures/cmyk/lua-fig-9.jpg
     label: Fig. 9
     caption: "Floor looms at Haboean Weaving Studio, Aklan, 2022." 
     credit: "Courtesy of the author."
     alt: A photograph of a woman working at a wooden loom. 
 
   - id: lua-fig-10
-    src: figures/inline/lua-fig-10.jpg
+    src: figures/cmyk/lua-fig-10.jpg
     label: Fig. 10
     caption: "Blouse, Philippines. Piña cloth, overall: 21 × 53 in. (53.3 × 134.6 cm)."
     credit: The Textile Museum Collection, Washington, DC, 1998.6.1A-C, Gift of Mr. and Mrs. George W. White. Photography by Breton Littlehales.
     alt: An ivory colored blouse with very poofy sleeves.
 
   - id: lua-fig-11
-    src: figures/inline/lua-fig-11.jpg
+    src: figures/cmyk/lua-fig-11.jpg
     label: Fig. 11
     caption: "Damián Domingo (1796–1834), *Mistisa de Manila (A Mistisa Woman of Manila)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
     alt: A watercolor of a woman in a long skirt, white blouse, and head covering. 
 
   - id: lua-fig-12
-    src: figures/inline/lua-fig-12.jpg
+    src: figures/cmyk/lua-fig-12.jpg
     label: Fig. 12
     caption: "Damián Domingo (1796–1834), *India Ollera de Pasig (An Indian Pot-maker of Pasig)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
     alt: A watercolor of a woman in a blue skirt, blue top, and woven hat, surrounded by pots. 
 
   - id: lua-fig-13
-    src: figures/inline/lua-fig-13.jpg
+    src: figures/cmyk/lua-fig-13.jpg
     label: Fig. 13
     caption: "Damián Domingo (1796–1834), *Mestiso de Manila (A Mestise of Manila)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
     alt: A watercolor of a man in long trousers, a long semi-sheer top, and a top hat, holding a closed umbrella. 
 
   - id: lua-fig-14
-    src: figures/inline/lua-fig-14.jpg
+    src: figures/cmyk/lua-fig-14.jpg
     label: Fig. 14
     caption: "Damián Domingo (1796–1834), *Indio de Yloco (An Indian of Yloco)*, Philippines, 1827–32. Watercolor on paper, sheet: 16½ × 10⅝ in. (42 × 27 cm); image: 14⅛ × 9 in. (36 ×  23 cm)."
     credit: "Newberry Library: Edward E. Ayer Art Collection."
     alt: A watercolor of a man in a white shirt, blue shorts, and woven hat holding a bundle. 
 
   - id: luis-fig-1
-    src: figures/inline/luis-fig-1.jpg
+    src: figures/cmyk/luis-fig-1.jpg
     label: Fig. 1
     caption: "Antonio de Herrera y Tordesillas (died 1626), The official, imperial representation of the “West Indies,” which stretched from the Atlantic to Asia. “Descripcion de las Yndias Ocidentales,” 1601. Fold-out engraved map, 11 × 14⅝ in. (28 × 37 cm)."
     credit: "*Descripcion de las Indias Ocidentales* (En la Emprenta Real, 1601). Courtesy of the John Carter Brown Library."
     alt: A black-and-white map of north and south america and west Asia.
 
   - id: luis-fig-2
-    src: figures/inline/luis-fig-2.jpg
+    src: figures/cmyk/luis-fig-2.jpg
     label: Fig. 2
     caption: "Juan López de Velasco (died 1598), Manuscript map of the Spanish empire including routes of Spanish expeditions. “Demarcacion y nauegaciones de Yndias,” 1575. Manuscript map, 8¼ × 12¾ in. (20.8 × 32.5 cm)."
     credit: “Demarcacion y diuision de las Yndias.” Courtesy of the John Carter Brown Library.
     alt: A black-and-white map of north and south america and west Asia.
 
   - id: luis-fig-3
-    src: figures/inline/luis-fig-3.jpg
+    src: figures/cmyk/luis-fig-3.jpg
     label: Fig. 3
     caption: "Arnoldus Montanus (died 1683), View of Acapulco, including the port, the town, the fort, and the galleons. “Portus Acapulco,” 1671. Engraving, 11¼ × 13⅞ in. (28.7 × 35.1 cm)."
     credit: "*De Nieuwe en onbekende Weereld: of Beschryving van America* (Jacob Meurs Boek-verkooper en Plaet-snyder, 1671)."
     alt: A black-and-white image of a harbor with many buildings and palm trees.
 
   - id: luis-fig-4
-    src: figures/inline/luis-fig-4.jpg
+    src: figures/cmyk/luis-fig-4.jpg
     label: Fig. 4
     caption: "Earthenware jars that stored water and were used as ballast, recovered from the *San Diego* and displayed in the National Museum of Anthropology in Manila. Earthenware." 
     credit: "Photograph courtesy the author."
     alt: Fifteen earthenware vessels displayed on three tiers.
 
   - id: luis-fig-5
-    src: figures/inline/luis-fig-5.jpg
+    src: figures/cmyk/luis-fig-5.jpg
     label: Fig. 5
     caption: "Katana and tsuba (a circular guard for a katana), recovered from the wreck of the *San Diego*." 
     credit: "Courtesy the author."
     alt: A long, heavily encrusted object is displayed with smaller round, flat objects.
 
   - id: luis-fig-6
-    src: figures/inline/luis-fig-6.jpg
+    src: figures/cmyk/luis-fig-6.jpg
     label: Fig. 6
     caption: "Unknown artist, Ming dynasty (1368–1644) Chinese chair gifted to Felipe II, on display in the Hapsburg apartments of El Escorial. Spain’s royal palaces are filled with Asian products." 
     credit: "Courtesy the author."
     alt: A brown, armless chair with a curving back.
 
   - id: luterbacher-fig-1
-    src: figures/inline/luterbacher-fig-1.jpg
+    src: figures/cmyk/luterbacher-fig-1.jpg
     label: Fig. 1
     caption: "*Portable shrine with the Virgin and Child*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts, 18½ × 13¾ × 2 in. (47.2 × 35 × 5.1 cm). Image: late 16th century. Oil on copper."
     credit: "Santa Maria da Caridade, Sardoal, Portugal. © Santa Maria da Caridade."
     alt: A photo of a winged altar with embellished doors and a central scene of the Virgin and Child.
 
   - id: luterbacher-fig-2
-    src: figures/inline/luterbacher-fig-2.jpg
+    src: figures/cmyk/luterbacher-fig-2.jpg
     label: Fig. 2
     caption: "Hendrick van Balen and Jan Brueghel the Elder, *Madonna and Child in a Flower Garland*, 1607–8. Oil on panel and silver, 10⅝ × 8⅝ in. (27 × 22 cm)."
     credit: "Pinacoteca Ambrosiana, Milan. © Veneranda Biblioteca Ambrosiana/ Palolo Manusardi/Mondadori Portfolio."
     alt: A painting of the Virgin and Child surrounded by a wreath of flowers. 
 
   - id: luterbacher-fig-3
-    src: figures/inline/luterbacher-fig-3.jpg
+    src: figures/cmyk/luterbacher-fig-3.jpg
     label: Fig. 3
     caption: "*Portable Shrine with Martyrdom of St. Stephen*. Shrine: late 16th/early 17th century. Shrine: wood base with lacquer (urushi), gold, silver, and mother-of-pearl and copper mounts, 17⅜ × 13⅜ × 1⅝ in. (44 × 34 × 4.3 cm). Image: 17th century. Feathers glued on paper mounted on unknown substrate, gilt paper."
     credit: "Tokyo National Museum, Tokyo. © ColBase (https://colbase.nich.go.jp/)."
     alt: A photo of a winged altar with leaf decoration on the doors and a central scene of a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-4
-    src: figures/inline/luterbacher-fig-4.jpg
+    src: figures/cmyk/luterbacher-fig-4.jpg
     label: Fig. 4
     caption: "*Saint John the Evangelist*, 17th century. Feathers glued on paper, mounted on copper, gilt paper, 12⅛ × 8⅞ in. (30.8 × 22.5 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2013.389."
     alt: An image of St. John the Evangelist holding a chalice made from feathers. 
 
   - id: luterbacher-fig-5
-    src: figures/inline/luterbacher-fig-5.jpg
+    src: figures/cmyk/luterbacher-fig-5.jpg
     label: Fig. 5
     caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail)."
     alt: A detail of an altar panel showing a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-6
-    src: figures/inline/luterbacher-fig-6.jpg
+    src: figures/cmyk/luterbacher-fig-6.jpg
     label: Fig. 6
     caption: "*Portable Shrine with the Virgin of Guadalupe and the Four Apparitions*. Shrine: late 16th/early 17th century. Wood base with lacquer (urushi), gold, silver, mother-of-pearl, and copper mounts. Images: 18th century. Oil on copper foil with embossed silver applications."
     credit: "Daniel Liebsohn Collection, Mexico City. © Archivo fotográfico F.C.D.L/ Colección Daniel Liebsohn."
     alt: An open shrine with five paintings of the Virgin Mary.
 
   - id: onn-fig-1
-    src: figures/inline/onn-fig-1.jpg
+    src: figures/cmyk/onn-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, Writing cabinet with emblem of Mexico City, Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
     credit: Asian Civilisations Museum, Singapore [2019-00743].
     alt: Writing cabinet with emblem of Mexico City. 
 
   - id: onn-fig-2
-    src: figures/inline/onn-fig-2.jpg
+    src: figures/cmyk/onn-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, Writing cabinet with emblem of Mexico City (detail), Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
     credit: Asian Civilisations Museum, Singapore [2019-00743].
     alt: Closeup view of writing cabinet with emblem of Mexico City. 
 
   - id: onn-fig-3
-    src: figures/inline/onn-fig-3.jpg
+    src: figures/cmyk/onn-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, *Acamapichtli* from the *Codex Tovar*, fol. 93, Mexico, about 1585." 
     credit: "Wikimedia Commons."
     alt: A painting of a man holding a spear with a floating, disembodied hand holding spikes nearby.
 
   - id: onn-fig-4
-    src: figures/inline/onn-fig-4.jpg
+    src: figures/cmyk/onn-fig-4.jpg
     label: Fig. 5
     caption: "Choirstalls in the church of San Agustin, Manila, Philippines, about 1608–14."
     credit: "Courtesy the author."
     alt: A photograph of ornate, wooden choirstalls.
 
   - id: onn-fig-5
-    src: figures/inline/onn-fig-5.jpg
+    src: figures/cmyk/onn-fig-5.jpg
     label: Fig. 6
     caption: "Choir lectern in the choir loft of San Agustin Church, Manila, Philippines, about 1728–34." 
     credit: "Courtesy the author."
     alt: A large, wooden lectern holding several sheets of music. 
 
   - id: onn-fig-6
-    src: figures/inline/onn-fig-6.jpg
+    src: figures/cmyk/onn-fig-6.jpg
     label: Fig. 4
     caption: "Altar table, Philippines, 1700s. Wood (balayong) and metal, 27½ × 31½ × 19⅝ in. (70 × 80 × 50 cm)."
     credit: Collection of Paulino and Hetty Que.
     alt: Wooden cabinet with legs that feature paws holding balls.
 
   - id: onn-fig-7
-    src: figures/inline/onn-fig-7.jpg
+    src: figures/cmyk/onn-fig-7.jpg
     label: Fig. 7
     caption: "Cabinets in the sacristy of San Agustin, Manila, Philippines, 1600s or 1700s."
     credit: "Courtesy the author."
     alt: A long wooden cabinet.
 
   - id: onn-fig-8
-    src: figures/inline/onn-fig-8.jpg
+    src: figures/cmyk/onn-fig-8.jpg
     label: Fig. 8
     caption: "Fall-front cabinet in San Agustin Church, Manila, Philippines, 1700s." 
     credit: "Courtesy the author."
     alt: An ornately decorated wooden cabinet. 
 
   - id: onn-fig-9
-    src: figures/inline/onn-fig-9.jpg
+    src: figures/cmyk/onn-fig-9.jpg
     label: Fig. 9
     caption: "Cabinet, India, Gujarat, 1600s. Ivory, rosewood, ebony, silver, and metals, 26 × 19¼ × 11¾ in. (66 × 49 × 30 cm)." 
     credit: "Asian Civilisations Museum, Singapore [2015-00516]."
     alt: A triangular-shaped cabinet heavily ornamented in wood and metal. 
 
   - id: onn-fig-10
-    src: figures/inline/onn-fig-10.jpg
+    src: figures/cmyk/onn-fig-10.jpg
     label: Fig. 10
     caption: "Cabinet, Mughal India, probably Agra, about 1640. Rosewood, ebony, ivory, and iron, 17¾ × 26 × 17⅜ in. (45 × 66 × 44 cm)."
     credit: "Asian Civilisations Museum, Singapore [2013-00164]: Gift of Dr Reshma Merchant and Mr Aziz Merchant, with ACM acquisition funds."
     alt: An open wooden cabinet with ivory floral motifs. 
 
   - id: onn-fig-11
-    src: figures/inline/onn-fig-11.jpg
+    src: figures/cmyk/onn-fig-11.jpg
     label: Fig. 11
     caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214., Mexico, about 1579."
     credit: "Biblioteca Nacional de España, Madrid [Vitr/26/11]."
     alt: A painting of Indigenous people offering a wreath or necklace to a man in European clothes. Armored soldiers hold spears.
 
   - id: onn-fig-12
-    src: figures/inline/onn-fig-12.jpg
+    src: figures/cmyk/onn-fig-12.jpg
     label: Fig. 12
     caption: "Writing cabinet, Manila, 1600s. Wood (balayong), bone, and iron, 17⅞ × 12¾ × 13¼ in. (45.5 × 32.5 × 33.5 cm)."
     credit: Fernando and Catherine Zobel de Ayala Collection.
     alt: A wooden cabinet with an ornate locking hinge. 
 
   - id: onn-fig-13
-    src: figures/inline/onn-fig-13.jpg
+    src: figures/cmyk/onn-fig-13.jpg
     label: Fig. 13
     caption: "Chest, Manila, 1700s. Wood (mahogany and dalbergia), bone, and brass, 29⅞ × 47¼ × 22 in. (76 × 120 × 56 cm)."
     credit: Museo Franz Mayer, Mexico City [04929].
     alt: A wooden cabinet with inlaid floral imagery. 
 
   - id: onn-fig-14
-    src: figures/inline/onn-fig-14.jpg
+    src: figures/cmyk/onn-fig-14.jpg
     label: Fig. 14
     caption: "Box, Philippines, late 1600s. Wood, bone, silver, and iron, 6¼ × 18⅛ × 15 in. (16 × 46 × 38 cm)."
     credit: Museo Franz Mayer, Mexico City [04943].
     alt: A wooden box with inlaid floral imagery. 
 
   - id: onn-fig-15
-    src: figures/inline/onn-fig-15.jpg
+    src: figures/cmyk/onn-fig-15.jpg
     label: Fig. 15
     caption: "Altar table (detail), Philippines, 1600s or 1700s. Wood (balayong) and metal."
     credit: "Museo de Intramuros, Manila. Courtesy the author."
     alt: Close-up view of vegetal motifs on a wooden altar table. 
 
   - id: onn-fig-16
-    src: figures/inline/onn-fig-16.jpg
+    src: figures/cmyk/onn-fig-16.jpg
     label: Fig. 16
     caption: "Cabinet, Philippines, around 1700. Wood, bone, and silver, 23⅝ × 32⅛ × 16⅞ in. (60 × 81.5 × 43 cm)."
     credit: Family of Mr. and Mrs. Lee Kip Lee, Singapore.
     alt: A cabinet heavily decorated with white floral motifs. 
 
   - id: onn-fig-17
-    src: figures/inline/onn-fig-17.jpg
+    src: figures/cmyk/onn-fig-17.jpg
     label: Fig. 17
     caption: "Cabinet, Philippines, around 1700. Wood, bone, silver, and iron, 23⅝ × 33¼ × 17⅞ in. (60 × 84.5 × 45.5 cm)."
     credit: Museo Franz Mayer, Mexico City [00415].
     alt: A wooden box with intricate vegetal motifs. 
 
   - id: rojas-fig-1
-    src: figures/inline/rojas-fig-1.jpg
+    src: figures/cmyk/rojas-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, *Peres Maldonado Ex-voto*, Mexico, 1770. Oil on canvas, 27¼ × 36½ in. (69.2 × 92.7 cm)."
     credit: "Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10."
     alt: A painting of a priest holding up a veiled woman having a chest operation in her bedroom. Spectators gather around her bed to observe. On the right is an altar table with status of the Virgin and Child, Christ on the Cross, and framed devotional paintings.
 
   - id: rojas-fig-2
-    src: figures/inline/rojas-fig-2.jpg
+    src: figures/cmyk/rojas-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, Copy of mid-eighteenth-century biombo showing a fête-galante in the house of Manuel and Teresa Barbachano Ponce, Mexico City, 1978. Oil on panel."
     credit: "© Bob Schalkwijk."
     alt: A black and white photograph of a 10-panel biombo in the middle of a living room. The biombo shows aristocratic men and women enjoying food and live music in an outdoor garden.
 
   - id: rivas-fig-1
-    src: figures/inline/rivas-fig-1.jpg
+    src: figures/cmyk/rivas-fig-1.jpg
     label: Fig. 1
     caption: "Unknown artist, Barrel-Shaped *Jardiniere*, Puebla, Mexico, 1700s. Tin-glazed ceramic, 28 × 18 in. dia. (71.1 × 45.7 cm)."
     credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.112."
     alt: A vessel that bulges in the middle is divided into 7 registers and painted with red floral motifs.
 
   - id: rivas-fig-2
-    src: figures/inline/rivas-fig-2.jpg
+    src: figures/cmyk/rivas-fig-2.jpg
     label: Fig. 2
     caption: "Diego de Reinoso, Double-Sided Carving of Saint Michael and the Virgin and Child with Saints Dominic and John the Baptist, Mexico, ca. 1696. Alabaster, 3¼ × 2¼ × ⅞ in. (8.3 × 5.7 × 2.2 cm)."
     credit: "Denver Art Museum: Gift of Robert J. Stroessner, 1991.1150."
     alt: A white sculpture featuring a figure holding a shield standing on two disembodied heads and surrounded by geometric and swirl motifs.
 
   - id: rivas-fig-3
-    src: figures/inline/rivas-fig-3.jpg
+    src: figures/cmyk/rivas-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, Plate with the Coat of Arms of Don Domingo Ignacio de Lardizábal y Arza, 1785. China, Qing dynasty (1644–1911). Porcelain, 9½ in. dia. (24.1 cm)."
     credit: "Denver Art Museum: Funds from the Carl Patterson bequest, 2021.113."
     alt: This white plate with a red border features images of animals, buildings, and trees in the center.
 
   - id: rivas-fig-4
-    src: figures/inline/rivas-fig-4.jpg
+    src: figures/cmyk/rivas-fig-4.jpg
     label: Fig. 4
     caption: "Unknown artist, Pair of Plates with the Arms of Francisco José de Ovando y Solís, 1st Marquis of Ovando, 1752. China, Qing dynasty (1644–1911). Porcelain, 11½ in. dia. (29.2 cm)."
     credit: "Denver Art Museum: Funds from Ethel Sayre Berger by exchange, 2020.563.1-2."
     alt: Two white plates with gold borders each feature a coat of arms at center comprising crown, cross, and sun motifs.
 
   - id: rivas-fig-5
-    src: figures/inline/rivas-fig-5.jpg
+    src: figures/cmyk/rivas-fig-5.jpg
     label: Fig. 5
     caption: "Unknown artist, *Young Woman with a Harpsichord*, Mexico, 1735–50. Oil on canvas, framed: 72¼ × 50⅞ × 3 in. (183.5 × 129.2 × 7.6 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.209."
     alt: A woman with white hair in a floor-length red dress points toward the harpsichord next to which she stands.
 
   - id: rivas-fig-6
-    src: figures/inline/rivas-fig-6.jpg
+    src: figures/cmyk/rivas-fig-6.jpg
     label: Fig. 6
     caption: "Attributed to José de Alcíbar, *De Espanol y Negra, Mulato*, Mexico, ca. 1760. Oil on canvas, 30⅝ × 38¾ in. (77.8 × 98.4 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2014.217."
     alt: A light-skinned man and dark-skinned woman interact with a young mixed-race boy.
 
   - id: rivas-fig-7
-    src: figures/inline/rivas-fig-7.jpg
+    src: figures/cmyk/rivas-fig-7.jpg
     label: Fig. 7
     caption: "Francisco Clapera, *De Chino, e India, Genizara*, Mexico, ca. 1775. Oil on canvas, 20⅛ × 15⅝ in. (51.1 × 39.7 cm)."
     credit: "Denver Art Museum: Gift of the Collection of Frederick and Jan Mayer, 2011.428.14."
     alt: A man and woman in white and brown clothing stand near a weaving machine against a wall decorated with plates and an instrument. A small child kneels over a basket filled with white, fluffy material.
 
   - id: rivas-fig-8
-    src: figures/inline/rivas-fig-8.jpg
+    src: figures/cmyk/rivas-fig-8.jpg
     label: Fig. 8
     caption: "Pedro Antonio Gualdi, *Zócalo of Mexico City*, Mexico, 1847. Oil and gouache on paper on canvas, 9½ × 14½ in. (24.1 × 36.8 cm)."
     credit: "Denver Art Museum: Gift of Mrs. Frederic H. Douglas, 1956.72."
     alt: A vast plaza filled with people lined by tall buildings on one side and a long building flying the American flag on the other against a pink sky.
 
   - id: rivas-fig-9
-    src: figures/inline/rivas-fig-9.jpg
+    src: figures/cmyk/rivas-fig-9.jpg
     label: Fig. 9
     caption: "Facade of Torre Tagle Palace, Lima, Peru, built ca. 1738. Postcard, 1920s."
     credit: "Courtesy the author."
     alt: A black-and-white photograph of a row of buildings receding into the background.
 
   - id: rojas-fig-3
-    src: figures/inline/rojas-fig-3.jpg
+    src: figures/cmyk/rojas-fig-3.jpg
     label: Fig. 3
     caption: "Biombo Showing Fête Galante, Mexico, 1700s."
     credit: "Corcuera House. Image from *Diseño. Sugerencias para Vivir Mejor*, May 1973."
     alt: A color photograph of an interior dining room with a partial view of a biombo placed against the left hand wall. Our view of the biombo shows aristocratic men enjoying food and games outdoors.
 
   - id: rojas-fig-4
-    src: figures/inline/rojas-fig-4.jpg
+    src: figures/cmyk/rojas-fig-4.jpg
     label: Fig. 4
     caption: "Attributed to Miguel Cabrera (1695–1768), Biombo with the Muses, Mexico, mid-1700s."
     credit: "Verna Cook Shipway Papers, Special Collections & Archives, UC San Diego."
     alt: A black and white photograph of an interior dining room with a biombo pushed up against the wall. The biombo depicts women in Classical garbs enjoying live music in the outdoors.
 
   - id: rojas-fig-5
-    src: figures/inline/rojas-fig-5.jpg
+    src: figures/cmyk/rojas-fig-5.jpg
     label: Fig. 5
     caption: "Unknown artist, Wood Biombo with Retablos in the House of David and Anne Wilson, San Miguel de Allende, Guanajuato, Mexico, 1979." 
     credit: "© Bob Schalkwijk."
     alt: A black and white photograph of a 3 panel biombo with 9 rectangular vignettes of religious scenes.
 
   - id: rojas-fig-6
-    src: figures/inline/rojas-fig-6.jpg
+    src: figures/cmyk/rojas-fig-6.jpg
     label: Fig. 6
     caption: "Interior design by Arturo Pani (1915–1981), House of Barbachano Ponce, Mexico, 1957."
     credit: "Image from *Diseño. Sugerencias para Vivir Mejor*, January 1970, 72–73."
     alt: A scanned image of a home interior. A 6 panel biombo is pushed up against the wall on the right. The biombo depicts aristocratic men and women enjoying live music and food in the outdoors.
 
   - id: rojas-fig-7
-    src: figures/inline/rojas-fig-7.jpg
+    src: figures/cmyk/rojas-fig-7.jpg
     label: Fig. 7
     caption: "Roberto Montenegro (1885–1968), *Biombo (Map of the Popular Arts of Mexico)*, Mexico, 1929. Oil on canvas, 78¾ × 118⅛ × ¾ in. (200 × 300 × 2 cm)."
     credit: © The Phoebus Foundation, Antwerp
     alt: A 6 panel biombo with a cartographic image of North America emphasizing Mexico in red.
 
   - id: rojas-fig-8
-    src: figures/inline/rojas-fig-8.jpg
+    src: figures/cmyk/rojas-fig-8.jpg
     label: Fig. 8
     caption: "Jesús “Chucho” Reyes Ferreira (1882–1977), *Biombo*, Mexico, ca. 1960. Oil on wood."
     credit: Courtesy Chucho Reyes.
     alt: A 3 panel biombo with 9 rectangular vignettes of illustrated roses in pink, blue, red, and yellow.
 
   - id: rojas-fig-9
-    src: figures/inline/rojas-fig-9.jpg
+    src: figures/cmyk/rojas-fig-9.jpg
     label: Fig. 9
     caption: "David Alfaro Siqueiros (1896–1974), *Miniature Biombo with Fourteen Panels*, Mexico, 1965. Pyroxylin on wood."
     credit: "Sala de Arte Público Siqueiros/ Instituto Nacional de Bellas Artes y Literatura. Photograph by the author."
     alt: A long biombo with short square panels displayed in a gallery case. The panels are illustrated with gestural strokes of red and black paint.
 
   - id: rojas-fig-10
-    src: figures/inline/rojas-fig-10.jpg
+    src: figures/cmyk/rojas-fig-10.jpg
     label: Fig. 10
     caption: "House of Luis Barragán, Tacabuya, Mexico City, 1948."
     credit: "Photograph by Alberto Moreno Guzmán."
     alt: A black and white photo of a living room with a parchment biombo, couch, coffee table, stool seats, and a modern painting hung on a white wall.
 
   - id: rojas-fig-11
-    src: figures/inline/rojas-fig-11.jpg
+    src: figures/cmyk/rojas-fig-11.jpg
     label: Fig. 11
     caption: "Luis Barragán (1902–1988), Original Floor Plan Drawing with Furniture Layout for Barragán’s House, Mexico City, 1948." 
     credit: "Courtesy Barragán Foundaiton. © 2025 Barragán Foundation, Switzerland / Artists Rights Society (ARS), New York."
     alt: A floor plan showing the interior rooms and outdoor garden of Barragán's house.
 
   - id: rojas-fig-12
-    src: figures/inline/rojas-fig-12.jpg
+    src: figures/cmyk/rojas-fig-12.jpg
     label: Fig. 12
     caption: "View of Parchment Biombo, house of Luis Barragán, Tacabuya, Mexico City, 2024."
     credit: "Courtesy the author."
     alt: A color photograph of a parchment biombo in Barragán's house. In front of the biombo is a statue of the Virgin and child placed on a white pedestal.
 
   - id: rojas-fig-13
-    src: figures/inline/rojas-fig-13.jpg
+    src: figures/cmyk/rojas-fig-13.jpg
     label: Fig. 13
     caption: "Juan Sordo Madaleno (1916–1985), *Architect's Studio*, Mexico City, 1948."
     credit: "Photo by Guillermo Zamora, courtesy of Fundación Sordo Madaleno."
     alt: A black and white photograph of Juan Sordo Madaleno working in his studio. Madaleno sits in a different room from us, framed by the wood paneled doorway and with his turned towards us.
 
   - id: rojas-fig-14
-    src: figures/inline/rojas-fig-14.jpg
+    src: figures/cmyk/rojas-fig-14.jpg
     label: Fig. 14
     caption: "Juan Sordo Madaleno (1916–1985), furniture by Clara Porset (1895–1981), Interiors of the Cine París, Mexico City, 1954."
     credit: "Photo by Guillermo Zamora, courtesy of Fundación Sordo Madaleno."
     alt: A black and white photo of a staircase leading to a large room with an oversized white biombo.
 
   - id: rojas-fig-15
-    src: figures/inline/rojas-fig-15.jpg
+    src: figures/cmyk/rojas-fig-15.jpg
     label: Fig. 15
     caption: "Mathias Goeritz (1915–1990), Lattice for the Entryway of Ricardo Legorreta's Hotel Camino Real, Mexico City, 1968."
     credit: "Photograph by Armando Salas Portugal."
     alt: A photograph of a wide exterior space with an in ground water fountain and modernist black gateway with squared holes and  an open space for passersby to the left.
 
   - id: santner-fig-1
-    src: figures/inline/santner-fig-1.jpg
+    src: figures/cmyk/santner-fig-1.jpg
     label: Fig. 1
     caption: "*Libro donde se asientan las Joyas de Diamantes, Perlas, Esmeraldas, Rubies, y las de Plata de los Conventos, y Casas de toda esta Provincia del Ssmo Rossario, Año de 1750*."
     credit: "Archivo de la Provincia del Santísimo Rosario, Avila. Photo by author."
     alt: A manuscript page with Spanish text.
 
   - id: santner-fig-2
-    src: figures/inline/santner-fig-2.jpg
+    src: figures/cmyk/santner-fig-2.jpg
     label: Fig. 2
     caption: "Unknown artist, *Ramillete*, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
     credit: "Museo de Intramuros, Manila."
     alt: A silver floral ornament. 
 
   - id: santner-fig-3
-    src: figures/inline/santner-fig-3.jpg
+    src: figures/cmyk/santner-fig-3.jpg
     label: Fig. 3
     caption: "Unknown artist, Silver Panel, Mexico or Philippines, about 1785. Silver, 33¼  × 29¼ ×  2 in. (84.5 × 74.3 × 5.1 cm)."
     credit: "Denver Art Museum: Gift of the collection of Frederick and Jan Mayer, 2013.301."
     alt: A rectangular silver panel with raised ornamentation. 
 
   - id: santner-fig-4
-    src: figures/inline/santner-fig-4.jpg
+    src: figures/cmyk/santner-fig-4.jpg
     label: Fig. 4
     caption: "Unknown artist, Chalice, Acapulco and Manila, 1787. Silver, 9 × 5⅞ in. (23 × 15 cm)."
     credit: Parroquia de Santa María de la Asunción, Mairena del Alcor, Sevilla, Spain.
     alt: A silver gilt chalice with a round base. 
 
   - id: santner-fig-5
-    src: figures/inline/santner-fig-5.jpg
+    src: figures/cmyk/santner-fig-5.jpg
     label: Fig. 5
     caption: "Unknown artist, Heart and Pen, Philippines, 1600s. Gold, heart 6¼ × 4⅜ in. (16 × 11 cm); pen 12⅜ × 1½ in. (31.5 × 3.8 cm)."
     credit: San Agustin, Manila.
     alt: A gold wirework heart and quill. 
 
   - id: santner-fig-6
-    src: figures/inline/santner-fig-6.jpg
+    src: figures/cmyk/santner-fig-6.jpg
     label: Fig. 6
     caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½ in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5 cm)."
     credit: Bangko Sentral ng Pilipinas Collection, Manila.
