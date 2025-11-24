@@ -10,7 +10,8 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 #url: 'http://localhost:8080'
-url: 'https://denverartmuseum.github.io/mayer-2024/'
+#url: 'https://denverartmuseum.github.io/mayer-2024/'
+url: 'https://mayer2024.denartmus.org/'
 
 # ------------------------------------------------------------------------------
 # Title & Description

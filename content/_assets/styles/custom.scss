@@ -275,3 +275,27 @@
   }
 }
 
+/*------------------------------------------------------------------------
+ * Print customizations
+ -----------------------------------------------------------------------*/
+
+@media print {
+  .copyright-page {
+    
+  }
+
+  .about-logo {
+    height: 3rem;
+    margin:0;
+    a {
+      display:block;
+      margin:0;
+      padding:0;
+
+      svg {
+        height:100%;
+        width:auto;
+      }
+    }
+  }
+}
