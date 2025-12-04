@@ -474,15 +474,14 @@
     margin-top: 0;
   }
 
-  #essay-luis .quire-page__content .container .content .accordion-section__body {
+  .essay-luis .quire-page__content .container .content {
     ul {
       list-style: disc outside;
       margin: 24pt 0;
 
       li {
         box-sizing: border-box;
-        list-style: disc outside;
-        margin-bottom:0;
+        margin-bottom:0 !important;
         margin-top:0;
         padding:0;
 
