@@ -3,8 +3,6 @@ title: Inventories of Luxury and Wealth
 subtitle: Asian Trade and Material Culture in Spanish America
 layout: essay
 order: 40
-classes:
-  - page-one
 contributor:
   - id: Rivas
 ---
@@ -13,19 +11,29 @@ Beginning in the early 1570s, with the regular annual Pacific crossing, the Span
 
 The influx of these Asian imports ignited the imaginations of both consumers and artisans in the Americas. Sumptuous textiles, fine porcelain, lacquer furniture, ivory sculptures, and other lavish objects became symbols of status and wealth and inspired local craftspeople to incorporate Asian motifs and techniques into their creations (fig. 1). This blending of Asian and local styles led to a unique cross-cultural synthesis, visible in everything from architecture and decoration to clothing and everyday objects (fig. 2).
 
-{% figuregroup '2', 'rivas-fig-1, rivas-fig-2' %}
-
 Although much has been written about colonial society, we still know relatively little about customs regarding material culture and everyday life, particularly the role of objects in these societies. Published documents—in particular inventories—from the colonial period remain limited, and accessing original sources in Latin America often presents bureaucratic challenges and numerous other difficulties.
+
+{% figure 'rivas-fig-1' %}
 
 This is precisely why I have undertaken this opportunity to explore the context in which luxurious Asian goods for the home were used during the viceregal era. In Spanish America, Asian imports appear listed almost everywhere, from ship manifests to dowry contracts, wills, inventories, and appraisals of every possible type. However, records tend to be succinct and merely name the items without providing additional information. Yet, some inventories offer more detailed information on the specifics of the objects, generally indicating quality or appearance, and more importantly, some documents include information on how they were used and displayed. The latter is a crucial aspect as most scholarship on Asian export goods tends to focus more on the type of items and their quantity rather than on their role in daily life.
 
+{% figure 'rivas-fig-2' %}
+
 Documents of wealthier households typically list a substantial number of Asian items of the finest kind. Yet, the variety and abundance of imported goods across Spanish America allowed even the less affluent strata of viceregal societies to access them, even if of lower quality. Whether it was an aristocrat or a wealthy merchant displaying a costly service of armorial porcelain made to order in China (figs. 3 and 4) or a rich lady wearing a lavish dress made from Chinese silk (fig. 5) or an individual of the middle class wearing a more affordable printed cotton garment (fig. 6) or the use of a simple porcelain bowl in the kitchen (fig. 7), imported goods were present across all social classes. It is important to note that the so-called Parián market in Mexico City was a key retail hub for global imports, while in Lima, through the port of Callao, local merchants retailed a wide range of imported products, chiefly coming from Portobello (Panama), to supply Peru’s interior provinces.
 
-{% figuregroup '3', 'rivas-fig-3, rivas-fig-4, rivas-fig-5, rivas-fig-6, rivas-fig-7' %}
+{% figure 'rivas-fig-3' %}
 
-Few Asian artifacts from this era have survived to the present, and nearly all are detached from their original historical context, complicating their study. Additionally, there have been limited archaeological investigations into this topic, with most focusing on porcelain fragments preserved in landfills, which, by their nature, remain in relatively good condition and close to their original location. However, documents showcase the depth and durability of the transpacific connections between Asia and the Americas that emerged in the late sixteenth century, revealing a vibrant and enduring cultural exchange.
+Few Asian artifacts from this era have survived to the present, and nearly all are detached from their original historical context, complicating their study. Additionally, there have been limited
+
+{% figure 'rivas-fig-4' %}
+{% figure 'rivas-fig-5' %}
+{% figure 'rivas-fig-6' %}
+
+archaeological investigations into this topic, with most focusing on porcelain fragments preserved in landfills, which, by their nature, remain in relatively good condition and close to their original location. However, documents showcase the depth and durability of the transpacific connections between Asia and the Americas that emerged in the late sixteenth century, revealing a vibrant and enduring cultural exchange.
 
 The present study focuses on four elite individuals: two viceroys—Manuel de Oms y Santa Pau (1651–1710), Marquess of Castelldosrius, Viceroy of Peru from 1707 to 1710; and Antonio María de Bucareli y Ursúa (1717–1779), Viceroy of New Spain from 1771 until his death in 1779—and two noblewomen—*doña* Teresa Francisca María de Guadalupe Retes Paz y Vera (1673–1695), Marchioness of San Jorge from Mexico City; and *doña* Rosa Juliana Sánchez de Tagle e Hidalgo (1687–1761), Marchioness of Torre Tagle from Lima.
+
+{% figure 'rivas-fig-7' %}
 
 By no means exhaustive, the study aims to provide an analysis based on four sets of documents: two from New Spain, published and annotated by the late Mexican scholar Gustavo Curiel,[^1] and two from Peru, which I have examined extensively in my previous research.[^2]
 

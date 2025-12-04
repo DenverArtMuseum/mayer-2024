@@ -3,8 +3,6 @@ title: Name that Pot!
 subtitle: Viceregal Potters and Workshops of Puebla de los Ángeles
 layout: essay
 order: 80
-classes:
-  - page-one
 contributor:
   - id: McQuade
 ---

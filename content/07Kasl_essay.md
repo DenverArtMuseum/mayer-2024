@@ -3,8 +3,6 @@ title: For the Consolation of Manila
 subtitle: A Case Study of a New Spanish Image of Christ
 layout: essay
 order: 90
-classes:
-  - page-one
 contributor:
   - id: Kasl
 ---

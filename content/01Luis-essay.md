@@ -4,7 +4,7 @@ subtitle: An Historical Primer
 layout: essay
 order: 30
 classes:
-  - page-one
+  - essay-luis
 contributor:
   - id: Luis
 ---
@@ -27,9 +27,9 @@ More broadly, the commercial value of transpacific trade had an immeasurable imp
 
 The voyage from the Philippines to Mexico typically lasted an excruciating five to six months, sometimes more, sometimes less. The ships navigated from Cavite and through the Visayas before exiting the Philippine archipelago through the Embocadero and rising to the latitude of Japan to cross the tumultuous North Pacific eastward. Then, after spotting Cape Mendocino in California, they dropped south past Baja California—careful to avoid the rocky coast—until hitting Mazatlán to the east and continuing south. Finally, the ships sailed into the protected Bay of Acapulco and anchored under the guns of the Fort of San Diego (fig. 3).
 
-{% figure 'luis-fig-3' %}
-
 Free and enslaved Asian sailors were almost always the majority on Spanish ships sailing this route. Most served as *grumetes* (cabin boys); that is to say, they were the lowest-ranking crew members who received the lowest pay and rations. While most grumetes were from Luzon in the Philippines, a handful originated from elsewhere in coastal Asia. Meanwhile, most of the enslaved—who also performed sailing duties onboard—were either from South Asia or elsewhere in the Philippines. The survival of all and the maintenance of transpacific trade depended on the labor of these grumetes and the enslaved.[^13]
+
+{% figure 'luis-fig-3' %}
 
 The experience of sailing on a transpacific galleon was unlike that of any other early modern Spanish trade route, precisely because of the high valuation of galleon cargos. In 1605, Hernando de los Ríos Coronel wrote that galleon commanders would overload their ships with trade goods to maximize the profit of each voyage despite royal orders capping the value of the cargo. Consequently, there was very little room below the deck to accommodate people. Only a privileged few could afford to rent a cabin. The rest, including the grumetes and the enslaved, slept exposed to the elements, either partially under one of the galleons’ two superstructures or simply uncovered on the deck itself. Many froze in the North Pacific.[^14]
 
@@ -37,124 +37,70 @@ Full cargos meant that galleons often sailed with low stocks of food as well. Ac
 
 The problem of lading space was so severe that cannons were similarly an afterthought. Galleons beset by privateers lacked the means to fight back. The most extreme example of this reality was the fate of the *San Diego*, a fully loaded galleon that brought aboard cannons to fight off the Dutch Oliver van Noort’s attack on Manila in 1600. Under the command of the chronicler Antonio de Morga, the vessel sailed in pursuit of the *Mauritius*, the Dutch flagship. The weight of merchandise, cannons, and three hundred to four hundred soldiers and sailors contributed to the *San Diego*’s sudden sinking during combat despite successfully boarding the enemy vessel. Interestingly enough, merchandise recovered from the wreck of the *San Diego* during the 1990s remains one of the best sources to visualize the vast scope of the cargo on the Manila galleons (figs. 4 and 5).[^16]
 
-{% figuregroup '2', 'luis-fig-4, luis-fig-5' %}
+{% figure 'luis-fig-4' %}
 
 All of these factors contributed to the immense loss of life that became a defining reality of the transpacific crossing. It was not unusual for a “successful voyage” to lose 30 percent or more of its crew. When Pedro Cubero Sebastián made the crossing toward the end of the seventeenth century, only 192 of the original 400 onboard survived. Similarly, in 1616, 150 out of the ship’s 200 crew members died, primarily due to a lack of provisions.[^17] Survivors were often hospitalized for months in Acapulco, and some failed to return to health and perished on land. In total, thousands died, though no reliable estimates of casualties exist. This was the true cost of the transpacific trade. People were made to give their lives for every Asian product unloaded in Mexico.
+
+{% figure 'luis-fig-5' %}
 
 After disembarkation at Acapulco, following the confluence of objects and people leads us to other unexpected histories beyond formal sites of exchange at trade fairs and urban plazas. In fact, much of the cargo changed hands through informal means. Outside of the marketplace, non-elites gained access to Asian products. Middling merchants led mule trains through the central Mexican highlands, up the coast to Zihuatanejo, and further north to Guadalajara. On the way, they passed through smaller *pueblos de indios* (Indigenous towns) and peddled their wares to buyers with access to silver coins, cacao beans, and other goods for barter. One of these many merchants was Domingo de Villalobos, a thirty-one-year-old Kapampangan man from the Philippines. He lived on the Colima–Guadalajara trade corridor in Tzapotlan (also Zapotlán). From his will in 1618, we can approximate the inventory that these informal traders brought to small towns and scattered populations outside of urban centers in central Mexico:
 
 {% accordion '## Inventory' '' 'open' %}
-
--   9 mules
-
--   56 *sinabafas* (a type of linen fabric) with a sack
-
--   49 *lanquines* (cloth or silk textiles or clothing, associated with the Chinese city of “Lanquin” \[Nanjing\]) with a sack[^18]
-
--   8 pieces of taffeta from *china* (Asia) with a piece of damask
-
--   32 pairs of cotton socks from china
-
--   a blue-patterned silk pincushion pillow
-
--   16 cotton laces from china
-
--   a dark coat with tawny and purple decoration
-
--   24 breeches
-
--   a doublet
-
--   a cloak decorated with green trimming and with a fabric jerkin
-
--   7 *varas* (yard-lengths) of wool-blend fabric
-
--   1½ varas of taffeta of the land (from Mexico)
-
--   3 varas of material to make footware
-
--   4 ounces of purple and tawny trimmings with buttons and silk
-
--   some silk-cloth breeches with a chamois leather jerkin
-
--   a sword and dagger with belt and bullets
-
--   2 pairs of socks from Castille (1 tawny pair and 1 white pair)
-
--   2 high-quality garters, 1 colorful and 1 from Japan
-
--   a Japanese sash embroidered with silk
-
--   a worn outer garment
-
--   2 hats with their fastenings
-
--   a stuffed mattress with wool covering and pillow with 2 pairs of blankets (1 still being made)
-
--   4 pairs of shirts (2 still being made), 6 of coarse woolen cloth
-
--   a harquebus with a powder flask and a smaller flask with a small pistol with its flask
-
--   a katana
-
--   2 tanned deerskin pouches with iron fittings
-
--   5 bundles of feathers for a girl
-
--   several colorful cotton petticoats from Pampanga
-
--   silk breeches from china with several green silk socks from Castille
-
--   2 pieces of fine linen cloth from china with their tail and cord
-
--   5 scarves of sinabafa
-
--   180 pesos in *reales* (100 of which are in the possession of Alonso Gutiérrez; 8 reales equaled 1 peso)
-
--   40 bushels of salt bought from Alonso Gutiérrez
-
--   a shipment of cacao in the possession of Nicolas Rodríguez from Maquili
-
--   owed debt to Gaspar Sánchez (1 peso, 1 tomín)
-
--   10 bushels of corn
-
--   a hairband with 43 gold brooches
-
--   13 sacks (11 new, 2 old)
-
--   a new tent from Lanquin
-
--   an armored riding seat with saddle strap and iron stirrups
-
--   a woolen covering with a deerskin decoration
-
--   a horse headstall with its bit
-
--   a pillion with its breast strap
-
--   a silver Agnus Dei figure
-
--   a rosary
-
--   a little coarse cloth
-
--   2 new ropes with 10 knots
-
--   7 worn ropes with their knots
-
--   a 6-handspan large box with a padlock in Acapulco in the house of Agustín Pampango chino
-
--   3 collars with hoods made of thick wool
-
--   5 big nets
-
--   4 pounds of cinnamon
-
--   10 pounds and 4 ounces of white wax from china in loaves
-
--   debts owed by Pedro Pablo (13 pesos for 6 varas of velvet), Alonso Garrucho (2 shipments of cacao), Pedro Moreno, Francisco Luis chino (owed clothing), Gaspar Necio (25 pesos), the heirs of Andrés García from Colima (17 pesos, 4 *tomines* \[worth ⅛ peso each\]), Chavos indio (4 pesos, 2 tomines), Jorge Carrillo (12 pesos for cotton cloth), Alonso mulato (3 pesos for a hat), Nicolas Malanquiz chino (10 pesos for salt), Pedro Timban (3 pesos for a bushel of salt), Sebastián (2 pesos, 4 tomines), María Vázquez (3 pesos, 1 tomín for cotton cloth and 10 tomines for a silver knife), Juan Triana chino (2 pesos, 4 tomines for clothing), Juan Botete (3 pesos for clothing), Agustín Solampao (1 peso, 6 tomines in reales for cacao), Alonso Ramos (5 pesos), and Francisco Mathias chino (4 pesos, 4 tomines), don Francisco (12 bushels of salt), Andrés Malate chino (10 pesos), Andrés *alcalde* (magistrate) (2 bushels of salt), Juan Simentro (2½ bushels of salt), Catalina Tuxpaneca (2½ bushels of salt and 10 tomines in cacao), Francisco de Atecosahuic (3 pesos), Madalena Cecilia (1 peso), Pedro Timban (4 pesos of earrings), Pedro de Atlacosahuic (1½ pesos), and Miguel Capisayo (1 bushel of salt) [^19]
-
+- 9 mules
+- 56 *sinabafas* (a type of linen fabric) with a sack
+- 49 *lanquines* (cloth or silk textiles or clothing, associated with the Chinese city of “Lanquin” \[Nanjing\]) with a sack[^18]
+- 8 pieces of taffeta from *china* (Asia) with a piece of damask
+- 32 pairs of cotton socks from china
+- a blue-patterned silk pincushion pillow
+- 16 cotton laces from china
+- a dark coat with tawny and purple decoration
+- 24 breeches
+- a doublet
+- a cloak decorated with green trimming and with a fabric jerkin
+- 7 *varas* (yard-lengths) of wool-blend fabric
+- 1½ varas of taffeta of the land (from Mexico)
+- 3 varas of material to make footware
+- 4 ounces of purple and tawny trimmings with buttons and silk
+- some silk-cloth breeches with a chamois leather jerkin
+- a sword and dagger with belt and bullets
+- 2 pairs of socks from Castille (1 tawny pair and 1 white pair)
+- 2 high-quality garters, 1 colorful and 1 from Japan
+- a Japanese sash embroidered with silk
+- a worn outer garment
+- 2 hats with their fastenings
+- a stuffed mattress with wool covering and pillow with 2 pairs of blankets (1 still being made)
+- 4 pairs of shirts (2 still being made), 6 of coarse woolen cloth
+- a harquebus with a powder flask and a smaller flask with a small pistol with its flask
+- a katana
+- 2 tanned deerskin pouches with iron fittings
+- 5 bundles of feathers for a girl
+- several colorful cotton petticoats from Pampanga
+- silk breeches from china with several green silk socks from Castille
+- 2 pieces of fine linen cloth from china with their tail and cord
+- 5 scarves of sinabafa
+- 180 pesos in *reales* (100 of which are in the possession of Alonso Gutiérrez; 8 reales equaled 1 peso)
+- 40 bushels of salt bought from Alonso Gutiérrez
+- a shipment of cacao in the possession of Nicolas Rodríguez from Maquili
+- owed debt to Gaspar Sánchez (1 peso, 1 tomín)
+- 10 bushels of corn
+- a hairband with 43 gold brooches
+- 13 sacks (11 new, 2 old)
+- a new tent from Lanquin
+- an armored riding seat with saddle strap and iron stirrups
+- a woolen covering with a deerskin decoration
+- a horse headstall with its bit
+- a pillion with its breast strap
+- a silver Agnus Dei figure
+- a rosary
+- a little coarse cloth
+- 2 new ropes with 10 knots
+- 7 worn ropes with their knots
+- a 6-handspan large box with a padlock in Acapulco in the house of Agustín Pampango chino
+- 3 collars with hoods made of thick wool
+- 5 big nets
+- 4 pounds of cinnamon
+- 10 pounds and 4 ounces of white wax from china in loaves
+- debts owed by Pedro Pablo (13 pesos for 6 varas of velvet), Alonso Garrucho (2 shipments of cacao), Pedro Moreno, Francisco Luis chino (owed clothing), Gaspar Necio (25 pesos), the heirs of Andrés García from Colima (17 pesos, 4 *tomines* \[worth ⅛ peso each\]), Chavos indio (4 pesos, 2 tomines), Jorge Carrillo (12 pesos for cotton cloth), Alonso mulato (3 pesos for a hat), Nicolas Malanquiz chino (10 pesos for salt), Pedro Timban (3 pesos for a bushel of salt), Sebastián (2 pesos, 4 tomines), María Vázquez (3 pesos, 1 tomín for cotton cloth and 10 tomines for a silver knife), Juan Triana chino (2 pesos, 4 tomines for clothing), Juan Botete (3 pesos for clothing), Agustín Solampao (1 peso, 6 tomines in reales for cacao), Alonso Ramos (5 pesos), and Francisco Mathias chino (4 pesos, 4 tomines), don Francisco (12 bushels of salt), Andrés Malate chino (10 pesos), Andrés *alcalde* (magistrate) (2 bushels of salt), Juan Simentro (2½ bushels of salt), Catalina Tuxpaneca (2½ bushels of salt and 10 tomines in cacao), Francisco de Atecosahuic (3 pesos), Madalena Cecilia (1 peso), Pedro Timban (4 pesos of earrings), Pedro de Atlacosahuic (1½ pesos), and Miguel Capisayo (1 bushel of salt) [^19]
 {% endaccordion %}
 
 The inventory makes clear that Villalobos was a socially mobile, even fashionable, chino merchant operating in rural zones of Nueva Galicia to the northwest of Mexico City. He owed his commercial success to trade in both local commodities and Asian products. For example, he had large quantities of salt either in his possession, in that of intermediaries, or owed to him. Salt flowed from the Pacific coasts to Indigenous consumers in the highlands, and Villalobos was clearly an agent of this trade.[^20]

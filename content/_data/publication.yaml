@@ -45,7 +45,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Edited by Jorge F. Rivas Pérez, Karina H. Corrigan, and Kathryn Santner
+contributor_as_it_appears: 'Edited by <span class="name">Jorge F. Rivas Pérez</span>, <span class="name">Karina H. Corrigan</span>, <span class="name">and Kathryn Santner</span>'
 
 contributor:
   - id: Heinrich

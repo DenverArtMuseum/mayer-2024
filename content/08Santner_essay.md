@@ -3,8 +3,6 @@ title: The Other Silver Flow
 subtitle: Liturgical Objects in the Philippines
 layout: essay
 order: 100
-classes:
-  - page-one
 contributor:
   - id: Santner
 ---

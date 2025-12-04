@@ -1,7 +1,10 @@
 ---
 title: Introduction
-layout: splash
+layout: essay
 order: 20
+classes:
+  - page-one
+byline_format: name
 contributor:
     - id: Corrigan
     - id: Santner
@@ -17,15 +20,19 @@ From Manila’s Parián market—the Philippine clearinghouse for exports from a
 
 Compelled by the ambition and precarity of the venture and the great wealth and human suffering that it embodied, historians have long been drawn to the saga of the galleon trade. Art historians, in particular, have been inspired by the complex objects created within this global network of exchange—from Asian porcelains, lacquer objects, and silk to *biombos*, *talavera poblana*, and *enconchados* (figs. 1–3). As curators, these glittering wares inspire us for many of the same reasons that they fascinated the merchants of Manila and Mexico City and their eager clients in the Parián markets. Art history as a discipline may be reconsidering the notion of hybridity, but the plurality of these objects in motion remains a central component of their nature and enduring appeal.[^3]
 
-{% figuregroup '3', 'intro-fig-1, intro-fig-3, intro-fig-2' %}
-
 This is the third time that the Mayer Center symposium has addressed the theme of Asian and Latin American exchange. The first symposium—*Asia and Spanish America: Trans-Pacific Artistic and Cultural Exchange, 1500–1850*—was organized in 2006 by Donna Pierce and Ronald Otsuka. Its focus was largely unidirectional, exploring the influence of Asian goods on the furniture, decorative arts, textiles, and painting of Mexico. This groundbreaking symposium was a watershed for this emerging field. The second symposium, in 2010, *At the Crossroads: The Arts of Spanish America and Early Global Trade, 1492–1850*, was also organized by Pierce and Otsuka. Here, they revisited many of the themes explored in the first convening, but expanded the timeframe and markets for Asian goods to also include the impact of Asian export goods on colonial New England and the early American Republic.
+
+{% figure 'intro-fig-1' %}
 
 *Transpacific Engagements: Visual Culture of Global Exchange (1781*–*1869)*, a conference held in 2014 in the Philippines, marked another important step forward for the field. Centering both the conference in and its narrative on Manila, the organizers considered the impact of the galleon trade on artistic production within the Philippine *entrepôt*.[^4]
 
 When organizing the 2024 Mayer Center symposium, we similarly strove to center Manila within this global narrative and to expand our understanding of this complex node of exchange. One underrepresented component of transpacific studies, at least art historically, has been the impact of Latin America on the Philippines and its trading partners. The importation of raw materials from the Americas impacted local production in Asia, including the extensive use of cochineal in Chinese silks and brocades (fig. 4). Finished goods also flowed the other way and had a profound influence on Asian art and culture. In fact, some objects were transshipped multiple times, passing between Asian, European, and Latin American ports, finding reuse—and sometimes refashioning—in each location.
 
+{% figure 'intro-fig-3' %}
+
 One critical advancement in the eighteen years since the first symposium is a more nuanced understanding of the vital role that China had on art and life in the Philippines during this period. Fujianese merchants and artisans living in the Philippines represented an important and sizable community; they considered Manila a central node in their expansive network of trade routes that spanned much of East and Southeast Asia.
+
+{% figure 'intro-fig-2' %}
 
 The 2024 Mayer Center symposium brought together emerging and established scholars advancing different aspects of transpacific studies. The first two essays consider the individuals impacted by the galleon trade. Opening the volume, Diego Javier Luis’s [“The Manila Galleon: An Historical Primer”](/content/01Luis-essay.md/) provides a concise overview of this complex history and forefronts the movement of people and human costs associated with the galleon trade. He argues that we cannot consider the aesthetic and cultural impact of global trade without also considering the individual stories of loss, enslavement, and displacement associated with it.
 

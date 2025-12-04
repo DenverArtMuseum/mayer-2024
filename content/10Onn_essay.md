@@ -2,8 +2,6 @@
 title: A Cabinet of Many Cultures
 layout: essay
 order: 110
-classes:
-  - page-one
 contributor:
   - id: Onn
 ---

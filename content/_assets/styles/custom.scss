@@ -280,22 +280,233 @@
  -----------------------------------------------------------------------*/
 
 @media print {
-  .copyright-page {
-    
+
+/***************************************************************************
+ * General fixes (figures, paragraph margins, etc.)
+****************************************************************************/
+  .q-figure:not(.q-figure--group__item) {
+    border:none;
+    padding:0;
   }
 
-  .about-logo {
-    height: 3rem;
-    margin:0;
-    a {
-      display:block;
-      margin:0;
-      padding:0;
+  .title-page {
+    .title-block {
+      .title {
+        color: $orange;
+        font-size: 36pt;
+        line-height: 1.4;
+      
+        .subtitle {
+          font-size: 28pt;
+        }
+      }
 
-      svg {
-        height:100%;
-        width:auto;
+      .contributor {
+        font-size: 22pt;
+        margin-top: 28pt;
+
+        .name {
+          white-space: pre;
+        }
+      }
+    }
+
+    .publisher-block {
+      .publisher {
+        font-size: 18pt;
       }
     }
   }
+
+  .copyright-page {
+    break-inside: avoid;
+    font-size: 7.5pt;
+    margin-bottom:0;
+    padding:0;
+
+    .about-logo {
+      height: 3rem;
+      margin:0;
+      a {
+        display:block;
+        margin:0;
+        padding:0;
+
+        svg {
+          height:3rem;
+          width:auto;
+        }
+      }
+    }
+  }
+
+  /* ToC */
+  @page toc {
+    @bottom-left {
+      content: none;
+    }
+
+    @bottom-right {
+      content: none;
+    }
+  }
+
+  .quire-page.quire-contents {
+    $counter-margin: 36pt;
+    break-inside: avoid;
+    page-break-before: right;
+    page: toc;
+    counter-reset: page 5;
+
+    .quire-page__header.hero {
+      margin:0;
+
+      .hero-body {
+        margin:0;
+        padding:0;
+
+        .quire-page__header__title {
+          color: $orange;
+          font-size: 18pt;
+          margin: 0 calc(#{$counter-margin} + 25pt) 36pt 0;
+          text-align: right;
+          text-transform: uppercase;
+        }
+      }
+    }
+
+    .section.quire-page__content {
+      margin:0;
+      max-width: none;
+
+      .container {
+        display: flex;
+        flex-flow: row-reverse nowrap; // Right justify content
+        margin:0;
+        padding:0;
+        max-width: none;
+
+        .quire-contents-list.list {
+          margin: 0;
+          width: 100%;
+          max-width: 360pt;
+
+          .table-of-contents {
+            margin: 0;
+            width: 100%;
+            max-width: none;
+
+            .table-of-contents-list {
+              margin: 0; // How many margins do we really need to unset?
+              width:100%;
+              max-width:none;
+
+              .section-item, .page-item {
+                margin: 0 0 21pt 0;
+                padding-right: $counter-margin;
+                text-align: right;
+
+                & > a {
+                  $toc-font: 9pt;
+                  position: relative;
+
+                  .contents-page-title {
+                    color: $orange;
+                    display: inline;
+                    font-size: $toc-font;
+                  }
+                  .contributor {
+                    display: inline-block;
+                    font-size: $toc-font;
+                    &::before {
+                      content: ' | ';
+                      margin: 0 .25em;
+                    }
+                  }
+
+                  &::after {
+                    font-size: $toc-font;
+                    position: absolute;
+                    bottom: 0;
+                    right: calc(0 - #{$counter-margin});
+                    content: target-counter(attr(href, url), page);
+                    margin: 0 0 2pt $counter-margin;
+                    text-align: right;
+                    width: 21pt;
+                  }
+                }
+
+                &:first-child {
+                  & > a::after {
+                    content: target-counter(attr(href, url), page, lower-roman);
+                    font-style: normal;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+/***************************************************************************
+ * Page numbering and forced breaks
+****************************************************************************/
+  .quire-essay {
+    page-break-before: right;
+  }
+  .essay-luis {
+    counter-reset: page 9;
+  }
+
+/***************************************************************************
+ * Page-specific customizations
+****************************************************************************/
+  #intro-fig-1, #intro-fig-2, #intro-fig-3 {
+    -prince-float: top;
+    margin-top:0;
+  }
+
+  #luis-fig-1, #luis-fig-2, #luis-fig-3, #luis-fig-4, #luis-fig-5 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    margin-top: 0;
+  }
+
+  #essay-luis .quire-page__content .container .content .accordion-section__body {
+    ul {
+      list-style: disc outside;
+      margin: 24pt 0;
+
+      li {
+        box-sizing: border-box;
+        list-style: disc outside;
+        margin-bottom:0;
+        margin-top:0;
+        padding:0;
+
+        p { // Why are there paragraphs inside li elements? Shitty markdown interpreter?
+          margin:0;
+          padding:0;
+        }
+
+        &::before {
+          content: none;
+          display: none;
+        }
+      }
+    }
+  }
+
+  #rivas-fig-1, #rivas-fig-2, #rivas-fig-3, #rivas-fig-4, #rivas-fig-6, #rivas-fig-7 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    margin-top: 0;
+  }
+
+  #rivas-fig-5 {
+    margin-bottom:4em;
+  }
+
 }

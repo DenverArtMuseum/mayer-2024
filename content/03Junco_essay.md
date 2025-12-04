@@ -3,8 +3,6 @@ title: An Ocean of Blue and White
 subtitle: Archaeological Excavations at the Port of Acapulco
 layout: essay
 order: 70
-classes:
-  - page-one
 contributor:
   - id: Junco
 ---

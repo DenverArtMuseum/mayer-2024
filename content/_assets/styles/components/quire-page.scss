@@ -246,9 +246,10 @@ body {
         }
 
         ul {
-          list-style: none;
+          //list-style: none;
           li {
             margin-left: 1em;
+            /* What a weird thing too
             &:before {
               @if $theme == classic {
                 content: "✦";
@@ -263,6 +264,7 @@ body {
               box-sizing: border-box;
               vertical-align: text-top;
             }
+            */
           }
         }
 
@@ -376,21 +378,7 @@ body {
           * {
             line-height: $quire-backmatter-line-height;
           }
-          @if $theme == classic {
-            ul {
-              li {
-                &:before {
-                  content: "✦";
-                  font-size: 1em;
-                  display: inline-block;
-                  width: 1em;
-                  margin-left: -0.75em;
-                  box-sizing: border-box;
-                  vertical-align: text-bottom;
-                }
-              }
-            }
-          }
+
         }
       }
       &.is-fullhd {

@@ -177,6 +177,10 @@ $print-trim: $print-bleed * 2;
     }
   }
 
+  @page :left:blank {
+    background-color: $orange;
+  }
+
   @page :blank {
     @bottom-left {
       content: none;
@@ -214,6 +218,7 @@ $print-trim: $print-bleed * 2;
 
   // Adds page numbering with dotted leaders in PrinceXML
   // uses .pagedjs_pages class to handle fallback in Paged.js
+  /*
   .quire-contents-list {
     .section-item > a {
       max-width: 90%;
@@ -228,10 +233,10 @@ $print-trim: $print-bleed * 2;
       }
     }
     .section-item.frontmatter-page > a::after {
-      content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+      content: leader(dotted) ' 'target-counter(attr(href, url), page);
       font-style: italic;
       .pagedjs_pages & {
-        content: target-counter(attr(href), page, lower-roman);
+        content: target-counter(attr(href), page);
         float: right;
       }
     }
@@ -247,17 +252,20 @@ $print-trim: $print-bleed * 2;
         }
       }
       &.frontmatter-page > a::after {
-        content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+        content: leader(dotted) ' 'target-counter(attr(href, url), page);
         font-style: italic;
         margin-left: 6pt;
         margin-right: -10%;
         .pagedjs_pages & {
-          content: target-counter(attr(href), page, lower-roman);
+          content: target-counter(attr(href), page);
           float: right;
         }
       }
     }
     &.grid {
+      .table-of-contents-list {
+        display: none;
+      }
       .page-item {
         a::after,
         a.frontmatter-page::after {
@@ -270,6 +278,7 @@ $print-trim: $print-bleed * 2;
       }
     }
   }
+*/
 
 // Assigning page types
 // -----------------------------------------------------------------------------
@@ -321,7 +330,7 @@ $print-trim: $print-bleed * 2;
   }
 
   .quire-contents {
-    page: no-footer;
+    //page: no-footer;
   }
 
   .quire-cover {
@@ -332,7 +341,7 @@ $print-trim: $print-bleed * 2;
 // -----------------------------------------------------------------------------
   .quire-page__content {
     column-count: 1;
-    max-width: $print-base-text-column-width;
+    //max-width: $print-base-text-column-width;
     margin: 0 auto;
 
     .quire-contents & {
@@ -351,7 +360,7 @@ $print-trim: $print-bleed * 2;
       .quire-essay &,
       .quire-entry & {
         column-count: 2;
-        column-fill: balance;
+        column-fill: auto;
         column-gap: .1875in;
         max-width: 100%;
         margin: 0;
@@ -553,10 +562,12 @@ $print-trim: $print-bleed * 2;
   .quire-page__content .container .content ul {
     margin-left: 1rem;
   }
+  /* Not only is the custom list marker a weird thing to do, this is the wrong way to do it.
   .quire-page__content .container .content ul li:before {
     margin-top: .15em;
     font-size: 7pt;
   }
+  */
   .quire-page__content .container .content hr:after {
     font-size: 7pt;
   }
@@ -596,7 +607,7 @@ $print-trim: $print-bleed * 2;
     font-family: $quire-headings-font;
 
     * {
-      max-width: 5.5in;
+      //max-width: 5.5in;
     }
 
     .title {
@@ -633,9 +644,9 @@ $print-trim: $print-bleed * 2;
   .copyright-page {
     color: $print-text-color;
     column-count: 1;
-    font-size: .75rem;
+    font-size: 8pt;
     margin: 0;
-    max-width: 100%; 
+    max-width: 360pt; 
     .quire-page__header {
       display: none;
     } 

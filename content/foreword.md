@@ -1,7 +1,10 @@
 ---
 title: Director's Foreword
-layout: splash
+layout: essay
 order: 10
+classes:
+  - foreword
+  - frontmatter
 contributor:
   - id: Heinrich
 ---
