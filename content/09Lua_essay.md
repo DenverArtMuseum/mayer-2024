@@ -3,6 +3,8 @@ title: Cut from the World
 subtitle: Philippine *Piña* Fabric in the East India Marine Society Collection
 layout: essay
 order: 60
+classes:
+  - essay-lua
 contributor:
   - id: Lua
 ---

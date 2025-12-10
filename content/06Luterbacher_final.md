@@ -3,6 +3,8 @@ title: “Graceful, Rich, and Pleasing to the Eye”
 subtitle: Seamless Facture Across the Pacific
 layout: essay
 order: 115
+classes:
+  - essay-luterbacher
 contributor:
   - id: Luterbacher
 ---

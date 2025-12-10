@@ -456,8 +456,29 @@
   .quire-essay {
     page-break-before: right;
   }
+  .foreward {
+    counter-reset: page 7;
+  }
   .essay-luis {
     counter-reset: page 9;
+  }
+  .essay-corrigan {
+    counter-reset: page 39;
+  }
+  .essay-lua {
+    counter-reset: page 57;
+  }
+  .essay-connors-mcquade {
+    counter-reset: page 89;
+  }
+  .essay-kasl {
+    counter-reset: page 105;
+  }
+  .essay-santner {
+    counter-reset: page 123;
+  }
+  .essay-rojas {
+    counter-reset: page 171;
   }
 
 /***************************************************************************

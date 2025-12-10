@@ -3,6 +3,8 @@ title: “Brocades of Gold and Silver upon Silk”
 subtitle: A Microhistory of a Set of Chinese Church Vestments for the Spanish Market
 layout: essay
 order: 50
+classes:
+  - essay-corrigan
 contributor:
   - id: Corrigan
 ---

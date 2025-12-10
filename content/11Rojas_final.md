@@ -2,6 +2,8 @@
 title: Biombos in Modern Mexican Interiors
 layout: essay
 order: 120
+classes:
+  - essay-rojas
 contributor:
   - id: Rojas
 ---
