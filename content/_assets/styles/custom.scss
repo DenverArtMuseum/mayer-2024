@@ -302,7 +302,7 @@
       }
 
       .contributor {
-        font-size: 22pt;
+        font-size: 16pt;
         margin-top: 28pt;
 
         .name {
@@ -313,14 +313,14 @@
 
     .publisher-block {
       .publisher {
-        font-size: 18pt;
+        font-size: 16pt;
       }
     }
   }
 
   .copyright-page {
     break-inside: avoid;
-    font-size: 7.5pt;
+    font-size: 7pt;
     margin-bottom:0;
     padding:0;
 
@@ -484,6 +484,12 @@
 /***************************************************************************
  * Page-specific customizations
 ****************************************************************************/
+  .q-figure--image {
+    &.print-two-columns {
+      column-span: all;
+    }
+  }
+
   #intro-fig-1, #intro-fig-2, #intro-fig-3 {
     -prince-float: top;
     margin-top:0;

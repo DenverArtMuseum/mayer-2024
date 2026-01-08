@@ -25,11 +25,5 @@ toc: false
 </section>
 
 <section class="publisher-block">
-
-{%- for publisher in publication.publisher -%}
-  {%- if publisher.name -%}
-    <p class="publisher">{{ publisher.name }}{% if publisher.location %}, {{ publisher.location }}{% endif %}</p>
-  {%- endif %}
-{%- endfor -%}
-
+  <p class="publisher">Mayer Center for Ancient and Latin American Art at&nbsp;the&nbsp;Denver&nbsp;Art&nbsp;Museum, Denver, CO</p>
 </section>

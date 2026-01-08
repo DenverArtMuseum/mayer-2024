@@ -51,7 +51,7 @@ The titled nobility in Spanish America primarily consisted of the *criollo* elit
 
 The analysis of the referenced documents reveals that Asian artifacts were primarily displayed in spaces designed for social representation—areas intended to showcase wealth and status. Within these spaces, four main areas stand out: table settings, reception rooms, the *estrado* (a woman’s sitting area often used for formal gatherings), and bedrooms. Each of these spaces served as a stage for presenting valuable objects, demonstrating the owner’s affluence and taste for exotic, expensive items. The presence of Asian artifacts in these rooms not only reflected the wealth of the household but also underscored a cultural appreciation for imported, high-quality craftsmanship.
 
-**Viceroy Manuel de Oms y Santa Pau, Lima (1710)**
+## Viceroy Manuel de Oms y Santa Pau, Lima (1710)
 
 Born in 1651 in Barcelona, Manuel de Oms y Santa Pau, first Marquis of Castelldosrius, was appointed viceroy of Peru in 1704, in the midst of the War of the Spanish Succession. His arrival in Lima in 1707 was not without controversy, largely due to the enormous costs of his move to Peru. During his administration, he faced a series of complex problems, including economic instability, tensions between *peninsulares* and creoles, and constant threats from pirates and corsairs. Despite these difficulties, Oms y Santa Pau, a cultured and educated man, tried to modernize the colonial administration and strengthen royal power. However, his tenure was marked by strife and accusations of corruption until his death in office in 1710.[^3]
 
@@ -63,7 +63,7 @@ The marquis also owned inlaid furniture of possible Asian origin, among which st
 
 Among all the inventories studied, that of the marquis is undoubtedly the least informative regarding the geographical origins of the inventoried objects. However, it is particularly revealing in its detailed mention of the geographical provenance of items within the garden pavilion, specifically noting the Chinese origin of the porcelain. This detail is especially significant, as the pavilion was the most luxurious space in the viceregal palace, underscoring the centrality of Asian objects as symbols of wealth and refined taste in early eighteenth-century Lima.
 
-**Viceroy Antonio María de Bucareli y Ursúa, Mexico City (1779)**
+## Viceroy Antonio María de Bucareli y Ursúa, Mexico City (1779)
 
 Born in Seville, Spain, in 1717, Antonio María de Bucareli y Ursúa served as the forty-sixth viceroy of New Spain from 1771 until his death in office in 1779. The son of the second Marquis of Vallehermoso and a member of a wealthy and influential Sevillian family of Florentine origin, Bucareli was a man of refined tastes and significant wealth.[^11]
 
@@ -83,7 +83,7 @@ The most remarkable pieces in Viceroy Bucareli’s Chinese tableware collection 
 
 As the viceroy of New Spain, the king’s representative, and a symbol of the magnificence of the Spanish court, Bucareli was expected to uphold a high level of luxury and pomp in all palace events. By the late eighteenth century, French court customs—introduced to Spain with the Bourbon dynasty’s ascension—were fully assimilated, further refining the etiquette, fashion, and ceremonial splendor that defined the viceroyalty’s elite social life. The lavishness, abundance, and exquisite quality of Bucareli’s table settings reflect both the wealth and grandeur of late eighteenth-century banquets and galas, as well as the sophistication and meticulous attention that elite society devoted to such events.
 
-**The Marchioness of San Jorge, Mexico City (1695)**
+## The Marchioness of San Jorge, Mexico City (1695)
 
 Teresa Francisca María de Guadalupe Retes Paz y Vera (1673–1695), Marchioness of San Jorge, was among the wealthiest women in late-seventeenth-century Mexico City, as the sole heir of the prosperous merchant*don* José de Retes y Ortiz de Largacha. Despite her immense fortune, Teresa’s life was marked by vulnerability; her intellectual disability placed her under the guardianship of her uncles, José Sáez de Retes and Dámaso de Saldívar, following her father’s death. In 1688, she married her first cousin, don Domingo de Retes, in what was likely a marriage of convenience designed to preserve and manage her substantial estate. Her life, however, was tragically short, ending at the age of twenty-two.[^37]
 
@@ -99,7 +99,7 @@ The bedroom, generally adjacent to the estrado, was another important room for s
 
 As in the other inventories previously mentioned, the service for the table often included Asian export goods. Following the custom of the late seventeenth century, the marchioness used an extensive collection of silver for the table service, very likely of Mexican origin, as silversmithing was highly sophisticated in Mexico by the seventeenth century.[^50] However, in addition, she had a large cupboard filled with Chinese porcelain for dining, although the exact contents are not listed.[^51] The inventory, however, details other items in her collection of Chinese porcelain in varying qualities—fine, semi-fine, and ordinary—including numerous cups, bowls, plates, and lidded jars.[^52] Another notable Asian item in her collection, reflecting her passion for chocolate, was a set of a dozen Chinese lacquer *jícaras* (chocolate cups), each paired with a matching lacquer saucer.[^53]
 
-**The Marchioness of Torre Tagle, Lima (1761)**
+## The Marchioness of Torre Tagle, Lima (1761)
 
 Rosa Juliana Sánchez de Tagle e Hidalgo (1687–1761), future Marchioness of Torre Tagle, was born in San Jerónimo de Sayán, Huaura (Peru), to don Francisco Sánchez de Tagle y Castro Velarde, a Spanish nobleman and prosperous merchant, and doña María Josefa Hidalgo Sánchez y Velázquez Gómez, a wealthy heiress of Spanish descent.[^54]
 
@@ -117,7 +117,7 @@ The marchioness of Torre Tagle stored and displayed her porcelain table service,
 
 Inside the cabinet, a considerable array of blue-and-white Chinese porcelain was presented. This collection included a variety of saucers, platters in different sizes and shapes, chocolate cups, salt cellars, lidded cups, gravy boats, and figurines of dogs and lions. This porcelain table service was further complemented by an extensive set of locally crafted silver tableware stored in one of the large mahogany chests. Among the other Asian “treasures” displayed in the luxurious cabinet alongside the Chinese porcelain listed above was an ivory image of the Virgin Mary, two small ivory candlesticks, a black wooden tray from China, and another small round one of enameled metal.
 
-**As a Coda**
+## As a Coda
 
 This limited sample offers a revealing glimpse into the prominence of imported Asian goods within viceregal material culture. While it does not constitute an exhaustive study—such an undertaking would require a far broader selection—this focused analysis, spanning approximately a century, sheds light on the luxury objects present in the homes of the viceregal elite and their specific functions. Moreover, it underscores a notable contrast between New Spain and Peru: Households in New Spain contained significantly more Asian items than their Peruvian counterparts. This disparity is further corroborated by numerous other inventories examined over years of research. The most plausible explanation lies in New Spain’s privileged access to Asian markets via the Manila–Acapulco Galleon trade, which facilitated a steady influx of Asian goods at a lower cost and with greater convenience compared to other parts of Spanish America.
 
