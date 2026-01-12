@@ -8,6 +8,8 @@ public/
 # EleventFetch cache directory
 .cache
 
+*.pdf
+
 # Environment variables
 .env
 .env.*

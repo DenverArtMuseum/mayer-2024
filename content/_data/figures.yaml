@@ -358,14 +358,14 @@ figure_list:
   - id: kasl-fig-4
     src: figures/cmyk/kasl-fig-4.jpg
     label: Fig. 5
-    caption: "Hispano-Philippine artist, *Nave Typus Religionis (Ship of Religion)*, 1600s. Ivory, 10⅛ × 8½ in. (25.7 × 21.5 cm)."
+    caption: "Hispano-Philippine artist, *Nave Typus Religionis (Ship of Religion)*, 1600s. Ivory, 10⅛ × 8½ in. (25.7 × 21.5&nbsp;cm)."
     credit: Museo Nacional de Artes Decorativas, Madrid. Photo courtesy of Ansorena.
     alt: An ivory bas relief of a ship heavily populated with religious figures and a cross for a mast. 
 
   - id: kasl-fig-5
     src: figures/cmyk/kasl-fig-5.jpg
     label: Fig. 6
-    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
+    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, Frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
     credit: "Courtesy of the John Carter Brown Library."
     alt: A print showing two dressed Virgin Mary sculptures. 
 
