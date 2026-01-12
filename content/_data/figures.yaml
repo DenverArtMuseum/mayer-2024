@@ -574,8 +574,7 @@ figure_list:
   - id: onn-fig-2
     src: figures/cmyk/onn-fig-2.jpg
     label: Fig. 2
-    caption: "Unknown artist, Writing cabinet with emblem of Mexico City (detail), Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
-    credit: Asian Civilisations Museum, Singapore [2019-00743].
+    caption: "Detail of fig. 1"
     alt: Closeup view of writing cabinet with emblem of Mexico City. 
 
   - id: onn-fig-3
@@ -623,7 +622,7 @@ figure_list:
   - id: onn-fig-9
     src: figures/cmyk/onn-fig-9.jpg
     label: Fig. 9
-    caption: "Cabinet, India, Gujarat, 1600s. Ivory, rosewood, ebony, silver, and metals, 26 × 19¼ × 11¾ in. (66 × 49 × 30 cm)." 
+    caption: "Cabinet, India, Gujarat, 1600s. Ivory, rosewood, ebony, silver, and metals, 26 × 19¼ × 11¾ in. (66 × 49 × 30&nbsp;cm)." 
     credit: "Asian Civilisations Museum, Singapore [2015-00516]."
     alt: A triangular-shaped cabinet heavily ornamented in wood and metal. 
 
@@ -637,7 +636,7 @@ figure_list:
   - id: onn-fig-11
     src: figures/cmyk/onn-fig-11.jpg
     label: Fig. 11
-    caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214., Mexico, about 1579."
+    caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214, Mexico, about 1579."
     credit: "Biblioteca Nacional de España, Madrid [Vitr/26/11]."
     alt: A painting of Indigenous people offering a wreath or necklace to a man in European clothes. Armored soldiers hold spears.
 
@@ -861,7 +860,7 @@ figure_list:
   - id: santner-fig-2
     src: figures/cmyk/santner-fig-2.jpg
     label: Fig. 2
-    caption: "Unknown artist, *Ramillete*, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
+    caption: "Unknown artist, Ramillete, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
     credit: "Museo de Intramuros, Manila."
     alt: A silver floral ornament. 
 
@@ -889,6 +888,6 @@ figure_list:
   - id: santner-fig-6
     src: figures/cmyk/santner-fig-6.jpg
     label: Fig. 6
-    caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½ in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5 cm)."
+    caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½&nbsp;in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5 cm)."
     credit: Bangko Sentral ng Pilipinas Collection, Manila.
     alt: A silver bed holding a small ivory figurine of the Christ Child. 

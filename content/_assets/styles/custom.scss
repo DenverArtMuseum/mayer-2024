@@ -601,20 +601,26 @@
     margin-top: 0;
   }
 
-  #onn-fig-2, #onn-fig-3, #onn-fig-6, #onn-fig-4, #onn-fig-5, #onn-fig-7,
-  #onn-fig-8, #onn-fig-9, #onn-fig-11, #onn-fig-12, #onn-fig-13,
-  #onn-fig-14, #onn-fig-16, #onn-fig-17 {
+  #onn-fig-3, #onn-fig-6, #onn-fig-4, #onn-fig-5, #onn-fig-7,
+  #onn-fig-8, #onn-fig-9, #onn-fig-10, #onn-fig-11, #onn-fig-12,
+  #onn-fig-13, #onn-fig-14, #onn-fig-15, #onn-fig-16 {
     -prince-float: top;
     -prince-float-reference: column;
     margin-top: 0;
   }
 
-  #onn-fig-10 {
-    margin-bottom: 10em;
+  #onn-fig-2 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    column-span: all;
+    margin-top: 0;
   }
 
-  #onn-fig-15 {
-    margin-bottom: 10em;
+  #onn-fig-17 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    column-span: all;
+    margin-top: 0;
   }
 
   #luterbacher-fig-1, #luterbacher-fig-2, #luterbacher-fig-3, #luterbacher-fig-4,

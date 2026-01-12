@@ -1,6 +1,7 @@
 ---
 title: “Graceful, Rich, and Pleasing to the Eye”
 subtitle: Seamless Facture Across the Pacific
+short_title: “Graceful, Rich, and Pleasing to the Eye”
 layout: essay
 order: 115
 classes:

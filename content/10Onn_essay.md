@@ -24,7 +24,7 @@ While the basic form of these portable writing cabinets is European, imaginative
 
 {% figure 'onn-fig-3' %}
 
-**The Convergence of Global Goods in Multicultural Emporiums**
+## The Convergence of Global Goods in Multicultural Emporiums
 
 Beginning in the late fifteenth century, advances in navigation and ship technology opened new routes between Europe and Africa, Asia, and the Americas. Large vessels carrying substantial cargoes could now sail thousands of miles, which allowed for the rapid expansion of trade, military conquest, and the spread of Christianity, often with tragic results for the Indigenous peoples of the world. As this new trading system established outposts in distant lands, people from various cultures gathered and mingled. Indeed, global trade depended on networks of port cities that became vibrant hubs for the exchange of people, goods, technology, and art.[^3]
 
@@ -34,7 +34,7 @@ The galleons made Manila one of the world’s most vibrant ports, drawing trader
 
 While trade linked Asia and Mexico, it was the interaction of individuals at all levels of society that generated an eclectic material culture. Although the vast majority of surviving Mexican and Philippine colonial art is religious in nature, secular art was also produced for every aspect of colonial society. Elite households in Spain, Portugal, and Mexico often mingled Spanish, Flemish, Italian, German, and Asian furnishings. [^6] Contemporary portraits of wealthy individuals display an array of global objects that flaunt their wealth, influence, and sophistication. In Asia, inventories of the multicultural residents of Malacca and Batavia (present-day Jakarta) reveal that individuals accumulated belongings from Europe, China, Japan, Myanmar, Sulawesi, Java, Sri Lanka, and India, among other places.[^7] The inhabitants of Manila were no different, and by the late sixteenth century, goods converged there from all over the world.[^8]
 
-**Philippine Furniture**
+## Philippine Furniture
 
 The Manila galleons primarily carried Chinese goods to Mexico and beyond. For example, the inventories of ships from 1565 to 1576 (*Caja de Filipinas* or *Contaduría*) regularly list porcelain and silk.[^9] From the mid-seventeenth century, records of porcelain entering and leaving Cavite, the main port of call in the Philippines, diminish significantly, perhaps because export porcelain was reclassified as private trade and would not have appeared in official records.[^10] Moreover, contraband and the falsification of ship registries were common throughout the history of the galleons.[^11] Furniture is nearly absent from galleon records: Isolated examples may have escaped the attention of officials and in any case were not described in detail.[^12] Most cabinets and chests were likely regarded as functional objects meant to transport other commodities, or perhaps they were classified as personal effects to avoid tax.
 
@@ -48,7 +48,7 @@ Early patrons of Philippine furniture were the clergy and Spanish officials who 
 
 Records indicate that many woodworking shops were found along waterways. Furniture makers would have resided in the major trading towns, acquiring the lumber and distributing their finished products by water. Workshops in the province of Batangas were centered in the towns around Taal Lake: Calaca, Lemery-Taal, San Pascual-Bauan, and Lipa. Manila and central Luzon workshops could be found along the riverine settlements from Tondo-Malabon, Meycauayan-Marilao, Baliuag, Malolos, Calumpit, Apalit, Guagua, and the Pampanga river system all the way up to Nueva Ecija.[^16] These workshops flourished over several generations through a system of apprenticeship, while the more popular designs would have persisted over time, often taken up by other furniture workshops.
 
-**San Agustin Church, Manila**
+## San Agustin Church, Manila
 
 The collection of the San Agustin Church in Manila, much of which can be documented to the seventeenth century, exemplifies Philippine furniture. For instance, claw-and-ball feet emerging from beast masks and scalloped carving on the apron can be found in numerous pieces. Sometimes thought to have been made in Guangzhou and then exported to the Philippines, many of these pieces are made of tropical hardwoods, which points to an origin in the Philippines. Contemporary observers noted that there was a thriving community of Chinese furniture makers in Manila, who almost certainly collaborated with Indigenous artists.[^17]
 
@@ -62,19 +62,17 @@ The church of San Agustin possesses numerous pieces of furniture adorned with Ch
 
 The large lectern in the choir loft of the church of San Agustin is said to have been commissioned by Félix Trillo around 1728–34 (fig. 6). The lower part of the choir lectern is a curious mix of motifs, amalgamating Christian figures such as cherubs, angel heads, and Augustinian hearts pierced by two arrows with Western female figures, Chinese mythical guardian dogs, and scrolling clouds. Another choir lectern, in Mexico City Cathedral, was carved out of *tindalo*, a Philippine hardwood, and presented in 1762 by the archbishop of Manila, Manuel Rojo del Río y Vieyra.[^19] It is likely that these examples were produced by Chinese furniture makers in Manila. Within the sacristy of San Agustin, long cabinets (*cajonerías*) line both sides of the hall (fig. 7). These cabinets store liturgical vestments of the priests. The cabinets rest on beast masks with paw feet; the drawers are carved in rich floral reliefs. The massive furniture in this room was commissioned by Dionisio Suárez between 1653 and 1674.[^20] A pair of fall-front cabinets, richly carved in dark hardwood with relief scenes, also bear beast masks and claw-and-ball feet (fig. 8). These examples help to relate the Singapore cabinet to its larger group.
 
-Writing cabinets enjoyed considerable popularity from the sixteenth to the eighteenth centuries. Essentially a small chest of drawers, they had hinged front panels that could be lowered for use as a writing surface. When the fall front is closed, the cabinet could usually be locked for transport or to secure valuables. These intimate pieces of furniture invite close inspection and are often elaborately decorated. As demonstrated, furniture makers in the Americas and Asia contributed new motifs and materials to the genre, especially through the use of rare hardwoods and exotic materials such as ivory, tortoiseshell, and mother-of-pearl. Lacquered cabinets made in China and Japan were exported to the Americas and Europe, and decorative schemes were borrowed from the symbolic systems of China, Renaissance Europe, and Mexico to delight connoisseurs. Specialized forms of art developed along the trade routes, from China—which for centuries had tailored its products specifically to consumers in other cultures—to the Philippines, Mexico, and the rest of the Americas. Many of these works had multiple connections to European and Indigenous artistic traditions, which changed over time.
-
 {% figure 'onn-fig-8' %}
 
-A distinguishing feature of these Philippine cabinets is that the inlays are usually bone rather than ivory. Contemporary pieces made in the Indian regions of Gujarat and Sindh for the Portuguese market and in Agra for the Mughal court commonly employed ivory for inlay decoration (fig. 9). Ivory was not especially rare in the Philippines as it was extensively used for religious sculpture, but it may have been regarded as more appropriate for sacred images, which in turn discouraged its use on secular furniture. There may also have been a more pragmatic reason: Bone was cheaper and more widely available. In Spain’s Nasrid period (1232–1492), artists in Granada often mixed ivory and bone in their inlaid furniture, and this practice may
+Writing cabinets enjoyed considerable popularity from the sixteenth to the eighteenth centuries. Essentially a small chest of drawers, they had hinged front panels that could be lowered for use as a writing surface. When the fall front is closed, the cabinet could usually be locked for transport or to secure valuables. These intimate pieces of furniture invite close inspection and are often elaborately decorated. As demonstrated, furniture makers in the Americas and Asia contributed new motifs and materials to the genre, especially through the use of rare hardwoods and exotic materials such as ivory, tortoiseshell, and mother-of-pearl. Lacquered cabinets made in China and Japan were exported to the Americas and Europe, and decorative schemes were borrowed from the symbolic systems of China, Renaissance Europe, and Mexico to delight connoisseurs. Specialized forms of art developed along the trade routes, from China—which for centuries had tailored its products specifically to consumers in other cultures—to the Philippines, Mexico, and the rest of the Americas. Many of these works had multiple connections to European and Indigenous artistic traditions, which changed over time.
 
 {% figure 'onn-fig-9', 'is-pulled-left' %}
 
+A distinguishing feature of these Philippine cabinets is that the inlays are usually bone rather than ivory. Contemporary pieces made in the Indian regions of Gujarat and Sindh for the Portuguese market and in Agra for the Mughal court commonly employed ivory for inlay decoration (fig. 9). Ivory was not especially rare in the Philippines as it was extensively used for religious sculpture, but it may have been regarded as more appropriate for sacred images, which in turn discouraged its use on secular furniture. There may also have been a more pragmatic reason: Bone was cheaper and more widely available. In Spain’s Nasrid period (1232–1492), artists in Granada often mixed ivory and bone in their inlaid furniture, and this practice may have also been used in making Spanish colonial possessions.[^21] Both ivory and bone were typically shaped, carved, engraved, or pyrographed before being inserted into a wood support. In Baliwag (Bulacan), one of the well-regarded furniture-making towns of the Philippines, were many water buffalo slaughterhouses. The abundant supply of bone might have produced a secondary craft industry of bone inlay to decorate furniture.
+
 {% figure 'onn-fig-10' %}
 
-have also been used in making Spanish colonial possessions.[^21] Both ivory and bone were typically shaped, carved, engraved, or pyrographed before being inserted into a wood support. In Baliwag (Bulacan), one of the well-regarded furniture-making towns of the Philippines, were many water buffalo slaughterhouses. The abundant supply of bone might have produced a secondary craft industry of bone inlay to decorate furniture.
-
-**An Identifiable Workshop?**
+## An Identifiable Workshop?
 
 Though the work in the Asian Civilisations Museum collection is European in form, the object resembles the fine inlaid furniture produced in India for the Portuguese (fig. 10) or even cabinets made in the Americas. However, this example was made in the Philippines.
 
@@ -91,22 +89,21 @@ The front of the writing cabinet is decorated with a diamond intersected by angl
 These closely related cabinets were probably special commissions from important individuals. For example, a chest in the Museo Franz Mayer is decorated with an unidentified coat of arms, surmounted by a three-pointed coronet that identifies the patron as a viscount (fig. 13).[^23] The escutcheon is flanked by two vases filled with flowers and pairs of birds resting on the stalks. At the corners are the floral elements from the Singapore cabinet, though here they are even more explicitly birdlike. Another cabinet in the Museo Franz Mayer displays several cross-cultural elements (fig. 14). The sides show chariots drawn by winged dragons, a European Renaissance motif, perhaps transmitted via a print or drawing. The scrolling vine and flower border resembles a design popular on Chinese blue-and-white porcelain and Indian chintz, which also appears in Mexican *talavera* blue-and-white ceramics. On the lid is an unidentified coat of arms, while the corners are decorated with double-headed birds surmounted with a crown and surrounded by stylized acanthus leaves.[^24] This version is closer to the double-headed Habsburg eagle than the abstracted motif found on the other cabinets. In the Singapore cabinet, the motif no longer even resembles two birds but appears more like a fleur-de-lis bouquet, a motif also found on Philippine altar tables (fig. 15).
 
 {% figure 'onn-fig-13' %}
-
-**Extravagant Variations**
-
-Two impressive cabinets show close affinities with the examples discussed here but are decorated in a more opulent manner (figs. 16 and 17). Complex patterns of vines, figures, and fantastical animals were created by setting engraved pieces of bone into wooden panels. Both pieces share
-
 {% figure 'onn-fig-14' %}
+
 {% figure 'onn-fig-15' %}
 
-a characteristic type of segmented vine formed from interlocking C-shaped sections rather than the continuously flowing tendrils often found in European and Chinese designs. This type of decoration is quite different from the presumably earlier inlaid furniture made by Chinese makers in the Philippines, which is sparer in decoration and often has the double-bird motif (see figs. 1, 12–14). Most of these examples have claw-and-ball feet that emerge from beast masks and the scalloped apron. They have certain similarities with furniture made in India for the Portuguese market, for example, in the fine inlays and combination of European and Asian motifs.[^25]
+## Extravagant Variations
+
+Two impressive cabinets show close affinities with the examples discussed here but are decorated in a more opulent manner (figs. 16 and 17). Complex patterns of vines, figures, and fantastical animals were created by setting engraved pieces of bone into wooden panels. Both pieces share a characteristic type of segmented vine formed from interlocking C-shaped sections rather than the continuously flowing tendrils often found in European and Chinese designs. This type of decoration is quite different from the presumably earlier inlaid furniture made by Chinese makers in the Philippines, which is sparer in decoration and often has the double-bird motif (see figs. 1, 12–14). Most of these examples have claw-and-ball feet that emerge from beast masks and the scalloped apron. They have certain similarities with furniture made in India for the Portuguese market, for example, in the fine inlays and combination of European and Asian motifs.[^25]
 
 {% figure 'onn-fig-16' %}
-{% figure 'onn-fig-17' %}
 
 In a cabinet with ten drawers, the center drawer with a lock is decorated as though it were a coat of arms, with a crown above the metal lock plate, flanked by two lions holding fly whisks (fig. 16).[^26] Beneath the lock plate, male figures holding palm fronds and baskets flank a lotus flower. The combination of Chinese motifs, such as the lotus and lions, with European Renaissance nudes indicates that this cabinet was produced in a cross-cultural environment like Manila. Additional evidence indicates that the maker was Chinese: Most of the drawers are marked with Chinese characters indicating their positions: 東， 中， 西 (right, middle, and left), with additional indications of above and below, 上，下.
 
 The top of this cabinet is decorated with vines from which two half-figures emerge. The lower apron of the cabinet may have been reconfigured to support a cover that is now missing. The original probably had neither a fall front nor a cover.
+
+{% figure 'onn-fig-17' %}
 
 Another writing cabinet with a hinged front is densely inlaid with segmented vines (fig. 17). In the central oval medallion, a large bird spreads its wings, with two smaller birds to either side. This motif closely resembles the Christian symbol of a pelican piercing its breast to feed its young, representing the sacrifice of Christ. A new base was added to the cabinet, apparently using the original feet.
 
@@ -118,7 +115,7 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^2]: The mask decoration has been called that of a lion, beast, ogre, or demon. Early collectors and dealers in the Philippines referred to this type of decoration as *demonyo* (Tagalog for demon) or *dinemonyo*. For this paper, the design is called the beast mask.
 
-[^3]: Clement Onn, “Across the Pacific: Artistic Exchanges Around the Globe,” in Onn et al, *Across the Pacific*, 14.
+[^3]: Clement Onn, “Across the Pacific: Artistic Exchanges Around the Globe,” in Onn et al., *Across the Pacific*, 14.
 
 [^4]: D. R. M. Irving, *Colonial Counterpoint: Music in Early Modern Manila* (Oxford, 2010), 32; the original text is on 245n29.
 
@@ -136,7 +133,7 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^11]: Arturo Giráldez, *The Age of Trade: The Manila Galleons and the Dawn of the Global Economy* (Bloomsbury, 2015), 178.
 
-[^12]: Jorge Loyzaga, “The Influence of Oriental Trade on Mexican Art, Culture, and Folklore,” in *The Manila Galleon: Crossing the Atlantic*, ed. Edgardo J. Angara et al (READ Foundation, 2014), 94.
+[^12]: Jorge Loyzaga, “The Influence of Oriental Trade on Mexican Art, Culture, and Folklore,” in *The Manila Galleon: Crossing the Atlantic*, ed. Edgardo J. Angara et al. (READ Foundation, 2014), 94.
 
 [^13]: Ambeth R. Ocampo, *Cabinet of Curiosities: History from Philippine Artifacts* (Anvil Publishing, 2023), 96.
 
