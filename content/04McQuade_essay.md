@@ -9,7 +9,7 @@ contributor:
   - id: McQuade
 ---
 
- It is impossible to walk through the historic center of the city of Puebla de los Ángeles (known as Puebla) without encountering the myriad shops lined with colorful glazed pottery, popularly known as *talavera poblana*.[^1] In addition to vibrant tableware, ceramic tiles adorn the walls and floors of religious and civic buildings including the endless church domes that define the city’s skyline. These colorful remnants speak to the long tradition that began nearly five hundred years ago with the founding of the city.
+It is impossible to walk through the historic center of the city of Puebla de los Ángeles (known as Puebla) without encountering the myriad shops lined with colorful glazed pottery, popularly known as *talavera poblana*.[^1] In addition to vibrant tableware, ceramic tiles adorn the walls and floors of religious and civic buildings including the endless church domes that define the city’s skyline. These colorful remnants speak to the long tradition that began nearly five hundred years ago with the founding of the city.
 
 During the viceregal period of New Spain (1519–1821)—as Mexico was known—Puebla pottery gained widespread popularity across the Americas, reaching regions throughout Central and South America, the Caribbean, and present-day southeastern and southwestern United States. Despite fluctuations in production over the centuries, the tradition has persisted without interruption. Today, Puebla’s ceramic tradition is celebrated internationally; however, little attention is given to the individuals who created these renowned wares. This essay aims to shed light on the artisans behind Puebla’s famed ceramics and to associate specific pieces with the potters and their workshops.
 
@@ -74,7 +74,7 @@ The letter “F” is another important mark found on vessels and a series of ti
 {% figure 'connors-mcquade-fig-14' %}
 {% figure 'connors-mcquade-fig-15' %}
 
-they resemble the style of decoration found in Kraak porcelain from the Ming dynasty (1368–1644)—a style that became increasingly popular among Puebla workshops by the turn of the eighteenth century. An excellent example of this type of design was uncovered from a site excavated during the renovation of the Franz Mayer Museum in Mexico City (fig. 16).
+they resemble the style of decoration found in Kraak porcelain from the Ming dynasty (1368–1644)—a style that became increasingly popular among Puebla workshops by the turn of the eighteenth century. An excellent example of this type of design was uncovered from a site excavated during the renovation of the Franz Mayer Museum in Mexico City (fig.&nbsp;16).
 
 {% figure 'connors-mcquade-fig-16', 'is-pulled-right' %}
 

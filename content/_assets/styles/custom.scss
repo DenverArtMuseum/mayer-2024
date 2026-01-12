@@ -544,12 +544,24 @@
     margin-top: 0;
   }
 
+  #corrigan-fig-16 {
+    -prince-float: top;
+    -prince-float-reference: column;
+  }
+
   #lua-fig-1, #lua-fig-2, #lua-fig-3, #lua-fig-4, #lua-fig-5, #lua-fig-6,
-  #lua-fig-7, #lua-fig-8, #lua-fig-10, #lua-fig-11, #lua-fig-12, #lua-fig-13,
+  #lua-fig-7, #lua-fig-8, #lua-fig-11, #lua-fig-12, #lua-fig-13,
   #lua-fig-14 {
     -prince-float: top;
     -prince-float-reference: column;
     margin-top: 0;
+  }
+
+  #lua-fig-10 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    margin-top: 0;
+    column-span: all;
   }
 
   #junco-fig-1, #junco-fig-2, #junco-fig-3, #junco-fig-4, #junco-fig-9, #junco-fig-10,
