@@ -477,8 +477,8 @@
   .essay-santner {
     counter-reset: page 123;
   }
-  .essay-rojas {
-    counter-reset: page 171;
+  .essay-luterbacher {
+    counter-reset: page 155;
   }
 
 /***************************************************************************
@@ -623,18 +623,31 @@
     margin-top: 0;
   }
 
-  #luterbacher-fig-1, #luterbacher-fig-2, #luterbacher-fig-3, #luterbacher-fig-4,
-  #luterbacher-fig-5, #luterbacher-fig-6 {
+  #luterbacher-fig-2, #luterbacher-fig-4, #luterbacher-fig-5 {
     -prince-float: top;
     -prince-float-reference: column;
     margin-top: 0;
   }
 
+  #luterbacher-fig-1, #luterbacher-fig-3, #luterbacher-fig-6 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    column-span: all;
+    margin-top: 0;
+  }
+
   #rojas-fig-1, #rojas-fig-2, #rojas-fig-3, #rojas-fig-5, #rojas-fig-6,
-  #rojas-fig-7, #rojas-fig-8, #rojas-fig-9, #rojas-fig-10, #rojas-fig-11,
+  #rojas-fig-8, #rojas-fig-9, #rojas-fig-10, #rojas-fig-11,
   #rojas-fig-12, #rojas-fig-13, #rojas-fig-14, #rojas-fig-15 {
     -prince-float: top;
     -prince-float-reference: column;
+    margin-top: 0;
+  }
+
+  #rojas-fig-7 {
+    -prince-float: top;
+    -prince-float-reference: column;
+    column-span: all;
     margin-top: 0;
   }
 }

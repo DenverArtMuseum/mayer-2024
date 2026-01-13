@@ -682,20 +682,6 @@ figure_list:
     credit: Museo Franz Mayer, Mexico City [00415].
     alt: A wooden box with intricate vegetal motifs. 
 
-  - id: rojas-fig-1
-    src: figures/cmyk/rojas-fig-1.jpg
-    label: Fig. 1
-    caption: "Unknown artist, *Peres Maldonado Ex-voto*, Mexico, 1770. Oil on canvas, 27¼ × 36½ in. (69.2 × 92.7 cm)."
-    credit: "Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10."
-    alt: A painting of a priest holding up a veiled woman having a chest operation in her bedroom. Spectators gather around her bed to observe. On the right is an altar table with status of the Virgin and Child, Christ on the Cross, and framed devotional paintings.
-
-  - id: rojas-fig-2
-    src: figures/cmyk/rojas-fig-2.jpg
-    label: Fig. 2
-    caption: "Unknown artist, Copy of mid-eighteenth-century biombo showing a fête-galante in the house of Manuel and Teresa Barbachano Ponce, Mexico City, 1978. Oil on panel."
-    credit: "© Bob Schalkwijk."
-    alt: A black and white photograph of a 10-panel biombo in the middle of a living room. The biombo shows aristocratic men and women enjoying food and live music in an outdoor garden.
-
   - id: rivas-fig-1
     src: figures/cmyk/rivas-fig-1.jpg
     label: Fig. 1
@@ -758,6 +744,20 @@ figure_list:
     caption: "Facade of Torre Tagle Palace, Lima, Peru, built ca. 1738. Postcard, 1920s."
     credit: "Courtesy the author."
     alt: A black-and-white photograph of a row of buildings receding into the background.
+
+  - id: rojas-fig-1
+    src: figures/cmyk/rojas-fig-1.jpg
+    label: Fig. 1
+    caption: "Unknown artist, *Peres Maldonado Ex-voto*, Mexico, 1770. Oil on canvas, 27¼ × 36½ in. (69.2 × 92.7 cm)."
+    credit: "Davis Museum at Wellesley College: Museum purchase with funds provided by Wellesley College Friends of Art, 2004.10."
+    alt: A painting of a priest holding up a veiled woman having a chest operation in her bedroom. Spectators gather around her bed to observe. On the right is an altar table with status of the Virgin and Child, Christ on the Cross, and framed devotional paintings.
+
+  - id: rojas-fig-2
+    src: figures/cmyk/rojas-fig-2.jpg
+    label: Fig. 2
+    caption: "Unknown artist, Copy of mid-eighteenth-century biombo showing a fête-galante in the house of Manuel and Teresa Barbachano Ponce, Mexico City, 1978. Oil on panel."
+    credit: "© Bob Schalkwijk."
+    alt: A black and white photograph of a 10-panel biombo in the middle of a living room. The biombo shows aristocratic men and women enjoying food and live music in an outdoor garden.
 
   - id: rojas-fig-3
     src: figures/cmyk/rojas-fig-3.jpg

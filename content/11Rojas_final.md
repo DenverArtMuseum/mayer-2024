@@ -1,5 +1,6 @@
 ---
 title: '<i lang="es">Biombos</i> in Modern Mexican Interiors'
+short_title: 'Biombos in Modern Mexican Interiors'
 layout: essay
 order: 120
 classes:
@@ -14,7 +15,7 @@ Folding screens were then reinvented in the twentieth century by Mexican modern 
 
 This essay identifies three ways in which to explore the biombo in modern interiors. First, antique screens appeared in modern interiors as status objects that reaffirmed their owners’ links to the colonial past. Second, biombos were used as supports for artistic expressions that sought to vindicate Mexican folk arts and traditions: In this case, the format of the screen itself may have contributed to the perceived Mexicanness of the object (in other words, these artists may have seen the biombo as a traditionally Mexican support). Finally, modern screens were stripped of their most obvious references to the past or tradition: Lacking iconography, they became vehicles for different architectural and material discourses. At the same time, their function changed, and they were sometimes transformed into a fixed architectural element, becoming an extension of the building and abandoning the portability that had originally contributed to their popularity.
 
-**Origins**
+## Origins
 
 The word “biombo” is a corruption of the Japanese *byōbu* (wind wall), and it remains the only term used in Mexico today, demonstrating its enduring link to Asia.[^1] Folding screens were first introduced to the Iberian world as diplomatic gifts from Japanese envoys in the sixteenth and early seventeenth centuries and were soon shipped across the Pacific via the Manila Galleon to eager consumers in New Spain.[^2] The first screens to arrive were made of layered paper stretched over a wooden frame and adorned with ink washes and gold ornamentation, trimmed by lacquer and silk edging. Almost immediately on arriving in the Mexican capital, local artists began to reinvent the Japanese screen according to local tastes using readily available materials like cotton canvas and oil paints.[^3] In the hands of New Spain’s painters, biombos became important supports for secular subjects in the seventeenth and eighteenth centuries, in contrast to the religious themes that otherwise predominated. They often featured historical scenes like the Conquest of Mexico, literary characters, mythological allegories, landscapes, and scenes of leisurely life (*fêtes galantes*), but they could also be covered with decorative patterns, especially on the reverse face. Because they were typically painted with complex iconographic programs, biombos were considered art objects rather than furniture in the colonial period.[^4]
 
@@ -24,7 +25,7 @@ Whether made locally or imported, the screens’ association with not only the l
 
 While the biombo never lost its link to Asia—in 1726, the *Diccionario de Autoridades* still noted: “It is a treasure that came to us from China or Japan” (*Es alhaja que nos vino modernamente de la China o Japón*)—its reinterpretation by local artists transformed it into a fundamentally New Spanish object.[^5] With the end of the galleon trade, the fashion for Asian goods diminished, and over the course of the nineteenth century, the production of biombos rapidly declined. Biombos ceased to be decorated with sophisticated programs drawn from mythology or landscape painting, instead becoming folk objects featuring phytomorphic or abstract decorations.
 
-**Repurposing Antique Screens**
+## Repurposing Antique Screens
 
 Until rather recently, historians of Mexican furniture—few though they were—paid less attention to the biombo than to furnishings like chests, chairs, or tables. Abelardo Carrillo y Gariel’s *Evolución del mueble en México* (1957) was one of the first studies to trace a continuous and convincing history of furniture in Mexico, including prehispanic versions. He focused on chairs and other seating and relegated the screen to the end of the book, including only three examples. One of them is a famous eighteenth-century biombo depicting a *sarao* (a type of courtly dance) in a garden by Miguel Gerónimo Zendejas (1724–1815), now in the National Museum of History in Mexico City. While undoubtedly an important artwork, Gariel ignores other examples of great historical importance and omits references to the evolution of the biombo, which he includes for chairs and tables.[^6] This is common in publications dedicated to the history of Mexican furniture at mid-century: The biombo is acknowledged as an important historic object, but without information on its development, it appears immutable. Only later would designers and historians acknowledge the evolution of screens and their links to contemporary production.
 
@@ -53,17 +54,17 @@ In the 1970s, antique biombos also appeared in the country’s leading design ma
 
 The biombo was promoted as a useful element in interior decoration, as well as an example of what to collect. It was so ubiquitous that the editors even published instructions for how to make one’s own folding screen, noting its long history as a type of furniture.[^13] In another essay focused on biombos, published in August 1970, the magazine explained the two roles of these screens, both traditional and current:
 
-> In classic interiors the biombo is, generally, antique and in the case of being a work of art, it gives more relevancy to its surroundings. . . . The concept of the biombo itself and its usefulness have changed a lot in recent times, it is no longer just a means of protecting something from prying eyes. At present, it is an element of decoration with a life of its own that is used in different ways.[^14]
+> In classic interiors the biombo is, generally, antique and in the case of being a work of art, it gives more relevancy to its surroundings… The concept of the biombo itself and its usefulness have changed a lot in recent times, it is no longer just a means of protecting something from prying eyes. At present, it is an element of decoration with a life of its own that is used in different ways.[^14]
 
-**The Biombo as Support**
+## The Biombo as Support
 
 Although *japonisme* had been an important part of colonial Mexican visual culture, the renewed fervor for Japan that struck the West in the nineteenth century did not find fertile ground in Mexico. By the beginning of the twentieth century, only a few of its intellectuals had visited Japan, and the influence of the Asian nation on design and architecture was negligible. The multi-hyphenate José Juan Tablada (poet, art critic, diplomat, and journalist) was a rare exception, and while his enthusiasm for Japanese art and culture was great, it was not part of a larger wave.[^15] The relevance of the biombo in this period resulted from its position as an icon of Mexican material culture rather than as a Japanese export.
+
+{% figure 'rojas-fig-7' %}
 
 Early-twentieth-century artists used the format of the biombo as a support for more nationalist artistic expressions. One of the earliest examples of this impulse is a 1929 screen by Roberto Montenegro (1885–1968), one of the pioneers of the muralist movement in the early 1920s and a close collaborator of José Vasconcelos, Secretary of Public Education and intellectual architect of the new Mexican art.[^16] Across six panels, Montenegro depicted a map of the Mexican Republic in which images of popular arts, flora and fauna, and typical dances are placed across the landscape, as if they were part of the Mexican geography (fig. 7). A direct prototype was the work of nineteenth-century cartographer Antonio García Cubas, who used this strategy to depict Mexico’s resources and encourage economic development, partly for foreign audiences.[^17] As Delia Cosentino and Adriana Zavala have shown, the use of a screen was a way of elevating the popular arts (illustrated on the map) to the field of fine arts, a crucial part of the post-revolutionary discourse that shaped the early years of Mexican muralism.[^18] This biombo was painted the same year that Montenegro, together with diplomat Moisés Sáenz, founded the Museum of Popular Arts in Mexico City. This work would affirm the status of the biombo as a Mexican folk art object divorced from its Japanese origins.[^19]
 
 Montenegro repeated this formula in 1951: Across four panels, he reproduced a lithograph of the bay of Acapulco from 1628, a work by Dutch artist Adrian Boot. Montenegro even copied the cartouche—an element present in colonial biombos that narrated battles or showed local fiestas—that held a legend to the map. In doing so, Montenegro referenced the tradition of mestizo and Indigenous artists in New Spain who reproduced European designs entirely, including cartouches and other editorial details like engravers’ signatures.[^20]
-
-{% figure 'rojas-fig-7' %}
 
 Another of these pictorial screens was painted by the Austrian American artist, curator, and collector René d’Harnoncourt. D’Harnoncourt arrived in Mexico in 1925, where he met the antiquarian and dealer Frederick Davis, with whom he traveled the country buying and studying antiques and popular arts.[^21] Painted in 1931, *View of Miacatlán* measures about five feet tall and shows the bucolic and idealized Indigenous village of Miacatlán, located in the state of Morelos, south of Mexico City. D’Harnoncourt emphasized the traditional houses and local residents, ignoring the seventeenth-century church and nineteenth-century buildings in the town. An inscription at the bottom of the biombo recalls less the cartouches on colonial screens than those on popular ex-votos that detail miraculous events. D’Harnoncourt was certainly familiar with the ex-voto tradition, since he included several examples in the exhibition *Mexican Arts* that he curated for The Metropolitan Museum of Art in 1930. He included no biombos in that show but surely knew of them through Davis’s shop.[^22] It recalls colonial biombos showing Indigenous life, like the famous seventeenth-century screen at the Los Angeles County Museum of Art showing festivities, including *voladores*, at an Indigenous wedding. In *View of Miacatlán*, however, d’Harnoncourt mixed colonial and folk art to create something new.
 
@@ -77,7 +78,7 @@ Around the same time, other prominent artists such as David Alfaro Siqueiros (18
 
 The fact that Siqueiros used the biombo format not only proves the relentless experimental drive of the artist but also the uninterrupted presence of the folding screen in Mexican life. Siqueiros created several of these maquettes, probably as experiments that later influenced major works of architecture like the Polyforum in Mexico City or his studio “La Tallera” in Cuernavaca, where leaning walls with corners at acute angles were intensified by the painter’s abstract compositions. Thus, biombos remained a typology associated with art, constantly being revisited as a support for painting, even for abstract and experimental works of art, only in this case, completely disengaged from domestic interiors.
 
-**The Architectural Screen**
+## The Architectural Screen
 
 At mid-century, several interior and furniture designers, including Arturo Pani—whose use of antiques has been discussed—and Luis Barragán (1902–1988), whose plain biombos are perhaps the most well-known, brought the screen into the modern home. In the process, they were drained of iconography, and materiality became more important. In their mid-century revival, biombos were considered part of the architectural space, especially their impact on spatial movement and light.
 
@@ -102,7 +103,7 @@ By the mid-1950s, Barragán had mastered the use of biombos as a defining archit
 
 For Barragán, the materiality of these screens was of the utmost importance; their materials and handmade facture connected them to folk art and the colonial past, allowing him to modernize tradition. Almost at the same time Barragán was furnishing his house in Tacubaya, Charles (1907–1978) and Ray (1912–1988) Eames were designing their own folding screen but moving in an opposite direction, creating an industrially produced object with uniform and smooth modular plywood sheets joined with hidden hinges. Although the biombo typology was widespread and contemporary designers were using it in different parts of the world, its symbolic charge was different in Mexico, where even in the most abstract examples it was linked to New Spain.
 
-Barragán’s use of screens and their incursion into modernist architectural spaces had a powerful impact on his circle of friends and collaborators. A fuchsia biombo was placed in the renovated house of Chucho Reyes, a project not officially recognized as Barragán’s work but on which both collaborated. Architect Juan Sordo Madaleno (1916–1985), with whom Barragán worked on many projects, also incorporated screens in his interiors, where they guide the flow of users and light. In his office, a heavy folding wooden door partially divided the room (fig.13). This might be thought of as a sort of biombo, now permanently fixed to the wall and continuing the use of natural wood.[^30]
+Barragán’s use of screens and their incursion into modernist architectural spaces had a powerful impact on his circle of friends and collaborators. A fuchsia biombo was placed in the renovated house of Chucho Reyes, a project not officially recognized as Barragán’s work but on which both collaborated. Architect Juan Sordo Madaleno (1916–1985), with whom Barragán worked on many projects, also incorporated screens in his interiors, where they guide the flow of users and light. In his office, a heavy folding wooden door partially divided the room (fig. 13). This might be thought of as a sort of biombo, now permanently fixed to the wall and continuing the use of natural wood.[^30]
 
 {% figure 'rojas-fig-13' %}
 
@@ -120,13 +121,13 @@ Biombos continued to be part of Mexican art history long after the last galleon 
 
 [^1]: Teresa Castelló Yturbide, *Biombos mexicanos* (Instituto Nacional de Antropología e Historia, 1970), 11.
 
-[^2]: Sofia Sanabrais, “The *Biombo* or Folding Screen in Colonial Mexico,” in *Asia & Spanish America: Trans-Pacific Artistic & Cultural Exchange, 1500–1850*, ed. Donna Pierce and Ronald Otsuka (Denver Art Museum, 2009), 71; Sanabrais, “From *Byōbu* to *Biombo*: The Transformation of the Japanese Folding Screen in Colonial Mexico,” *Art History* 38, no. 4 (2015): 783–84.
+[^2]: Sofia Sanabrais, “The *Biombo* or Folding Screen in Colonial Mexico,” in *Asia & Spanish America: Trans-Pacific Artistic & Cultural Exchange, 1500–1850*, ed. Donna Pierce and Ronald Otsuka (Mayer Center for Pre-Columbian and Spanish Colonial Art at the Denver Art Museum, 2009), 71; Sanabrais, “From *Byōbu* to *Biombo*: The Transformation of the Japanese Folding Screen in Colonial Mexico,” *Art History* 38, no. 4 (2015): 783–84.
 
 [^3]: Sanabrais, “From *Byōbu*,” 785.
 
 [^4]: Sanabrais, “The *Biombo*,” 83.
 
-[^5]: Sanabrais, “From *Byōbu*,” 790. Original found in *Diccionario de la lengua castellana . . .*, vol. 1 (Francisco del Hierro, 1726), 609.
+[^5]: Sanabrais, “From *Byōbu*,” 790. Original found in *Diccionario de la lengua castellana…*, vol. 1 (Francisco del Hierro, 1726), 609.
 
 [^6]: Abelardo Carrillo y Gariel, *Evolución del mueble en México* (Dirección de Monumentos Coloniales, Instituto Nacional de Antropología e Historia y Secretaría de Educación Pública, 1957), 165–67.
 
