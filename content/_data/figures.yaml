@@ -554,7 +554,7 @@ figure_list:
   - id: luterbacher-fig-5
     src: figures/cmyk/luterbacher-fig-5.jpg
     label: Fig. 5
-    caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail)."
+    caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail of fig. 3)."
     alt: A detail of an altar panel showing a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-6
@@ -888,6 +888,6 @@ figure_list:
   - id: santner-fig-6
     src: figures/cmyk/santner-fig-6.jpg
     label: Fig. 6
-    caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½&nbsp;in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5 cm)."
+    caption: "Unknown artist, *Niño dormido*, Philippines, late 1600s–early 1800s. Silver, gold, ivory, cabochon gems, enamel, kingfisher feather, *piña* fiber, and lace. Figure: 7½&nbsp;in. (19 cm); bed: 14⅜ × 9½ × 24⅝ in. (36.5 × 24 × 62.5&nbsp;cm)."
     credit: Bangko Sentral ng Pilipinas Collection, Manila.
     alt: A silver bed holding a small ivory figurine of the Christ Child. 

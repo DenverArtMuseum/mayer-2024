@@ -130,7 +130,7 @@ Sets of vestments all made from the same fabric created a cohesive ensemble for 
 
 [^15]: Elena Phipps, *Looking at Textiles: A Guide to Technical Terms* (J. Paul Getty Museum, 2011), 47; Florence Montgomery, *Textiles in America*, 1984, 274–75.
 
-[^16]: Chen Juanjuan and Huang Nengfu “Silk Fabrics of the Ming Dynasty,” in *Chinese Silks*, ed. Dieter Kuhn (Yale University Press, 2012), 418–20.
+[^16]: Chen Juanjuan and Huang Nengfu, “Silk Fabrics of the Ming Dynasty,” in *Chinese Silks*, ed. Dieter Kuhn (Yale University Press, 2012), 418–20.
 
 [^17]: See also other textile fragments in variants of this pattern in the collection of The Metropolitan Museum of Art ([11.23](https://www.metmuseum.org/art/collection/search/446156),
 [25.120.453](https://www.metmuseum.org/art/collection/search/447812), and [1981.372](https://www.metmuseum.org/art/collection/search/453057)).

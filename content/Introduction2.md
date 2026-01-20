@@ -65,7 +65,7 @@ The 2024 Mayer Center symposium brought together scholars with diverse areas of 
 
 [^1]: Emma Helen Blair and James Alexander Robertson, *The Philippine Islands, 1493–1898*, 55 vols. (The Arthur H. Clark Company, 1905), 36:202, 205.
 
-[^2]: John Francis \[Giovanni Francesco\] Gemelli Careri, “A Voyage Around the World,” in *A Collection of Voyages and Travels: Some now first Printed from Original Manuscripts* . . ., vol. 4 (London: H. C. for Awnsham and John Churchill, 1704), 444.
+[^2]: John Francis \[Giovanni Francesco\] Gemelli Careri, “A Voyage Around the World,” in *A Collection of Voyages and Travels: Some now first Printed from Original Manuscripts* . . ., vol. 4 (H. C. for Awnsham and John Churchill, 1704), 444.
 
 [^3]: See Carolyn Dean and Dana Leibsohn, “Hybridity and Its Discontents: Considering Visual Culture in Colonial Spanish America,” *Colonial Latin American Review* 12, no. 1 (2003): 5–35.
 
