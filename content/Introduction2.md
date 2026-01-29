@@ -3,11 +3,14 @@ title: Introduction
 layout: splash
 order: 20
 contributor:
-    - id: Santner
+    - first_name: Kathryn
+      last_name: Santner
       sort_as: "1"  
-    - id: Corrigan
+    - first_name: Karina H.
+      last_name: Corrigan
       sort_as: "2"
-    - id: Rivas
+    - first_name: 'Jorge F.'
+      last_name: Rivas Pérez
       sort_as: "3"
 ---
 

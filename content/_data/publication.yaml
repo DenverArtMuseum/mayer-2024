@@ -38,8 +38,8 @@ identifier:
 publisher:
   - name: Denver Art Museum
     location: Denver
-    url:
-    logo: logo-getty.png
+    url: https://www.denverartmuseum.org/en/mayer-center-ancient-and-latin-american-art
+    logo:
 
 # ------------------------------------------------------------------------------
 # Contributors
