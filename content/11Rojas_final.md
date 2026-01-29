@@ -98,7 +98,7 @@ By the mid-1950s, Barragán had mastered the use of biombos as a defining archit
 
 For Barragán, the materiality of these screens was of the utmost importance; their materials and handmade facture connected them to folk art and the colonial past, allowing him to modernize tradition. Almost at the same time Barragán was furnishing his house in Tacubaya, Charles (1907–1978) and Ray (1912–1988) Eames were designing their own folding screen but moving in an opposite direction, creating an industrially produced object with uniform and smooth modular plywood sheets joined with hidden hinges. Although the biombo typology was widespread and contemporary designers were using it in different parts of the world, its symbolic charge was different in Mexico, where even in the most abstract examples it was linked to New Spain.
 
-Barragán’s use of screens and their incursion into modernist architectural spaces had a powerful impact on his circle of friends and collaborators. A fuchsia biombo was placed in the renovated house of Chucho Reyes, a project not officially recognized as Barragán’s work but on which both collaborated. Architect Juan Sordo Madaleno (1916–1985), with whom Barragán worked on many projects, also incorporated screens in his interiors, where they guide the flow of users and light. In his office, a heavy folding wooden door partially divided the room (fig.13). This might be thought of as a sort of biombo, now permanently fixed to the wall and continuing the use of natural wood.[^30]
+Barragán’s use of screens and their incursion into modernist architectural spaces had a powerful impact on his circle of friends and collaborators. A fuchsia biombo was placed in the renovated house of Chucho Reyes, a project not officially recognized as Barragán’s work but on which both collaborated. Architect Juan Sordo Madaleno (1916–1985), with whom Barragán worked on many projects, also incorporated screens in his interiors, where they guide the flow of users and light. In his office, a heavy folding wooden door partially divided the room (fig. 13). This might be thought of as a sort of biombo, now permanently fixed to the wall and continuing the use of natural wood.[^30]
 
 {% figure 'rojas-fig-13' %}
 
@@ -116,7 +116,7 @@ Biombos continued to be part of Mexican art history long after the last galleon 
 
 [^1]: Teresa Castelló Yturbide, *Biombos mexicanos* (Instituto Nacional de Antropología e Historia, 1970), 11.
 
-[^2]: Sofia Sanabrais, “The *Biombo* or Folding Screen in Colonial Mexico,” in *Asia & Spanish America: Trans-Pacific Artistic & Cultural Exchange, 1500–1850*, ed. Donna Pierce and Ronald Otsuka (Denver Art Museum, 2009), 71; Sanabrais, “From *Byōbu* to *Biombo*: The Transformation of the Japanese Folding Screen in Colonial Mexico,” *Art History* 38, no. 4 (2015): 783–84.
+[^2]: Sofia Sanabrais, “The *Biombo* or Folding Screen in Colonial Mexico,” in *Asia & Spanish America: Trans-Pacific Artistic & Cultural Exchange, 1500–1850*, ed. Donna Pierce and Ronald Otsuka (Mayer Center for Pre-Columbian and Spanish Colonial Art at the Denver Art Museum, 2009), 71; Sanabrais, “From *Byōbu* to *Biombo*: The Transformation of the Japanese Folding Screen in Colonial Mexico,” *Art History* 38, no. 4 (2015): 783–84.
 
 [^3]: Sanabrais, “From *Byōbu*,” 785.
 

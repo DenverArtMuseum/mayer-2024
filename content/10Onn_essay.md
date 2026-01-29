@@ -102,7 +102,7 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^2]: The mask decoration has been called that of a lion, beast, ogre, or demon. Early collectors and dealers in the Philippines referred to this type of decoration as *demonyo* (Tagalog for demon) or *dinemonyo*. For this paper, the design is called the beast mask.
 
-[^3]: Clement Onn, “Across the Pacific: Artistic Exchanges Around the Globe,” in Onn et al, *Across the Pacific*, 14.
+[^3]: Clement Onn, “Across the Pacific: Artistic Exchanges Around the Globe,” in Onn et al., *Across the Pacific*, 14.
 
 [^4]: D. R. M. Irving, *Colonial Counterpoint: Music in Early Modern Manila* (Oxford, 2010), 32; the original text is on 245n29.
 
@@ -120,7 +120,7 @@ Given their shared materials and decorative schemes, could these inlaid cabinets
 
 [^11]: Arturo Giráldez, *The Age of Trade: The Manila Galleons and the Dawn of the Global Economy* (Bloomsbury, 2015), 178.
 
-[^12]: Jorge Loyzaga, “The Influence of Oriental Trade on Mexican Art, Culture, and Folklore,” in *The Manila Galleon: Crossing the Atlantic*, ed. Edgardo J. Angara et al (READ Foundation, 2014), 94.
+[^12]: Jorge Loyzaga, “The Influence of Oriental Trade on Mexican Art, Culture, and Folklore,” in *The Manila Galleon: Crossing the Atlantic*, ed. Edgardo J. Angara et al. (READ Foundation, 2014), 94.
 
 [^13]: Ambeth R. Ocampo, *Cabinet of Curiosities: History from Philippine Artifacts* (Anvil Publishing, 2023), 96.
 
