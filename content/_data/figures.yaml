@@ -155,7 +155,7 @@ figure_list:
   - id: corrigan-fig-4
     src: figures/inline/corrigan-fig-4.jpg
     label: Fig. 3
-    caption: "Unknown artists, detail of Chinese silk in fig. 1, showing the crimson satin ground and the discontinuous gilded paper floats on a length of silk used to create a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen."
+    caption: "Unknown artists, detail of Chinese silk in fig. 1, showing the crimson satin ground and the discontinuous gilded paper floats on a length of silk used to create a set of liturgical textiles."
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.3A."
     alt: A close-up view of floral motifs on a textile. The cloth is burgundy, the leaves and flowers have green and blue edges and are filled in with yellow thread.
 
@@ -169,7 +169,7 @@ figure_list:
   - id: corrigan-fig-6
     src: figures/inline/corrigan-fig-6.jpg
     label: Fig. 5
-    caption: "Unknown artists, detail of guardian lions and crown motifs in Chinese silk on the underside of the baldachin in fig. 10. From a set of liturgical textiles, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen."
+    caption: "Unknown artists, detail of guardian lions and crown motifs in Chinese silk on the underside of the baldachin in fig. 10."
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.4."
     alt: A close-up view of a red textile adorned with gold lions, a crown at center, and floral motifs throughout.
 
@@ -197,7 +197,7 @@ figure_list:
   - id: corrigan-fig-10
     src: figures/inline/corrigan-fig-10.jpg
     label: Fig. 12
-    caption: "Unknown artists, detail of ink inscription on linen lining of baldachin in fig. 10, China, assembled in Spain, 1580s–1640s. Brocaded silk and cotton tape, lined with linen." 
+    caption: "Unknown artists, detail of ink inscription on linen lining of baldachin in fig. 10." 
     credit: "Peabody Essex Museum, Salem: Museum purchase made possible in part by the Asian Export Art Visiting Committee and an anonymous donor, 2001, AE85947.4."
     alt: A close-up view of the sleeve of a garment decorated with lion and floral motifs.
 
@@ -316,7 +316,7 @@ figure_list:
   - id: junco-fig-11
     src: figures/inline/junco-fig-11.jpg
     label: Fig. 11
-    caption: "A blue-and-white Wanli (1573–1620) plate with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan ao 1* wreck." 
+    caption: "A blue-and-white Wanli (1573–1620) plate with the phoenix design and overglaze enamel, which has disappeared, but the imprint can still be seen under certain angles. Examples of this design can be found in Lima and the *Nan'ao 1* wreck." 
     credit: "Courtesy the author and F. Troncoso, SAS-INAH."
     alt: A shard of the rim of a plate or bowl.
 
@@ -365,7 +365,7 @@ figure_list:
   - id: kasl-fig-5
     src: figures/inline/kasl-fig-5.jpg
     label: Fig. 6
-    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
+    caption: "Nuestra Señora de la Rosa of Makati and Nuestra Señora de la Paz y Buen Viaje of Antipolo, Frontispiece, Pedro Murillo Velarde, *Historia de la provinica de Philipinas de la Compañia de Jesús* (Nicolás de la Cruz Begay, 1749)." 
     credit: "Courtesy of the John Carter Brown Library."
     alt: A print showing two dressed Virgin Mary sculptures. 
 
@@ -554,7 +554,7 @@ figure_list:
   - id: luterbacher-fig-5
     src: figures/inline/luterbacher-fig-5.jpg
     label: Fig. 5
-    caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail)."
+    caption: "*Portable Shrine with Martyrdom of St. Stephen* (detail of fig. 3)."
     alt: A detail of an altar panel showing a kneeling man about to be pelted with stones. 
 
   - id: luterbacher-fig-6
@@ -574,7 +574,7 @@ figure_list:
   - id: onn-fig-2
     src: figures/inline/onn-fig-2.jpg
     label: Fig. 2
-    caption: "Unknown artist, Writing cabinet with emblem of Mexico City (detail), Manila, early 1600s. Wood, bone, and silver, 12¾ × 16⅝ × 13¼ in. (32.5 × 42.2 × 33.6 cm)."
+    caption: "Detail of fig. 1."
     credit: Asian Civilisations Museum, Singapore [2019-00743].
     alt: Closeup view of writing cabinet with emblem of Mexico City. 
 
@@ -637,7 +637,7 @@ figure_list:
   - id: onn-fig-11
     src: figures/inline/onn-fig-11.jpg
     label: Fig. 11
-    caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214., Mexico, about 1579."
+    caption: "Unknown artist, Hernán Cortés meeting a local leader on his way to Tlaxcala, from the *Durán Codex*, fol. 214, Mexico, about 1579."
     credit: "Biblioteca Nacional de España, Madrid [Vitr/26/11]."
     alt: A painting of Indigenous people offering a wreath or necklace to a man in European clothes. Armored soldiers hold spears.
 
@@ -861,7 +861,7 @@ figure_list:
   - id: santner-fig-2
     src: figures/inline/santner-fig-2.jpg
     label: Fig. 2
-    caption: "Unknown artist, *Ramillete*, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
+    caption: "Unknown artist, Ramillete, Philippines, 1700s. Silver, 18⅞ in. (48 cm)." 
     credit: "Museo de Intramuros, Manila."
     alt: A silver floral ornament. 
 

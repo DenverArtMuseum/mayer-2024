@@ -93,7 +93,7 @@ Sets of vestments all made from the same fabric created a cohesive ensemble for 
 
 [^1]: The discipline of microhistory, first developed in the 1970s by Italian historians working with a cache of Catholic Church documents, is “based on the reduction of the scale of observation, on a microscopic analysis, and on intensive study of the documentary material.” Giovanni Levi, “On Microhistory,” in *New Perspectives on Historical Writing*, ed. Peter Burke (Pennsylvania State University Press, 1992), 99.
 
-[^2]: Not illustrated here are the collars for the dalmatics (AE85947.3B and AE85947.4B), the maniples (AE85947.5 and AE85947.6), the stole (AE85947.7), and the fragment (AE85947.8) from the set. The surviving fragment had previously been stitched and lined with plain blue silk.
+[^2]: Not illustrated here are the collars for the dalmatics (AE85947.2AB and AE85947.3B), the maniples (AE85947.5 and AE85947.6), the stole (AE85947.7), and the fragment (AE85947.8) from the set. The surviving fragment had previously been stitched and lined with plain blue silk.
 
 [^3]: Florence Lewis May, *Silk Textiles of Spain: Eighth to Fifteenth Century* (Hispanic Society, 1957), 119, 175–77.
 
@@ -111,11 +111,11 @@ Sets of vestments all made from the same fabric created a cohesive ensemble for 
 
 [^10]: Archivo General de las Notarías del DF, Mexico City, Notario: Andrés Moreno (374), vol. 2464, 105–6, cited in José Luis Gasch-Tomás, “Asian Silk, Porcelain and Material Culture in the Definition of Mexican and Andalusian Elites, c. 1565–1630,” in *Global Goods and the Spanish Empire, 1492–1824: Circulation, Resistance and Diversity*, ed. Bethany Aram and Bartolomé Yun-Casalilla (Palgrave Macmillan, 2014), 171. See footnote 27 for a transcription of all the textiles in the priest’s estate.
 
-[^11]: Archivo General de Indias (hereafter AGI), Seville, Contratación 1830, f. 850–52 and Contratación 1834, f. 1052–55, cited in José L. Gasch-Tomás. *The Atlantic World and the Manila Galleons: Circulation, Market, and Consumption of Asian Goods in the Spanish Empire, 1565–1650* (Brill, 2019), 29–30.
+[^11]: Archivo General de Indias (hereafter AGI), Seville, Contratación 1830, f. 850–52 and Contratación 1834, f. 1052–55, cited in José L. Gasch-Tomás, *The Atlantic World and the Manila Galleons: Circulation, Market, and Consumption of Asian Goods in the Spanish Empire, 1565–1650* (Brill, 2019), 29–30.
 
 [^12]: Javier Pescador, *The New World Inside a Basque Village: The Oiartzun Valley and Its Atlantic Emigrants, 1550–1800*, The Basque Series (University of Nevada, 2003), 37–38, 104. Thank you to Samuel Luterbacher for directing me to this fascinating study.
 
-[^13]: Only a portion of the set survives. Ferreira, “Chasuble,” 140. See vol. 1, 284-85 for color illustrations.
+[^13]: Only a portion of the set survives. Ferreira, “Chasuble,” 140. See vol. 1, 284–85 for color illustrations.
 
 [^14]: A related set of vestments, now dispersed, was made from a similarly long bolt of Chinese export silk with gilt paper floats woven between the 1580s and the 1640s. That silk bolt’s design incorporates Augustinian or Habsburg double-headed eagle motifs rendered in blue, yellow, and white silk on a red satin ground. Textile fragments from this large set survive in multiple public collections. See Royal Ontario Museum for a magnificent cope ([973.422](https://collections.rom.on.ca/objects/424705/figured-silk-cope-with-doubleheaded-eagles;jsessionid=02D6E9090EAC9C6EC38DF746E687428C?ctx=c4640847a5ca7b07e140b935c85da6964f95cd51&idx=0)), the Rijksmuseum for a fragment of a chasuble ([BK-1997-13](https://www.rijksmuseum.nl/en/collection/object/Fragment-of-a-woven-fabric--4ae57e24f289d93725cb47d774d71aad?query=BK-1997-13&collectionSearchContext=Art&page=1&sortingType=Popularity)), and the Victoria & Albert Museum for multiple fragments in the same design ([T.215-1910](https://collections.vam.ac.uk/item/O486944/fragment-unknown/), [T.217-1910](https://collections.vam.ac.uk/item/O486943/fragment-unknown/_), and [T.169-1929](https://collections.vam.ac.uk/item/O486934/length-unknown/_)).
 
